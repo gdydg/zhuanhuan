@@ -1,0 +1,42 @@
+name: Update IPTV Playlist
+
+# 触发条件
+on:
+  schedule:
+    # 每天北京时间 8:00 和 20:00 自动执行 (对应 UTC 时间的 0:00 和 12:00)
+    - cron: '0 0,12 * * *'
+  workflow_dispatch: # 允许手动点击按钮触发运行
+
+# 赋予 GitHub Actions 推送代码的权限
+permissions:
+  contents: write
+
+jobs:
+  update-m3u:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Run conversion script
+        run: python convert.py
+
+      - name: Commit and push changes
+        run: |
+          # 配置 Git 机器人信息
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          # 检查是否有文件更改
+          git add playlist.m3u
+          # 如果文件没有变化，commit 会失败，使用 || exit 0 忽略该错误让流程继续
+          git commit -m "Auto update playlist.m3u" || exit 0
+          
+          # 推送更新到仓库
+          git push
