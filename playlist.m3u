@@ -21,52 +21,38 @@ http://rihou.cc:555/tv/[mv]不必纠结
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="NBA赛评",07:00热火🆚黄蜂
 http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="NBA赛评",粤🔊大D-旁述
+http://rihou.cc:555/tv/18NBA大D述
 #EXTINF:-1 group-title="NBA赛评",国🔊18咪评述
 http://rihou.cc:555/tv/18NBA咪评述
-#EXTINF:-1 group-title="NBA赛评",国🔊18腾评述
-http://rihou.cc:555/tv/18NBA腾评述
 #EXTINF:-1 group-title="NBA赛评",07:00活塞🆚奇才
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="NBA赛评",国🔊18咪述评
 http://rihou.cc:555/tv/18NBA咪述评
-#EXTINF:-1 group-title="NBA赛评",国🔊18腾述评
-http://rihou.cc:555/tv/18NBA腾述评
 #EXTINF:-1 group-title="NBA赛评",07:00雷霆🆚魔术
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="NBA赛评",国🔊18咪评评
 http://rihou.cc:555/tv/18NBA咪评评
-#EXTINF:-1 group-title="NBA赛评",国🔊18腾评评
-http://rihou.cc:555/tv/18NBA腾评评
 #EXTINF:-1 group-title="NBA赛评",07:30步行者🆚尼克斯
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="NBA赛评",国🔊18咪述述
 http://rihou.cc:555/tv/18NBA咪述述
-#EXTINF:-1 group-title="NBA赛评",国🔊18腾述述
-http://rihou.cc:555/tv/18NBA腾述述
 #EXTINF:-1 group-title="NBA赛评",08:00太阳🆚木狼
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="NBA赛评",国🔊18咪旁述
 http://rihou.cc:555/tv/18NBA咪旁述
-#EXTINF:-1 group-title="NBA赛评",国🔊18腾旁述
-http://rihou.cc:555/tv/18NBA腾旁述
 #EXTINF:-1 group-title="NBA赛评",08:00骑士🆚雄鹿
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="NBA赛评",国🔊18咪述旁
 http://rihou.cc:555/tv/18NBA咪述旁
-#EXTINF:-1 group-title="NBA赛评",国🔊18腾述旁
-http://rihou.cc:555/tv/18NBA腾述旁
 #EXTINF:-1 group-title="NBA赛评",10:0076人🆚掘金
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="NBA赛评",国🔊18咪旁旁
 http://rihou.cc:555/tv/18NBA咪旁旁
-#EXTINF:-1 group-title="NBA赛评",国🔊18腾旁旁
-http://rihou.cc:555/tv/18NBA腾旁旁
 #EXTINF:-1 group-title="NBA赛评",10:00马刺🆚国王
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="NBA赛评",国🔊18咪旁评
 http://rihou.cc:555/tv/18NBA咪旁评
-#EXTINF:-1 group-title="NBA赛评",国🔊18腾旁评
-http://rihou.cc:555/tv/18NBA腾旁评
 #EXTINF:-1 group-title="NBA赛评",03-19⬇️NBA常规赛⬇️🏀📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="NBA赛评",07:00勇士🆚凯尔特人
@@ -173,32 +159,128 @@ http://rihou.cc:555/tv/v
 http://rihou.cc:555/tv/20NBA咪旁评
 #EXTINF:-1 group-title="NBA赛评",国🔊20腾旁评
 http://rihou.cc:555/tv/20NBA腾旁评
-#EXTINF:-1 group-title="女足赛评",03-17⬇️女足亚洲杯半决赛⬇️⚽📡
+#EXTINF:-1 group-title="CBA赛评",03-18⬇️CBA常规赛⬇️🏀📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="女足赛评",18:00中国女足🆚澳大利亚女足
+#EXTINF:-1 group-title="CBA赛评",19:35广州朗肽🆚辽宁本钢
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="女足赛评",国🔊咪咕评述
-http://rihou.cc:555/tv/17女足咪咕评述
-#EXTINF:-1 group-title="女篮赛评",03-17⬇️女篮世界杯资格赛⬇️🏀📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="女篮赛评",19:30中国女篮🆚巴西女篮
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="女篮赛评",国🔊咪咕评述
-http://rihou.cc:555/tv/17女篮咪咕评述
-#EXTINF:-1 group-title="CBA赛评",03-17⬇️CBA常规赛⬇️🏀📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="CBA赛评",19:35广东阳光🆚新疆伊力
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="CBA赛评",粤🔊粤kk旁述
-http://rihou.cc:555/tv/17CBA粤kk述
+#EXTINF:-1 group-title="CBA赛评",粤🔊丁伟杰述
+http://rihou.cc:555/tv/18CBA丁伟杰
 #EXTINF:-1 group-title="CBA赛评",粤🔊广东体育
 http://rihou.cc:555/tv/[At|]广东体育
-#EXTINF:-1 group-title="CBA赛评",国🔊17抖评述
-http://rihou.cc:555/tv/17CBA抖评述
-#EXTINF:-1 group-title="CBA赛评",19:35山西汾酒🆚北京控股
+#EXTINF:-1 group-title="CBA赛评",国🔊18抖评述
+http://rihou.cc:555/tv/18CBA抖评述
+#EXTINF:-1 group-title="CBA赛评",19:35青岛崂山🆚江苏肯帝
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="CBA赛评",国🔊17抖述评
-http://rihou.cc:555/tv/17CBA抖述评
+#EXTINF:-1 group-title="CBA赛评",国🔊18抖述评
+http://rihou.cc:555/tv/18CBA抖述评
+#EXTINF:-1 group-title="CBA赛评",19:35上海久事🆚山东高速
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="CBA赛评",国🔊18抖评评
+http://rihou.cc:555/tv/18CBA抖评评
+#EXTINF:-1 group-title="CBA赛评",19:35南京天蓝🆚浙江稠州
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="CBA赛评",国🔊18抖述述
+http://rihou.cc:555/tv/18CBA抖述述
+#EXTINF:-1 group-title="CBA赛评",19:35天津行者🆚深圳马可
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="CBA赛评",国🔊18抖旁述
+http://rihou.cc:555/tv/18CBA抖旁述
+#EXTINF:-1 group-title="CBA赛评",19:35四川丰谷🆚宁波町渥
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="CBA赛评",国🔊18抖述旁
+http://rihou.cc:555/tv/18CBA抖述旁
+#EXTINF:-1 group-title="CBA赛评",03-19⬇️CBA常规赛⬇️🏀📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="CBA赛评",19:35福建晋江🆚北京北汽
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="CBA赛评",国🔊19抖评述
+http://rihou.cc:555/tv/19CBA抖评述
+#EXTINF:-1 group-title="CBA赛评",19:35四川丰谷🆚宁波町渥
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="CBA赛评",国🔊19抖述评
+http://rihou.cc:555/tv/19CBA抖述评
+#EXTINF:-1 group-title="CBA赛评",03-20⬇️CBA常规赛⬇️🏀📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="CBA赛评",19:35广东阳光🆚江苏肯帝
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="CBA赛评",粤'🔊丁伟杰述
+http://rihou.cc:555/tv/20CBA丁伟杰
+#EXTINF:-1 group-title="CBA赛评",粤'🔊广东体育
+http://rihou.cc:555/tv/[At|]广东体育
+#EXTINF:-1 group-title="CBA赛评",国🔊20抖评述
+http://rihou.cc:555/tv/20CBA抖评述
+#EXTINF:-1 group-title="CBA赛评",19:35山东高速🆚天津行者
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="CBA赛评",国🔊20抖述评
+http://rihou.cc:555/tv/20CBA抖述评
+#EXTINF:-1 group-title="CBA赛评",19:35浙江浙商🆚北京控股
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="CBA赛评",国🔊20抖评评
+http://rihou.cc:555/tv/20CBA抖评评
+#EXTINF:-1 group-title="CBA赛评",20:00深圳马可🆚新疆伊力
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="CBA赛评",国🔊20抖述述
+http://rihou.cc:555/tv/20CBA抖述述
+#EXTINF:-1 group-title="CBA赛评",03-21⬇️CBA常规赛⬇️🏀📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="CBA赛评",19:35广州朗肽🆚宁波町渥
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="CBA赛评",粤🔊'丁伟杰述
+http://rihou.cc:555/tv/21CBA丁伟杰
+#EXTINF:-1 group-title="CBA赛评",粤🔊'广东体育
+http://rihou.cc:555/tv/[At|]广东体育
+#EXTINF:-1 group-title="CBA赛评",国🔊21抖评述
+http://rihou.cc:555/tv/21CBA抖评述
+#EXTINF:-1 group-title="CBA赛评",19:35福建晋江🆚山西汾酒
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="CBA赛评",国🔊21抖述评
+http://rihou.cc:555/tv/21CBA抖述评
+#EXTINF:-1 group-title="CBA赛评",19:35辽宁本钢🆚北京北汽
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="CBA赛评",国🔊21抖评评
+http://rihou.cc:555/tv/21CBA抖评评
+#EXTINF:-1 group-title="CBA赛评",19:35南京天蓝🆚青岛崂山
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="CBA赛评",国🔊21抖述述
+http://rihou.cc:555/tv/21CBA抖述述
+#EXTINF:-1 group-title="CBA赛评",19:35上海久事🆚四川丰谷
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="CBA赛评",国🔊21抖旁述
+http://rihou.cc:555/tv/21CBA抖旁述
+#EXTINF:-1 group-title="CBA赛评",19:35浙江稠州🆚长白山恩
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="CBA赛评",国🔊21抖述旁
+http://rihou.cc:555/tv/21CBA抖述旁
+#EXTINF:-1 group-title="CBA赛评",03-22⬇️CBA常规赛⬇️🏀📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="CBA赛评",19:35江苏肯帝🆚浙江浙商
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="CBA赛评",国🔊22抖评述
+http://rihou.cc:555/tv/22CBA抖评述
+#EXTINF:-1 group-title="CBA赛评",19:35深圳马可🆚天津行者
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="CBA赛评",国🔊22抖述评
+http://rihou.cc:555/tv/22CBA抖述评
+#EXTINF:-1 group-title="赛事精锦",⬇️各大赛事精锦⬇️
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="赛事精锦",联赛赛事回放
+http://rihou.cc:555/tv/联赛回放赛18
+#EXTINF:-1 group-title="赛事精锦",NBA赛事回放
+http://rihou.cc:555/tv/NBA回放赛18
+#EXTINF:-1 group-title="赛事精锦",羽球赛事回放
+http://rihou.cc:555/tv/羽球回放赛18
+#EXTINF:-1 group-title="赛事精锦",橄球赛事回放
+http://rihou.cc:555/tv/橄球回放赛18
+#EXTINF:-1 group-title="赛事精锦",乒球赛事回放
+http://rihou.cc:555/tv/乒球回放赛18
+#EXTINF:-1 group-title="赛事精锦",网球赛事回放
+http://rihou.cc:555/tv/网球回放赛18
+#EXTINF:-1 group-title="赛事精锦",排球赛事回放
+http://rihou.cc:555/tv/排球回放赛18
+#EXTINF:-1 group-title="赛事精锦",格斗赛事回放
+http://rihou.cc:555/tv/格斗回放赛18
+#EXTINF:-1 group-title="赛事精锦",斯赛赛事回放
+http://rihou.cc:555/tv/斯赛回放赛18
 #EXTINF:-1 group-title="赛事咪咕",抖姐舞陪你看
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="赛事咪咕",赛事睛彩竞技
@@ -1302,9 +1384,9 @@ https://pull.dxhmt.cn/tv/168666456yinyue123477.flv
 #EXTINF:-1 group-title="欣赏频道",经典音乐频道
 https://pull.dxhmt.cn/tv/168666456yinyuy123477.flv
 #EXTINF:-1 group-title="网页音乐",音乐库仓抖播
-http://rihou.cc:555/tv/音乐库仓抖17
+http://rihou.cc:555/tv/音乐库仓抖18
 #EXTINF:-1 group-title="网页音乐",音乐仓库抖播
-http://rihou.cc:555/tv/音乐仓库抖17
+http://rihou.cc:555/tv/音乐仓库抖18
 #EXTINF:-1 group-title="欣赏音乐",⬇️刘德华<今日>演唱会精彩片段⬇️
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="欣赏音乐",今日演唱会上
@@ -2342,295 +2424,295 @@ http://220.135.64.124:5050/ofiii207/index.m3u8?proxy=true
 #EXTINF:-1 group-title="闽南回放",闽南国民大会
 http://220.135.64.124:5050/ofiii208/index.m3u8?proxy=true
 #EXTINF:-1 group-title="央卫频特",CCTV-01频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=cctv1
+http://154.37.222.93/smart.php?id=cctv1
 #EXTINF:-1 group-title="央卫频特",CCTV-02频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=cctv2
+http://154.37.222.93/smart.php?id=cctv2
 #EXTINF:-1 group-title="央卫频特",CCTV-03频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=cctv3
+http://154.37.222.93/smart.php?id=cctv3
 #EXTINF:-1 group-title="央卫频特",CCTV-04频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Cctv4
+http://154.37.222.93/smart.php?id=Cctv4
 #EXTINF:-1 group-title="央卫频特",CCTV-04频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=cctv4
+http://154.37.222.93/smart.php?id=cctv4
 #EXTINF:-1 group-title="央卫频特",CCTV-05频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=cctv5
+http://154.37.222.93/smart.php?id=cctv5
 #EXTINF:-1 group-title="央卫频特",CCTV-5+频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=cctv5plus
+http://154.37.222.93/smart.php?id=cctv5plus
 #EXTINF:-1 group-title="央卫频特",CCTV-06频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=cctv6
+http://154.37.222.93/smart.php?id=cctv6
 #EXTINF:-1 group-title="央卫频特",CCTV-07频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=cctv7
+http://154.37.222.93/smart.php?id=cctv7
 #EXTINF:-1 group-title="央卫频特",CCTV-08频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=cctv8hd
+http://154.37.222.93/smart.php?id=cctv8hd
 #EXTINF:-1 group-title="央卫频特",CCTV-09频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=cctv9hd
+http://154.37.222.93/smart.php?id=cctv9hd
 #EXTINF:-1 group-title="央卫频特",CCTV-10频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=cctv10hd
+http://154.37.222.93/smart.php?id=cctv10hd
 #EXTINF:-1 group-title="央卫频特",CCTV-11频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=cctv11
+http://154.37.222.93/smart.php?id=cctv11
 #EXTINF:-1 group-title="央卫频特",CCTV-12频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=cctv12
+http://154.37.222.93/smart.php?id=cctv12
 #EXTINF:-1 group-title="央卫频特",CCTV-13频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=cctv13
+http://154.37.222.93/smart.php?id=cctv13
 #EXTINF:-1 group-title="央卫频特",CCTV-14频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=cctv14
+http://154.37.222.93/smart.php?id=cctv14
 #EXTINF:-1 group-title="央卫频特",CCTV-15频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=cctv15
+http://154.37.222.93/smart.php?id=cctv15
 #EXTINF:-1 group-title="央卫频特",CGTN_英频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=CGTN
+http://154.37.222.93/smart.php?id=CGTN
 #EXTINF:-1 group-title="央卫频特",北京卫视频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=beijing
+http://154.37.222.93/smart.php?id=beijing
 #EXTINF:-1 group-title="央卫频特",深圳卫视频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=shenzhen
+http://154.37.222.93/smart.php?id=shenzhen
 #EXTINF:-1 group-title="央卫频特",广西卫视频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=guangxi
+http://154.37.222.93/smart.php?id=guangxi
 #EXTINF:-1 group-title="央卫频特",湖北卫视频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=hubei
+http://154.37.222.93/smart.php?id=hubei
 #EXTINF:-1 group-title="央卫频特",东南卫视频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=fujian
+http://154.37.222.93/smart.php?id=fujian
 #EXTINF:-1 group-title="央卫频特",广东珠江频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=zhujiang
+http://154.37.222.93/smart.php?id=zhujiang
 #EXTINF:-1 group-title="特区频特",Plus综合频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=j2_twn
+http://154.37.222.93/smart.php?id=j2_twn
 #EXTINF:-1 group-title="特区频特",凤凰中文频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=phoenixtv_hd
+http://154.37.222.93/smart.php?id=phoenixtv_hd
 #EXTINF:-1 group-title="特区频特",凤凰资讯频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=phoenixinfo_hd
+http://154.37.222.93/smart.php?id=phoenixinfo_hd
 #EXTINF:-1 group-title="特区频特",凤凰香港频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=hkphoenix_twn
+http://154.37.222.93/smart.php?id=hkphoenix_twn
 #EXTINF:-1 group-title="特区频特",中天新闻频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=ctinews
+http://154.37.222.93/smart.php?id=ctinews
 #EXTINF:-1 group-title="特区频特",有线新闻频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=hoycaijing_twn
+http://154.37.222.93/smart.php?id=hoycaijing_twn
 #EXTINF:-1 group-title="特区频特",无线新闻频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=inews_twn
+http://154.37.222.93/smart.php?id=inews_twn
 #EXTINF:-1 group-title="特区频特",无线翡翠频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=jade_twn
+http://154.37.222.93/smart.php?id=jade_twn
 #EXTINF:-1 group-title="特区频特",无线翡翠频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Jade_xue
+http://154.37.222.93/smart.php?id=Jade_xue
 #EXTINF:-1 group-title="特区频特",无线翡翠频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Tvbjade
+http://154.37.222.93/smart.php?id=Tvbjade
 #EXTINF:-1 group-title="特区频特",无线华丽粤特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Wlt
+http://154.37.222.93/smart.php?id=Wlt
 #EXTINF:-1 group-title="特区频特",无线华丽国特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Tvbjade
+http://154.37.222.93/smart.php?id=Tvbjade
 #EXTINF:-1 group-title="特区频特",无线明珠频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=pearl_twn
+http://154.37.222.93/smart.php?id=pearl_twn
 #EXTINF:-1 group-title="特区频特",无线娱乐频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Tvbentertainment
+http://154.37.222.93/smart.php?id=Tvbentertainment
 #EXTINF:-1 group-title="特区频特",千禧经典频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Tvbclassic
+http://154.37.222.93/smart.php?id=Tvbclassic
 #EXTINF:-1 group-title="特区频特",VIUTV'粤频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=viu1_twn
+http://154.37.222.93/smart.php?id=viu1_twn
 #EXTINF:-1 group-title="特区频特",VIUTV英频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=viusix_twn
+http://154.37.222.93/smart.php?id=viusix_twn
 #EXTINF:-1 group-title="特区频特",RTHK-31频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=rhk31_twn
+http://154.37.222.93/smart.php?id=rhk31_twn
 #EXTINF:-1 group-title="特区频特",RTHK-32频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=rhk32_twn
+http://154.37.222.93/smart.php?id=rhk32_twn
 #EXTINF:-1 group-title="特区频特",天映频道粤特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=ctv18_twn
+http://154.37.222.93/smart.php?id=ctv18_twn
 #EXTINF:-1 group-title="特区频特",天映频道国特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Celestial
+http://154.37.222.93/smart.php?id=Celestial
 #EXTINF:-1 group-title="特区频特",天映频道闽特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Celestialindo
+http://154.37.222.93/smart.php?id=Celestialindo
 #EXTINF:-1 group-title="特区频特",天映经典频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Celestial2
+http://154.37.222.93/smart.php?id=Celestial2
 #EXTINF:-1 group-title="特区频特",美亚电影频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=meiyamovie_twn
+http://154.37.222.93/smart.php?id=meiyamovie_twn
 #EXTINF:-1 group-title="特区频特",龙祥电影频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=lungxiangtime_twn
+http://154.37.222.93/smart.php?id=lungxiangtime_twn
 #EXTINF:-1 group-title="特区频特",纬来电影频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=videolandmovie
+http://154.37.222.93/smart.php?id=videolandmovie
 #EXTINF:-1 group-title="特区频特",新加CHU频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=ChannelU
+http://154.37.222.93/smart.php?id=ChannelU
 #EXTINF:-1 group-title="特区频特",新加CH5频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Channel5HD
+http://154.37.222.93/smart.php?id=Channel5HD
 #EXTINF:-1 group-title="特区频特",新加CH8频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Channel8HD
+http://154.37.222.93/smart.php?id=Channel8HD
 #EXTINF:-1 group-title="特区频特",Astr爱奇频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Qiyi
+http://154.37.222.93/smart.php?id=Qiyi
 #EXTINF:-1 group-title="特区频特",AstrQJ国频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Quanjia
+http://154.37.222.93/smart.php?id=Quanjia
 #EXTINF:-1 group-title="特区频特",astroaod频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Aodhd
+http://154.37.222.93/smart.php?id=Aodhd
 #EXTINF:-1 group-title="特区频特",Astroaec频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=AEC
+http://154.37.222.93/smart.php?id=AEC
 #EXTINF:-1 group-title="特区频特",Astr欢喜频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Huahee
+http://154.37.222.93/smart.php?id=Huahee
 #EXTINF:-1 group-title="闽南频特",中天新闻频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=ctinews
+http://154.37.222.93/smart.php?id=ctinews
 #EXTINF:-1 group-title="闽南频特",东森新闻频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=ettvnews
+http://154.37.222.93/smart.php?id=ettvnews
 #EXTINF:-1 group-title="闽南频特",寰宇新闻频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=huanyuxinwen_twn
+http://154.37.222.93/smart.php?id=huanyuxinwen_twn
 #EXTINF:-1 group-title="闽南频特",tvbs新闻频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=tvbs_n
+http://154.37.222.93/smart.php?id=tvbs_n
 #EXTINF:-1 group-title="闽南频特",年代新闻频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=niandainews_twn
+http://154.37.222.93/smart.php?id=niandainews_twn
 #EXTINF:-1 group-title="闽南频特",民视新闻频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=ftvnew_taiwan
+http://154.37.222.93/smart.php?id=ftvnew_taiwan
 #EXTINF:-1 group-title="闽南频特",中视新闻频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=zhongshinews_twn
+http://154.37.222.93/smart.php?id=zhongshinews_twn
 #EXTINF:-1 group-title="闽南频特",台视新闻频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=ttvnews_twn
+http://154.37.222.93/smart.php?id=ttvnews_twn
 #EXTINF:-1 group-title="闽南频特",非凡新闻频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=feifannews_twn
+http://154.37.222.93/smart.php?id=feifannews_twn
 #EXTINF:-1 group-title="闽南频特",民视闽南频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=ftvhd_taiwan
+http://154.37.222.93/smart.php?id=ftvhd_taiwan
 #EXTINF:-1 group-title="闽南频特",中视闽南频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=zhongshihd_twn
+http://154.37.222.93/smart.php?id=zhongshihd_twn
 #EXTINF:-1 group-title="闽南频特",华视闽南频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=ctshd_twn
+http://154.37.222.93/smart.php?id=ctshd_twn
 #EXTINF:-1 group-title="闽南频特",台视闽南频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=ttv_taiwan
+http://154.37.222.93/smart.php?id=ttv_taiwan
 #EXTINF:-1 group-title="闽南频特",tvbs闽南频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=tvbs
+http://154.37.222.93/smart.php?id=tvbs
 #EXTINF:-1 group-title="闽南频特",tvbs欢乐频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=tvbshuanle_twn
+http://154.37.222.93/smart.php?id=tvbshuanle_twn
 #EXTINF:-1 group-title="闽南频特",民视第一频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=lunghuajingdian_twn
+http://154.37.222.93/smart.php?id=lunghuajingdian_twn
 #EXTINF:-1 group-title="闽南频特",民视台湾频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=ftvtaiwan_twn
+http://154.37.222.93/smart.php?id=ftvtaiwan_twn
 #EXTINF:-1 group-title="闽南频特",中视经典频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=zhongshi_twn
+http://154.37.222.93/smart.php?id=zhongshi_twn
 #EXTINF:-1 group-title="闽南频特",公视台语频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=ctv2_twn
+http://154.37.222.93/smart.php?id=ctv2_twn
 #EXTINF:-1 group-title="闽南频特",台视综合频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=ttvzhonghe
+http://154.37.222.93/smart.php?id=ttvzhonghe
 #EXTINF:-1 group-title="闽南频特",中天娱乐频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=ctient
+http://154.37.222.93/smart.php?id=ctient
 #EXTINF:-1 group-title="闽南频特",中天综合频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=ctizhonghe
+http://154.37.222.93/smart.php?id=ctizhonghe
 #EXTINF:-1 group-title="闽南频特",中天亚洲频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=ctiasia_twn
+http://154.37.222.93/smart.php?id=ctiasia_twn
 #EXTINF:-1 group-title="闽南频特",八大第一频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=badafirst
+http://154.37.222.93/smart.php?id=badafirst
 #EXTINF:-1 group-title="闽南频特",八大综合频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=badazhonghe
+http://154.37.222.93/smart.php?id=badazhonghe
 #EXTINF:-1 group-title="闽南频特",八大戏剧频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=badadrama
+http://154.37.222.93/smart.php?id=badadrama
 #EXTINF:-1 group-title="闽南频特",八大娱乐频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=badaentertain
+http://154.37.222.93/smart.php?id=badaentertain
 #EXTINF:-1 group-title="闽南频特",东森综合频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=ettvzhonghe
+http://154.37.222.93/smart.php?id=ettvzhonghe
 #EXTINF:-1 group-title="闽南频特",东森戏剧频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=ettvdrama
+http://154.37.222.93/smart.php?id=ettvdrama
 #EXTINF:-1 group-title="闽南频特",东森洋片频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=ettvwestern
+http://154.37.222.93/smart.php?id=ettvwestern
 #EXTINF:-1 group-title="闽南频特",东森电影频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=ettvmovie
+http://154.37.222.93/smart.php?id=ettvmovie
 #EXTINF:-1 group-title="闽南频特",东森幼幼频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=yoyo_twn
+http://154.37.222.93/smart.php?id=yoyo_twn
 #EXTINF:-1 group-title="闽南频特",东森超视频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=ettvsuper
+http://154.37.222.93/smart.php?id=ettvsuper
 #EXTINF:-1 group-title="闽南频特",东森财经频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=ettvcaijing_twn
+http://154.37.222.93/smart.php?id=ettvcaijing_twn
 #EXTINF:-1 group-title="闽南频特",寰宇财经频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=huanyutaiwan_twn
+http://154.37.222.93/smart.php?id=huanyutaiwan_twn
 #EXTINF:-1 group-title="闽南频特",华艺综合频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=weishichinese_twn
+http://154.37.222.93/smart.php?id=weishichinese_twn
 #EXTINF:-1 group-title="闽南频特",阿里郎综频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=arirang_twn
+http://154.37.222.93/smart.php?id=arirang_twn
 #EXTINF:-1 group-title="闽南频特",AXN电影频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=axn_twn
+http://154.37.222.93/smart.php?id=axn_twn
 #EXTINF:-1 group-title="闽南频特",CInemax频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=cinemax_twn
+http://154.37.222.93/smart.php?id=cinemax_twn
 #EXTINF:-1 group-title="闽南频特",HBo高清频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=hbohd_twn
+http://154.37.222.93/smart.php?id=hbohd_twn
 #EXTINF:-1 group-title="闽南频特",HBo家庭频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=fyi_twn
+http://154.37.222.93/smart.php?id=fyi_twn
 #EXTINF:-1 group-title="闽南频特",好莱电影频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=hollywoodmovies_twn
+http://154.37.222.93/smart.php?id=hollywoodmovies_twn
 #EXTINF:-1 group-title="闽南频特",龙祥电影频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=lungxiangtime_twn
+http://154.37.222.93/smart.php?id=lungxiangtime_twn
 #EXTINF:-1 group-title="闽南频特",龙华经典频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=lunghuajingdian_twn
+http://154.37.222.93/smart.php?id=lunghuajingdian_twn
 #EXTINF:-1 group-title="闽南频特",龙华戏剧频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=lunghuaxiju_twn
+http://154.37.222.93/smart.php?id=lunghuaxiju_twn
 #EXTINF:-1 group-title="闽南频特",龙华电影频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=xingwei_movie
+http://154.37.222.93/smart.php?id=xingwei_movie
 #EXTINF:-1 group-title="闽南频特",龙华偶像频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=lunghuaidol_twn
+http://154.37.222.93/smart.php?id=lunghuaidol_twn
 #EXTINF:-1 group-title="闽南频特",龙华洋片频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=lunghuawestern_twn
+http://154.37.222.93/smart.php?id=lunghuawestern_twn
 #EXTINF:-1 group-title="闽南频特",纬来电影频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=videolandmovie
+http://154.37.222.93/smart.php?id=videolandmovie
 #EXTINF:-1 group-title="闽南频特",纬来日本频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=videolandjapan
+http://154.37.222.93/smart.php?id=videolandjapan
 #EXTINF:-1 group-title="闽南频特",纬来体育频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=videolandsport
+http://154.37.222.93/smart.php?id=videolandsport
 #EXTINF:-1 group-title="闽南频特",纬来综合频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=videolandzonghe
+http://154.37.222.93/smart.php?id=videolandzonghe
 #EXTINF:-1 group-title="闽南频特",纬来育乐频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=videolandyule
+http://154.37.222.93/smart.php?id=videolandyule
 #EXTINF:-1 group-title="闽南频特",纬来精彩频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=videolandspecial_twn
+http://154.37.222.93/smart.php?id=videolandspecial_twn
 #EXTINF:-1 group-title="闽南频特",靖天国际频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=jingtianintl_twn
+http://154.37.222.93/smart.php?id=jingtianintl_twn
 #EXTINF:-1 group-title="闽南频特",靖天卡通频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=jingtiancartoon_twn
+http://154.37.222.93/smart.php?id=jingtiancartoon_twn
 #EXTINF:-1 group-title="闽南频特",大爱壹台频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=daai_twn
+http://154.37.222.93/smart.php?id=daai_twn
 #EXTINF:-1 group-title="闽南频特",大爱贰台频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=daai2_twn
+http://154.37.222.93/smart.php?id=daai2_twn
 #EXTINF:-1 group-title="闽南频特",好消息贰频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=good2_twn
+http://154.37.222.93/smart.php?id=good2_twn
 #EXTINF:-1 group-title="闽南频特",三立闽南频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=sanlitaiwan
+http://154.37.222.93/smart.php?id=sanlitaiwan
 #EXTINF:-1 group-title="闽南频特",三立戏剧频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=sanlixiju_twn
+http://154.37.222.93/smart.php?id=sanlixiju_twn
 #EXTINF:-1 group-title="闽南频特",三立综合频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=sanlizhonghe
+http://154.37.222.93/smart.php?id=sanlizhonghe
 #EXTINF:-1 group-title="闽南频特",三立都会频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=sanlidouhui
+http://154.37.222.93/smart.php?id=sanlidouhui
 #EXTINF:-1 group-title="闽南频特",ELta影剧频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=eltayingju_twn
+http://154.37.222.93/smart.php?id=eltayingju_twn
 #EXTINF:-1 group-title="闽南频特",ELta综合频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=eltazonghe_twn
+http://154.37.222.93/smart.php?id=eltazonghe_twn
 #EXTINF:-1 group-title="闽南频特",ELTA体1频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=eltasport_twn
+http://154.37.222.93/smart.php?id=eltasport_twn
 #EXTINF:-1 group-title="闽南频特",ELTA体2频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=eltasport2_twn
+http://154.37.222.93/smart.php?id=eltasport2_twn
 #EXTINF:-1 group-title="闽南频特",ELTA体3频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=eltasport3_twn
+http://154.37.222.93/smart.php?id=eltasport3_twn
 #EXTINF:-1 group-title="闽南频特",Eleven一频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=golfchannel_twn
+http://154.37.222.93/smart.php?id=golfchannel_twn
 #EXTINF:-1 group-title="闽南频特",博斯无限频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=bosiunlimited_twn
+http://154.37.222.93/smart.php?id=bosiunlimited_twn
 #EXTINF:-1 group-title="闽南频特",博斯网球频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=bositennis_twn
+http://154.37.222.93/smart.php?id=bositennis_twn
 #EXTINF:-1 group-title="闽南频特",博斯运动壹特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=bosisport1_twn
+http://154.37.222.93/smart.php?id=bosisport1_twn
 #EXTINF:-1 group-title="闽南频特",博斯运动贰特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=bosisport2_twn
+http://154.37.222.93/smart.php?id=bosisport2_twn
 #EXTINF:-1 group-title="闽南频特",博斯高球壹特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=bosigolf1_twn
+http://154.37.222.93/smart.php?id=bosigolf1_twn
 #EXTINF:-1 group-title="闽南频特",博斯高球贰特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=bosigolf2_twn
+http://154.37.222.93/smart.php?id=bosigolf2_twn
 #EXTINF:-1 group-title="闽南频特",探索亚洲频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=discoverytwn_twn
+http://154.37.222.93/smart.php?id=discoverytwn_twn
 #EXTINF:-1 group-title="闽南频特",国家地理频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=natgeohd_twn
+http://154.37.222.93/smart.php?id=natgeohd_twn
 #EXTINF:-1 group-title="闽南频特",野生动物频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=natgeowild_twn
+http://154.37.222.93/smart.php?id=natgeowild_twn
 #EXTINF:-1 group-title="闽南频特",动物星球频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=animalplanet_twn
+http://154.37.222.93/smart.php?id=animalplanet_twn
 #EXTINF:-1 group-title="闽南频特",美食星球频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=foodplanet_twn
+http://154.37.222.93/smart.php?id=foodplanet_twn
 #EXTINF:-1 group-title="闽南频特",亚洲美食频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=afc_twn
+http://154.37.222.93/smart.php?id=afc_twn
 #EXTINF:-1 group-title="闽南频特",亚洲旅游频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=asiatravel_twn
+http://154.37.222.93/smart.php?id=asiatravel_twn
 #EXTINF:-1 group-title="闽南频特",亚洲TLC频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=tlc_twn
+http://154.37.222.93/smart.php?id=tlc_twn
 #EXTINF:-1 group-title="闽南频特",EYE-旅游频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=eyetvtravel_twn
+http://154.37.222.93/smart.php?id=eyetvtravel_twn
 #EXTINF:-1 group-title="闽南频特",EYE-戏剧频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=eyetvxiju_twn
+http://154.37.222.93/smart.php?id=eyetvxiju_twn
 #EXTINF:-1 group-title="闽南频特",MTv高清频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=mtvhd_twn
+http://154.37.222.93/smart.php?id=mtvhd_twn
 #EXTINF:-1 group-title="闽南频特",Discover频特
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=discoverytwn_twn
+http://154.37.222.93/smart.php?id=discoverytwn_twn
 #EXTINF:-1 group-title="央卫高码",CCTV-01高码
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
 #EXTINF:-1 group-title="央卫高码",CCTV-02高码
@@ -4654,612 +4736,612 @@ https://vd2.bdstatic.com/mda-jetjizur4bnmfux8/hd/mda-jetjizur4bnmfux8.mp4
 #EXTINF:-1 group-title="视觉效果",Dreamcatcher
 https://vd3.bdstatic.com/mda-mbiqgzsnfeyv74y6/v1-cae/1080p/mda-mbiqgzsnfeyv74y6.mp4
 #EXTINF:-1 group-title="体育频特",Astro Premier League 1
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=go_assp1
+http://154.37.222.93/smart.php?id=go_assp1
 #EXTINF:-1 group-title="体育频特",Astro EPL 1 backup
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=go_assp1x
+http://154.37.222.93/smart.php?id=go_assp1x
 #EXTINF:-1 group-title="体育频特",Astro Premier League 2
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=go_assp2
+http://154.37.222.93/smart.php?id=go_assp2
 #EXTINF:-1 group-title="体育频特",Astro Grandstand
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=go_assp3
+http://154.37.222.93/smart.php?id=go_assp3
 #EXTINF:-1 group-title="体育频特",Astro Football
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=go_assp4
+http://154.37.222.93/smart.php?id=go_assp4
 #EXTINF:-1 group-title="体育频特",Astro Sports Plus
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=go_sportsplus
+http://154.37.222.93/smart.php?id=go_sportsplus
 #EXTINF:-1 group-title="体育频特",Astro Badminton 1
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=go_badminton1
+http://154.37.222.93/smart.php?id=go_badminton1
 #EXTINF:-1 group-title="体育频特",Astro Badminton 2
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=go_badminton2
+http://154.37.222.93/smart.php?id=go_badminton2
 #EXTINF:-1 group-title="体育频特",Astro W-Sports
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=go_assp5
+http://154.37.222.93/smart.php?id=go_assp5
 #EXTINF:-1 group-title="体育频特",Supersports 1
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Assp1
+http://154.37.222.93/smart.php?id=Assp1
 #EXTINF:-1 group-title="体育频特",Supersports 2
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Assp2
+http://154.37.222.93/smart.php?id=Assp2
 #EXTINF:-1 group-title="体育频特",Supersports 3
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Assp3
+http://154.37.222.93/smart.php?id=Assp3
 #EXTINF:-1 group-title="体育频特",Supersports 4
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Assp4
+http://154.37.222.93/smart.php?id=Assp4
 #EXTINF:-1 group-title="体育频特",WWE
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Wwe
+http://154.37.222.93/smart.php?id=Wwe
 #EXTINF:-1 group-title="体育频特",Fight Sports
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Fs
+http://154.37.222.93/smart.php?id=Fs
 #EXTINF:-1 group-title="体育频特",NBA TV
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Nba
+http://154.37.222.93/smart.php?id=Nba
 #EXTINF:-1 group-title="体育频特",Astro Cricket
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Acricket
+http://154.37.222.93/smart.php?id=Acricket
 #EXTINF:-1 group-title="体育频特",Astro Golf
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Agolf
+http://154.37.222.93/smart.php?id=Agolf
 #EXTINF:-1 group-title="体育频特",Tnt Sports 1
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=6fac0aaead
+http://154.37.222.93/smart.php?id=6fac0aaead
 #EXTINF:-1 group-title="体育频特",TNT Sports 2
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=d9a76a79cc
+http://154.37.222.93/smart.php?id=d9a76a79cc
 #EXTINF:-1 group-title="体育频特",TNT Sports 3
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=5fea4d73db
+http://154.37.222.93/smart.php?id=5fea4d73db
 #EXTINF:-1 group-title="体育频特",TNT Sports 4
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=tntsport4
+http://154.37.222.93/smart.php?id=tntsport4
 #EXTINF:-1 group-title="体育频特",Sony Ten 1
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=ten1_raj
+http://154.37.222.93/smart.php?id=ten1_raj
 #EXTINF:-1 group-title="体育频特",Sony Ten 2
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=ten2_raj
+http://154.37.222.93/smart.php?id=ten2_raj
 #EXTINF:-1 group-title="体育频特",Sony Ten 3
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=ten3_raj
+http://154.37.222.93/smart.php?id=ten3_raj
 #EXTINF:-1 group-title="体育频特",SPOTV 1 HD
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=go_spotv
+http://154.37.222.93/smart.php?id=go_spotv
 #EXTINF:-1 group-title="体育频特",SPO TV 2
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=go_spotv2
+http://154.37.222.93/smart.php?id=go_spotv2
 #EXTINF:-1 group-title="体育频特",Skysports F1
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=tiankongf1
+http://154.37.222.93/smart.php?id=tiankongf1
 #EXTINF:-1 group-title="体育频特",Skysports Cricket
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=tiankongcricket
+http://154.37.222.93/smart.php?id=tiankongcricket
 #EXTINF:-1 group-title="体育频特",Skysports EPL
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=tiankongepl
+http://154.37.222.93/smart.php?id=tiankongepl
 #EXTINF:-1 group-title="体育频特",Skysports Main Event
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=tiankongmain
+http://154.37.222.93/smart.php?id=tiankongmain
 #EXTINF:-1 group-title="体育频特",Skysports News
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=tiankongnews
+http://154.37.222.93/smart.php?id=tiankongnews
 #EXTINF:-1 group-title="体育频特",Skysports Mix
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=tiankongmix
+http://154.37.222.93/smart.php?id=tiankongmix
 #EXTINF:-1 group-title="体育频特",爱尔达体育2台
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=eltasport2_twn
+http://154.37.222.93/smart.php?id=eltasport2_twn
 #EXTINF:-1 group-title="体育频特",爱尔达体育3台
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=eltasport3_twn
+http://154.37.222.93/smart.php?id=eltasport3_twn
 #EXTINF:-1 group-title="体育频特",Rugby Pass TV
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Rugbypasstv
+http://154.37.222.93/smart.php?id=Rugbypasstv
 #EXTINF:-1 group-title="体育频特",RTM Sports HD
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Rtmsport
+http://154.37.222.93/smart.php?id=Rtmsport
 #EXTINF:-1 group-title="体育频特",Arena
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Arena
+http://154.37.222.93/smart.php?id=Arena
 #EXTINF:-1 group-title="体育频特",Arena 2
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Arena2
+http://154.37.222.93/smart.php?id=Arena2
 #EXTINF:-1 group-title="体育频特",BolaArena 1
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Bolaarena1
+http://154.37.222.93/smart.php?id=Bolaarena1
 #EXTINF:-1 group-title="体育频特",BolaArena 2
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Bolaarena2
+http://154.37.222.93/smart.php?id=Bolaarena2
 #EXTINF:-1 group-title="体育频特",Astro Beinsports 1
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Astrobein1
+http://154.37.222.93/smart.php?id=Astrobein1
 #EXTINF:-1 group-title="体育频特",Astro Beinsports 2
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Astrobein2
+http://154.37.222.93/smart.php?id=Astrobein2
 #EXTINF:-1 group-title="体育频特",Astro Beinsports 3
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Astrobein3
+http://154.37.222.93/smart.php?id=Astrobein3
 #EXTINF:-1 group-title="电影频特",Cinemax
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Cinemax
+http://154.37.222.93/smart.php?id=Cinemax
 #EXTINF:-1 group-title="电影频特",Animax
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Animax
+http://154.37.222.93/smart.php?id=Animax
 #EXTINF:-1 group-title="电影频特",Movies Now HD
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=moviesnow_raj
+http://154.37.222.93/smart.php?id=moviesnow_raj
 #EXTINF:-1 group-title="电影频特",Star Movies HD
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=starmovies_raj
+http://154.37.222.93/smart.php?id=starmovies_raj
 #EXTINF:-1 group-title="电影频特",HBO Family
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Hbofamily
+http://154.37.222.93/smart.php?id=Hbofamily
 #EXTINF:-1 group-title="电影频特",Hits
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Hits
+http://154.37.222.93/smart.php?id=Hits
 #EXTINF:-1 group-title="电影频特",Warner TV
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=WarnerTV
+http://154.37.222.93/smart.php?id=WarnerTV
 #EXTINF:-1 group-title="电影频特",HBO HD
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Hbo
+http://154.37.222.93/smart.php?id=Hbo
 #EXTINF:-1 group-title="电影频特",HBO Signature
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Hbosignature
+http://154.37.222.93/smart.php?id=Hbosignature
 #EXTINF:-1 group-title="电影频特",HBO Hits
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Hbohitshd
+http://154.37.222.93/smart.php?id=Hbohitshd
 #EXTINF:-1 group-title="电影频特",SCM
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Weishimovie
+http://154.37.222.93/smart.php?id=Weishimovie
 #EXTINF:-1 group-title="电影频特",Dreamworks
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Dreamworks
+http://154.37.222.93/smart.php?id=Dreamworks
 #EXTINF:-1 group-title="电影频特",Thrill
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Thrill
+http://154.37.222.93/smart.php?id=Thrill
 #EXTINF:-1 group-title="电影频特",Hits Movie
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Hitsmovie
+http://154.37.222.93/smart.php?id=Hitsmovie
 #EXTINF:-1 group-title="电影频特",One
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=One
+http://154.37.222.93/smart.php?id=One
 #EXTINF:-1 group-title="电影频特",tvN Movie
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Tvnmovie
+http://154.37.222.93/smart.php?id=Tvnmovie
 #EXTINF:-1 group-title="电影频特",Celestial Classic
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Celestial2
+http://154.37.222.93/smart.php?id=Celestial2
 #EXTINF:-1 group-title="电影频特",Celestial Movies HD
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Celestialindo
+http://154.37.222.93/smart.php?id=Celestialindo
 #EXTINF:-1 group-title="电影频特",Axn HD
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Axn
+http://154.37.222.93/smart.php?id=Axn
 #EXTINF:-1 group-title="电影频特",Paramount Network
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Paramountnetwork
+http://154.37.222.93/smart.php?id=Paramountnetwork
 #EXTINF:-1 group-title="电影频特",Astrol Kplus
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Kplus
+http://154.37.222.93/smart.php?id=Kplus
 #EXTINF:-1 group-title="电影频特",Rock Actions
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Rockaction
+http://154.37.222.93/smart.php?id=Rockaction
 #EXTINF:-1 group-title="电影频特",Rock Entertainment
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Rockentertain
+http://154.37.222.93/smart.php?id=Rockentertain
 #EXTINF:-1 group-title="纪录频特",Natgeo_HD
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=natgeohd_twn
+http://154.37.222.93/smart.php?id=natgeohd_twn
 #EXTINF:-1 group-title="纪录频特",NatGeo_Wild HD
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=natgeowild_twn
+http://154.37.222.93/smart.php?id=natgeowild_twn
 #EXTINF:-1 group-title="纪录频特",Animal_Planet
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=animalplanet_twn
+http://154.37.222.93/smart.php?id=animalplanet_twn
 #EXTINF:-1 group-title="纪录频特",Discovery Asia
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=discoverytwn_twn
+http://154.37.222.93/smart.php?id=discoverytwn_twn
 #EXTINF:-1 group-title="纪录频特",CI
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=ci_twn
+http://154.37.222.93/smart.php?id=ci_twn
 #EXTINF:-1 group-title="纪录频特",Discovery HD
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=discoveryhd_twn
+http://154.37.222.93/smart.php?id=discoveryhd_twn
 #EXTINF:-1 group-title="纪录频特",NatGeo HD
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Natgeo
+http://154.37.222.93/smart.php?id=Natgeo
 #EXTINF:-1 group-title="纪录频特",Fashion TV
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=fashiontv_twn
+http://154.37.222.93/smart.php?id=fashiontv_twn
 #EXTINF:-1 group-title="纪录频特",History
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=History
+http://154.37.222.93/smart.php?id=History
 #EXTINF:-1 group-title="纪录频特",BBC Earth HD
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=bbcearth_twn
+http://154.37.222.93/smart.php?id=bbcearth_twn
 #EXTINF:-1 group-title="纪录频特",BBC Earth Lifestyle
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=bbclifestyle_twn
+http://154.37.222.93/smart.php?id=bbclifestyle_twn
 #EXTINF:-1 group-title="纪录频特",NatGeo Wild HD
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Natgeowild
+http://154.37.222.93/smart.php?id=Natgeowild
 #EXTINF:-1 group-title="纪录频特",Animal Planet (Eng)
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=AnimalPlanet
+http://154.37.222.93/smart.php?id=AnimalPlanet
 #EXTINF:-1 group-title="纪录频特",TLC
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Tlc
+http://154.37.222.93/smart.php?id=Tlc
 #EXTINF:-1 group-title="纪录频特",Foodnetwork Hd
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Foodnetwork
+http://154.37.222.93/smart.php?id=Foodnetwork
 #EXTINF:-1 group-title="纪录频特",HGTV
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=HGTV
+http://154.37.222.93/smart.php?id=HGTV
 #EXTINF:-1 group-title="新闻频特",Skynews
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=skynews_twn
+http://154.37.222.93/smart.php?id=skynews_twn
 #EXTINF:-1 group-title="新闻频特",ABC News
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=abcnews_glo
+http://154.37.222.93/smart.php?id=abcnews_glo
 #EXTINF:-1 group-title="新闻频特",CBS HD
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=cbshd_glo
+http://154.37.222.93/smart.php?id=cbshd_glo
 #EXTINF:-1 group-title="新闻频特",CBSN HD
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=cbsn_glo
+http://154.37.222.93/smart.php?id=cbsn_glo
 #EXTINF:-1 group-title="新闻频特",France 24
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=france24_twn
+http://154.37.222.93/smart.php?id=france24_twn
 #EXTINF:-1 group-title="新闻频特",DW (Deutsch)
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=dw_twn
+http://154.37.222.93/smart.php?id=dw_twn
 #EXTINF:-1 group-title="新闻频特",NHK World
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=nhkworld_japan
+http://154.37.222.93/smart.php?id=nhkworld_japan
 #EXTINF:-1 group-title="新闻频特",Fox News
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=foxnews_twn
+http://154.37.222.93/smart.php?id=foxnews_twn
 #EXTINF:-1 group-title="新闻频特",CNN International
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Cnn
+http://154.37.222.93/smart.php?id=Cnn
 #EXTINF:-1 group-title="新闻频特",CNN backup
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=cnn_twn
+http://154.37.222.93/smart.php?id=cnn_twn
 #EXTINF:-1 group-title="新闻频特",CNBC
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=cnbc_twn
+http://154.37.222.93/smart.php?id=cnbc_twn
 #EXTINF:-1 group-title="新闻频特",CNA
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=cna
+http://154.37.222.93/smart.php?id=cna
 #EXTINF:-1 group-title="新闻频特",BBC World News
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=bbcnews_twn
+http://154.37.222.93/smart.php?id=bbcnews_twn
 #EXTINF:-1 group-title="新闻频特",BBC World News
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Bbcnews
+http://154.37.222.93/smart.php?id=Bbcnews
 #EXTINF:-1 group-title="新闻频特",Bloomberg News
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=bloomberg_twn
+http://154.37.222.93/smart.php?id=bloomberg_twn
 #EXTINF:-1 group-title="新闻频特",Al-Jazeera
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=aljazeera_twn
+http://154.37.222.93/smart.php?id=aljazeera_twn
 #EXTINF:-1 group-title="儿童频特",Baby TV Eng
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Babytv
+http://154.37.222.93/smart.php?id=Babytv
 #EXTINF:-1 group-title="儿童频特",CBeebies
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Cbeebies
+http://154.37.222.93/smart.php?id=Cbeebies
 #EXTINF:-1 group-title="儿童频特",Kids TV
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=KidsTV
+http://154.37.222.93/smart.php?id=KidsTV
 #EXTINF:-1 group-title="儿童频特",Momo TV
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=momo1_twn
+http://154.37.222.93/smart.php?id=momo1_twn
 #EXTINF:-1 group-title="儿童频特",Baby TV
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=babytv_twn
+http://154.37.222.93/smart.php?id=babytv_twn
 #EXTINF:-1 group-title="儿童频特",MiaoMi
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=MiaoMi
+http://154.37.222.93/smart.php?id=MiaoMi
 #EXTINF:-1 group-title="儿童频特",Cartoon Network
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Cn
+http://154.37.222.93/smart.php?id=Cn
 #EXTINF:-1 group-title="儿童频特",Nickelodeon
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Nickelodeon
+http://154.37.222.93/smart.php?id=Nickelodeon
 #EXTINF:-1 group-title="儿童频特",Nick Jr
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Nickjr
+http://154.37.222.93/smart.php?id=Nickjr
 #EXTINF:-1 group-title="新加频特",Channel 5
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Channel5HD
+http://154.37.222.93/smart.php?id=Channel5HD
 #EXTINF:-1 group-title="新加频特",Channel 8
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Channel8HD
+http://154.37.222.93/smart.php?id=Channel8HD
 #EXTINF:-1 group-title="新加频特",Suria
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Suria
+http://154.37.222.93/smart.php?id=Suria
 #EXTINF:-1 group-title="新加频特",Channel U
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=ChannelU
+http://154.37.222.93/smart.php?id=ChannelU
 #EXTINF:-1 group-title="新加频特",Vasantham
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Vasantham
+http://154.37.222.93/smart.php?id=Vasantham
 #EXTINF:-1 group-title="新加频特",CNA backup
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=cna_twn
+http://154.37.222.93/smart.php?id=cna_twn
 #EXTINF:-1 group-title="新加频特",MeWatch Ch 5
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Mewatch_ch5
+http://154.37.222.93/smart.php?id=Mewatch_ch5
 #EXTINF:-1 group-title="新加频特",MeWatch Ch 8
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Mewatch_ch8
+http://154.37.222.93/smart.php?id=Mewatch_ch8
 #EXTINF:-1 group-title="新加频特",MeWatch Ch U
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Mewatch_chU
+http://154.37.222.93/smart.php?id=Mewatch_chU
 #EXTINF:-1 group-title="新加频特",MeWatch Suria
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Mewatch_Suria
+http://154.37.222.93/smart.php?id=Mewatch_Suria
 #EXTINF:-1 group-title="新加频特",MeWatch Vasantham
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Mewatch_Vasantham
+http://154.37.222.93/smart.php?id=Mewatch_Vasantham
 #EXTINF:-1 group-title="新加频特",MeWatch CNA
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Mewatch_cna
+http://154.37.222.93/smart.php?id=Mewatch_cna
 #EXTINF:-1 group-title="马来频特",TV1
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=TV1
+http://154.37.222.93/smart.php?id=TV1
 #EXTINF:-1 group-title="马来频特",TV1 backup
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=TV1_backup
+http://154.37.222.93/smart.php?id=TV1_backup
 #EXTINF:-1 group-title="马来频特",TV2
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=TV2
+http://154.37.222.93/smart.php?id=TV2
 #EXTINF:-1 group-title="马来频特",TV3
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=TV3
+http://154.37.222.93/smart.php?id=TV3
 #EXTINF:-1 group-title="马来频特",TV3 SD
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=TV3_mega
+http://154.37.222.93/smart.php?id=TV3_mega
 #EXTINF:-1 group-title="马来频特",NTV7
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=NTV7
+http://154.37.222.93/smart.php?id=NTV7
 #EXTINF:-1 group-title="马来频特",TV8
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=TV8
+http://154.37.222.93/smart.php?id=TV8
 #EXTINF:-1 group-title="马来频特",TV9
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=TV9
+http://154.37.222.93/smart.php?id=TV9
 #EXTINF:-1 group-title="马来频特",Ria
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Ria-0
+http://154.37.222.93/smart.php?id=Ria-0
 #EXTINF:-1 group-title="马来频特",Ria-3
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Ria_backup
+http://154.37.222.93/smart.php?id=Ria_backup
 #EXTINF:-1 group-title="马来频特",Al-Hijrah
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Alhijrah
+http://154.37.222.93/smart.php?id=Alhijrah
 #EXTINF:-1 group-title="马来频特",Al-Hijrah backup
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Alhijrah_backup
+http://154.37.222.93/smart.php?id=Alhijrah_backup
 #EXTINF:-1 group-title="马来频特",Awani
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Awani
+http://154.37.222.93/smart.php?id=Awani
 #EXTINF:-1 group-title="马来频特",Bernama
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Bernama
+http://154.37.222.93/smart.php?id=Bernama
 #EXTINF:-1 group-title="马来频特",Prima
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Prima-0
+http://154.37.222.93/smart.php?id=Prima-0
 #EXTINF:-1 group-title="马来频特",Prima backup
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=AAprima1
+http://154.37.222.93/smart.php?id=AAprima1
 #EXTINF:-1 group-title="马来频特",Prima backup 2
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=AAprima
+http://154.37.222.93/smart.php?id=AAprima
 #EXTINF:-1 group-title="马来频特",Ceria
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Ceria
+http://154.37.222.93/smart.php?id=Ceria
 #EXTINF:-1 group-title="马来频特",Astro MTV
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=AstroMTV
+http://154.37.222.93/smart.php?id=AstroMTV
 #EXTINF:-1 group-title="马来频特",Mecca Live HD
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=quran_mido
+http://154.37.222.93/smart.php?id=quran_mido
 #EXTINF:-1 group-title="马来频特",Madinah HD
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=sunnah_mido
+http://154.37.222.93/smart.php?id=sunnah_mido
 #EXTINF:-1 group-title="马来频特",Oasis
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Oasis
+http://154.37.222.93/smart.php?id=Oasis
 #EXTINF:-1 group-title="马来频特",Siar
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Siar
+http://154.37.222.93/smart.php?id=Siar
 #EXTINF:-1 group-title="马来频特",Citra
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=AAcitra
+http://154.37.222.93/smart.php?id=AAcitra
 #EXTINF:-1 group-title="马来频特",Citra backup
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=AAcitra1
+http://154.37.222.93/smart.php?id=AAcitra1
 #EXTINF:-1 group-title="马来频特",Sensasi
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Sensasi
+http://154.37.222.93/smart.php?id=Sensasi
 #EXTINF:-1 group-title="马来频特",Aura
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Aura
+http://154.37.222.93/smart.php?id=Aura
 #EXTINF:-1 group-title="马来频特",Rania
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Rania
+http://154.37.222.93/smart.php?id=Rania
 #EXTINF:-1 group-title="马来频特",KBS World
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=KBS
+http://154.37.222.93/smart.php?id=KBS
 #EXTINF:-1 group-title="马来频特",Boo
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Boo
+http://154.37.222.93/smart.php?id=Boo
 #EXTINF:-1 group-title="马来频特",Awesome TV
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Dsangat
+http://154.37.222.93/smart.php?id=Dsangat
 #EXTINF:-1 group-title="马来频特",Astro Sonypix
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Asonypix
+http://154.37.222.93/smart.php?id=Asonypix
 #EXTINF:-1 group-title="马来频特",Sony HD
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=SetOne
+http://154.37.222.93/smart.php?id=SetOne
 #EXTINF:-1 group-title="马来频特",TvN
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=TVN
+http://154.37.222.93/smart.php?id=TVN
 #EXTINF:-1 group-title="马来频特",AEC
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=AEC
+http://154.37.222.93/smart.php?id=AEC
 #EXTINF:-1 group-title="马来频特",华丽台 HD （Wah Lai Toi）
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Wlt
+http://154.37.222.93/smart.php?id=Wlt
 #EXTINF:-1 group-title="马来频特",欢喜台 HD （Hua Hee Tai）
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Huahee
+http://154.37.222.93/smart.php?id=Huahee
 #EXTINF:-1 group-title="马来频特",Astro QJ
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Quanjia
+http://154.37.222.93/smart.php?id=Quanjia
 #EXTINF:-1 group-title="马来频特",TVB Jade
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Tvbjade
+http://154.37.222.93/smart.php?id=Tvbjade
 #EXTINF:-1 group-title="马来频特",TVB Asia
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Tvbasia
+http://154.37.222.93/smart.php?id=Tvbasia
 #EXTINF:-1 group-title="马来频特",TVB Entertainment
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Tvbentertainment
+http://154.37.222.93/smart.php?id=Tvbentertainment
 #EXTINF:-1 group-title="马来频特",TVB Classic
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Tvbclassic
+http://154.37.222.93/smart.php?id=Tvbclassic
 #EXTINF:-1 group-title="马来频特",AOD
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Aodhd
+http://154.37.222.93/smart.php?id=Aodhd
 #EXTINF:-1 group-title="马来频特",TVB 星河台 Xing He
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Xinhe
+http://154.37.222.93/smart.php?id=Xinhe
 #EXTINF:-1 group-title="马来频特",爱奇艺 iQiyi
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Qiyi
+http://154.37.222.93/smart.php?id=Qiyi
 #EXTINF:-1 group-title="马来频特",Goshop
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Goshop
+http://154.37.222.93/smart.php?id=Goshop
 #EXTINF:-1 group-title="马来频特",Celestial Movies HD
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Celestial
+http://154.37.222.93/smart.php?id=Celestial
 #EXTINF:-1 group-title="马来频特",Astro LOL
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Astro_lol
+http://154.37.222.93/smart.php?id=Astro_lol
 #EXTINF:-1 group-title="马来频特",Astro Rusi
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Rusi
+http://154.37.222.93/smart.php?id=Rusi
 #EXTINF:-1 group-title="马来频特",WION
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Wion
+http://154.37.222.93/smart.php?id=Wion
 #EXTINF:-1 group-title="马来频特",RTM Asean
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Rtmasean
+http://154.37.222.93/smart.php?id=Rtmasean
 #EXTINF:-1 group-title="印尼频特",TVRI National
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=TVRI
+http://154.37.222.93/smart.php?id=TVRI
 #EXTINF:-1 group-title="印尼频特",RCTI
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Rcti
+http://154.37.222.93/smart.php?id=Rcti
 #EXTINF:-1 group-title="印尼频特",Kompass TV
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Kompass
+http://154.37.222.93/smart.php?id=Kompass
 #EXTINF:-1 group-title="印尼频特",Berita Satu
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=BeritaSatu_eko
+http://154.37.222.93/smart.php?id=BeritaSatu_eko
 #EXTINF:-1 group-title="印尼频特",Indosiar HD
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Indosiar
+http://154.37.222.93/smart.php?id=Indosiar
 #EXTINF:-1 group-title="印尼频特",AnTV
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Antv
+http://154.37.222.93/smart.php?id=Antv
 #EXTINF:-1 group-title="印尼频特",MNC TV
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Mnctv
+http://154.37.222.93/smart.php?id=Mnctv
 #EXTINF:-1 group-title="印尼频特",Trans 7
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Trans7_eko
+http://154.37.222.93/smart.php?id=Trans7_eko
 #EXTINF:-1 group-title="印尼频特",Transtv
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Transtv
+http://154.37.222.93/smart.php?id=Transtv
 #EXTINF:-1 group-title="印尼频特",JTV
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=JTV_eko
+http://154.37.222.93/smart.php?id=JTV_eko
 #EXTINF:-1 group-title="印尼频特",Metro TV
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=metrotv_eko
+http://154.37.222.93/smart.php?id=metrotv_eko
 #EXTINF:-1 group-title="印尼频特",SCTV
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=SCTV
+http://154.37.222.93/smart.php?id=SCTV
 #EXTINF:-1 group-title="印尼频特",Tvone
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Tvone
+http://154.37.222.93/smart.php?id=Tvone
 #EXTINF:-1 group-title="印尼频特",TVMU
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=TVMU_eko
+http://154.37.222.93/smart.php?id=TVMU_eko
 #EXTINF:-1 group-title="印尼频特",GTV
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Gtv
+http://154.37.222.93/smart.php?id=Gtv
 #EXTINF:-1 group-title="印尼频特",RTV
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Rtv
+http://154.37.222.93/smart.php?id=Rtv
 #EXTINF:-1 group-title="印尼频特",Jak TV
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=JakTV
+http://154.37.222.93/smart.php?id=JakTV
 #EXTINF:-1 group-title="印尼频特",iNews TV
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Inewstv
+http://154.37.222.93/smart.php?id=Inewstv
 #EXTINF:-1 group-title="印尼频特",Daai TV
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=DaaiTV
+http://154.37.222.93/smart.php?id=DaaiTV
 #EXTINF:-1 group-title="印尼频特",Net TV
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=NetTV
+http://154.37.222.93/smart.php?id=NetTV
 #EXTINF:-1 group-title="印尼频特",EWTN
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Ewtn
+http://154.37.222.93/smart.php?id=Ewtn
 #EXTINF:-1 group-title="印尼频特",AlQuran AlKareem
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=AlQuran
+http://154.37.222.93/smart.php?id=AlQuran
 #EXTINF:-1 group-title="印尼频特",Tawaf TV
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=TawafTV
+http://154.37.222.93/smart.php?id=TawafTV
 #EXTINF:-1 group-title="印尼频特",Vision Prime
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=VisionPrime
+http://154.37.222.93/smart.php?id=VisionPrime
 #EXTINF:-1 group-title="印尼频特",Muslim TV
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=MuslimTV
+http://154.37.222.93/smart.php?id=MuslimTV
 #EXTINF:-1 group-title="印尼频特",Music TV
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=MusicTV
+http://154.37.222.93/smart.php?id=MusicTV
 #EXTINF:-1 group-title="印尼频特",Lifestyle&amp;Fashion
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Lifestyle
+http://154.37.222.93/smart.php?id=Lifestyle
 #EXTINF:-1 group-title="印尼频特",Entertain
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Entertain
+http://154.37.222.93/smart.php?id=Entertain
 #EXTINF:-1 group-title="印度频特",Sun TV HD
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Suntv
+http://154.37.222.93/smart.php?id=Suntv
 #EXTINF:-1 group-title="印度频特",Star Vijay
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Starvijay
+http://154.37.222.93/smart.php?id=Starvijay
 #EXTINF:-1 group-title="印度频特",Colors Tamil
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Colorstam
+http://154.37.222.93/smart.php?id=Colorstam
 #EXTINF:-1 group-title="印度频特",Sun Music
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Sunmusic
+http://154.37.222.93/smart.php?id=Sunmusic
 #EXTINF:-1 group-title="印度频特",Astro Sunlife
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Sunlife
+http://154.37.222.93/smart.php?id=Sunlife
 #EXTINF:-1 group-title="印度频特",Astro Vaanavil
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Vaanavil
+http://154.37.222.93/smart.php?id=Vaanavil
 #EXTINF:-1 group-title="印度频特",Zee Tamil
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Zeetamil
+http://154.37.222.93/smart.php?id=Zeetamil
 #EXTINF:-1 group-title="印度频特",Zee Business
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Zeebusiness
+http://154.37.222.93/smart.php?id=Zeebusiness
 #EXTINF:-1 group-title="印度频特",News 18 Tamil
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=news18tamil_raj
+http://154.37.222.93/smart.php?id=news18tamil_raj
 #EXTINF:-1 group-title="印度频特",Adithya
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Adithya
+http://154.37.222.93/smart.php?id=Adithya
 #EXTINF:-1 group-title="印度频特",Makkal TV
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Makkaltv
+http://154.37.222.93/smart.php?id=Makkaltv
 #EXTINF:-1 group-title="印度频特",Zee Action
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Zeeaction
+http://154.37.222.93/smart.php?id=Zeeaction
 #EXTINF:-1 group-title="印度频特",Astro KTV
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Astroktv
+http://154.37.222.93/smart.php?id=Astroktv
 #EXTINF:-1 group-title="印度频特",Zee TV HD
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Zeetvhd
+http://154.37.222.93/smart.php?id=Zeetvhd
 #EXTINF:-1 group-title="印度频特",Zee Cinema HD
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Zeecinemahd
+http://154.37.222.93/smart.php?id=Zeecinemahd
 #EXTINF:-1 group-title="印度频特",Color HD
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Colorhd
+http://154.37.222.93/smart.php?id=Colorhd
 #EXTINF:-1 group-title="印度频特",Starplus HD
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Starplushd
+http://154.37.222.93/smart.php?id=Starplushd
 #EXTINF:-1 group-title="印度频特",Picture HD
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Npicture
+http://154.37.222.93/smart.php?id=Npicture
 #EXTINF:-1 group-title="印度频特",Zee News
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Zeenews
+http://154.37.222.93/smart.php?id=Zeenews
 #EXTINF:-1 group-title="印度频特",Asianet
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=asianet_raj
+http://154.37.222.93/smart.php?id=asianet_raj
 #EXTINF:-1 group-title="印度频特",Asianet News
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=asianetnews_raj
+http://154.37.222.93/smart.php?id=asianetnews_raj
 #EXTINF:-1 group-title="印度频特",Discovery World Tamil
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=discoveryworldtam_raj
+http://154.37.222.93/smart.php?id=discoveryworldtam_raj
 #EXTINF:-1 group-title="印度频特",History Tamil
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=historytam_raj
+http://154.37.222.93/smart.php?id=historytam_raj
 #EXTINF:-1 group-title="印度频特",NatGeo Tamil
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=natgeotamil_raj
+http://154.37.222.93/smart.php?id=natgeotamil_raj
 #EXTINF:-1 group-title="印度频特",Natgeo Wild Tamil
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=natgeowildtamil_raj
+http://154.37.222.93/smart.php?id=natgeowildtamil_raj
 #EXTINF:-1 group-title="印度频特",Discovery Kids Tamil
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=discoverykidtamil_raj
+http://154.37.222.93/smart.php?id=discoverykidtamil_raj
 #EXTINF:-1 group-title="印度频特",Discovery Tamil
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=discoverytamil_raj
+http://154.37.222.93/smart.php?id=discoverytamil_raj
 #EXTINF:-1 group-title="印度频特",Sony Yay Tamil
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=sonyyaytam_raj
+http://154.37.222.93/smart.php?id=sonyyaytam_raj
 #EXTINF:-1 group-title="印度频特",Sun TV India
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=suntv_raj
+http://154.37.222.93/smart.php?id=suntv_raj
 #EXTINF:-1 group-title="印度频特",Starmaa HD
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=starmaa_raj
+http://154.37.222.93/smart.php?id=starmaa_raj
 #EXTINF:-1 group-title="印度频特",Starmaa Movies HD
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=starmaamovies_raj
+http://154.37.222.93/smart.php?id=starmaamovies_raj
 #EXTINF:-1 group-title="印度频特",Bollyone
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Bollyone
+http://154.37.222.93/smart.php?id=Bollyone
 #EXTINF:-1 group-title="印度频特",Vijay Super
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=vijaysuper_raj
+http://154.37.222.93/smart.php?id=vijaysuper_raj
 #EXTINF:-1 group-title="印度频特",Vellithirai
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=Vellithirai
+http://154.37.222.93/smart.php?id=Vellithirai
 #EXTINF:-1 group-title="泰国频特",Channel 3 Thailand
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=ch3_pat
+http://154.37.222.93/smart.php?id=ch3_pat
 #EXTINF:-1 group-title="泰国频特",Channel 5 Thailand
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=ch5_pat
+http://154.37.222.93/smart.php?id=ch5_pat
 #EXTINF:-1 group-title="泰国频特",Channel 7 Thailand
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=ch7_pat
+http://154.37.222.93/smart.php?id=ch7_pat
 #EXTINF:-1 group-title="泰国频特",MCOT HD Thailand-1
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=mcot_pat
+http://154.37.222.93/smart.php?id=mcot_pat
 #EXTINF:-1 group-title="泰国频特",PPTV Thailand1
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=pptv_pat
+http://154.37.222.93/smart.php?id=pptv_pat
 #EXTINF:-1 group-title="泰国频特",Thai Thai
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=thaithai_pat
+http://154.37.222.93/smart.php?id=thaithai_pat
 #EXTINF:-1 group-title="泰国频特",Amarin
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=amarin_pat
+http://154.37.222.93/smart.php?id=amarin_pat
 #EXTINF:-1 group-title="泰国频特",Ch 8
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=ch8_pat
+http://154.37.222.93/smart.php?id=ch8_pat
 #EXTINF:-1 group-title="泰国频特",GmmOne
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=gmmone_pat
+http://154.37.222.93/smart.php?id=gmmone_pat
 #EXTINF:-1 group-title="泰国频特",Mono
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=mono_pat
+http://154.37.222.93/smart.php?id=mono_pat
 #EXTINF:-1 group-title="泰国频特",Thairath
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=thairath_pat
+http://154.37.222.93/smart.php?id=thairath_pat
 #EXTINF:-1 group-title="泰国频特",tpbs
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=tpbs_pat
+http://154.37.222.93/smart.php?id=tpbs_pat
 #EXTINF:-1 group-title="泰国频特",Workpoint
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=workpoint_pat
+http://154.37.222.93/smart.php?id=workpoint_pat
 #EXTINF:-1 group-title="泰国频特",Gmm Channel
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=gmmchannel_pat
+http://154.37.222.93/smart.php?id=gmmchannel_pat
 #EXTINF:-1 group-title="泰国频特",Nation
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=nation_pat
+http://154.37.222.93/smart.php?id=nation_pat
 #EXTINF:-1 group-title="泰国频特",Tnn24
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=tnn24_pat
+http://154.37.222.93/smart.php?id=tnn24_pat
 #EXTINF:-1 group-title="泰国频特",Nbt
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=nbt_pat
+http://154.37.222.93/smart.php?id=nbt_pat
 #EXTINF:-1 group-title="泰国频特",New
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=new_pat
+http://154.37.222.93/smart.php?id=new_pat
 #EXTINF:-1 group-title="泰国频特",TPTV
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=tptv_pat
+http://154.37.222.93/smart.php?id=tptv_pat
 #EXTINF:-1 group-title="英国频特",BBC 1
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=bbc1_antik
+http://154.37.222.93/smart.php?id=bbc1_antik
 #EXTINF:-1 group-title="英国频特",BBC 2
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=bbc2_antik
+http://154.37.222.93/smart.php?id=bbc2_antik
 #EXTINF:-1 group-title="英国频特",CBBC
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=cbbc_antik
+http://154.37.222.93/smart.php?id=cbbc_antik
 #EXTINF:-1 group-title="英国频特",More4
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=more4_antik
+http://154.37.222.93/smart.php?id=more4_antik
 #EXTINF:-1 group-title="英国频特",Freesports
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=freesports_antik
+http://154.37.222.93/smart.php?id=freesports_antik
 #EXTINF:-1 group-title="英国频特",Pick TV
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=picktv_antik
+http://154.37.222.93/smart.php?id=picktv_antik
 #EXTINF:-1 group-title="英国频特",itv 1
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=itv1_antik
+http://154.37.222.93/smart.php?id=itv1_antik
 #EXTINF:-1 group-title="英国频特",itv 2
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=itv2_antik
+http://154.37.222.93/smart.php?id=itv2_antik
 #EXTINF:-1 group-title="英国频特",Euronews
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=euronews_antik
+http://154.37.222.93/smart.php?id=euronews_antik
 #EXTINF:-1 group-title="英国频特",Channel 4
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=channel4_antik
+http://154.37.222.93/smart.php?id=channel4_antik
 #EXTINF:-1 group-title="英国频特",BBC World News
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=bbcworldnews_antik
+http://154.37.222.93/smart.php?id=bbcworldnews_antik
 #EXTINF:-1 group-title="越南频特",ANTV
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=viet_antv
+http://154.37.222.93/smart.php?id=viet_antv
 #EXTINF:-1 group-title="越南频特",VTV 1
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=viet_vtv1
+http://154.37.222.93/smart.php?id=viet_vtv1
 #EXTINF:-1 group-title="越南频特",VTV 7
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=viet_vtv7
+http://154.37.222.93/smart.php?id=viet_vtv7
 #EXTINF:-1 group-title="越南频特",HTV 7
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=viet_htv7
+http://154.37.222.93/smart.php?id=viet_htv7
 #EXTINF:-1 group-title="越南频特",HTV 9
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=viet_htv9
+http://154.37.222.93/smart.php?id=viet_htv9
 #EXTINF:-1 group-title="越南频特",BPTV 2
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=viet_bptv2
+http://154.37.222.93/smart.php?id=viet_bptv2
 #EXTINF:-1 group-title="越南频特",BRT HD
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=viet_brt
+http://154.37.222.93/smart.php?id=viet_brt
 #EXTINF:-1 group-title="越南频特",Ca Mau TV
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=viet_camautv
+http://154.37.222.93/smart.php?id=viet_camautv
 #EXTINF:-1 group-title="越南频特",Danang TV1 HD
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=viet_danangtv1
+http://154.37.222.93/smart.php?id=viet_danangtv1
 #EXTINF:-1 group-title="越南频特",Danang TV2 HD
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=viet_danangtv2
+http://154.37.222.93/smart.php?id=viet_danangtv2
 #EXTINF:-1 group-title="越南频特",HBTV HD
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=viet_hbtv
+http://154.37.222.93/smart.php?id=viet_hbtv
 #EXTINF:-1 group-title="越南频特",PTTH 1
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=viet_ptth1
+http://154.37.222.93/smart.php?id=viet_ptth1
 #EXTINF:-1 group-title="韩国频特",Arirang HD
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=arirang_korea
+http://154.37.222.93/smart.php?id=arirang_korea
 #EXTINF:-1 group-title="韩国频特",Yonhap News
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=yonhapnews_korea
+http://154.37.222.93/smart.php?id=yonhapnews_korea
 #EXTINF:-1 group-title="韩国频特",CBS
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=cbs_korea
+http://154.37.222.93/smart.php?id=cbs_korea
 #EXTINF:-1 group-title="韩国频特",EBS 1
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=ebs1_korea
+http://154.37.222.93/smart.php?id=ebs1_korea
 #EXTINF:-1 group-title="韩国频特",EBS2
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=ebs2_korea
+http://154.37.222.93/smart.php?id=ebs2_korea
 #EXTINF:-1 group-title="韩国频特",EBS Plus2
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=ebsplus2_korea
+http://154.37.222.93/smart.php?id=ebsplus2_korea
 #EXTINF:-1 group-title="韩国频特",SBS Plus
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=sbsplus_korea
+http://154.37.222.93/smart.php?id=sbsplus_korea
 #EXTINF:-1 group-title="韩国频特",YTN
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=ytn_korea
+http://154.37.222.93/smart.php?id=ytn_korea
 #EXTINF:-1 group-title="韩国频特",KBS World 24
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=kbsworld24_korea
+http://154.37.222.93/smart.php?id=kbsworld24_korea
 #EXTINF:-1 group-title="韩国频特",YTN Science
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=ytnscience_korea
+http://154.37.222.93/smart.php?id=ytnscience_korea
 #EXTINF:-1 group-title="韩国频特",YTN Korean
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=ytnkorean_korea
+http://154.37.222.93/smart.php?id=ytnkorean_korea
 #EXTINF:-1 group-title="韩国频特",YTN DMB
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=ytndmb_korea
+http://154.37.222.93/smart.php?id=ytndmb_korea
 #EXTINF:-1 group-title="韩国频特",Apps TV
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=appongoogle_korea
+http://154.37.222.93/smart.php?id=appongoogle_korea
 #EXTINF:-1 group-title="韩国频特",All the Kpop
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=allthekpop_korea
+http://154.37.222.93/smart.php?id=allthekpop_korea
 #EXTINF:-1 group-title="韩国频特",J the Kpop
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=jthekpop_korea
+http://154.37.222.93/smart.php?id=jthekpop_korea
 #EXTINF:-1 group-title="韩国频特",EBS Kids
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=ebskids_korea
+http://154.37.222.93/smart.php?id=ebskids_korea
 #EXTINF:-1 group-title="韩国频特",CGNTV
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=cgntv_korea
+http://154.37.222.93/smart.php?id=cgntv_korea
 #EXTINF:-1 group-title="日本频特",NHK-総合-2
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=nhkg_japan
+http://154.37.222.93/smart.php?id=nhkg_japan
 #EXTINF:-1 group-title="日本频特",NHK-E
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=nhke_japan
+http://154.37.222.93/smart.php?id=nhke_japan
 #EXTINF:-1 group-title="日本频特",テレビ朝日 Asahi TV
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=asahitv_japan
+http://154.37.222.93/smart.php?id=asahitv_japan
 #EXTINF:-1 group-title="日本频特",JET 綜合
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=jettv_japan
+http://154.37.222.93/smart.php?id=jettv_japan
 #EXTINF:-1 group-title="日本频特",テレビ東京 Tokyo TV
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=tokyotv_japan
+http://154.37.222.93/smart.php?id=tokyotv_japan
 #EXTINF:-1 group-title="日本频特",TOKYOMX
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=tokyomx_japan
+http://154.37.222.93/smart.php?id=tokyomx_japan
 #EXTINF:-1 group-title="日本频特",NHKBS1
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=nhkbs1_japan
+http://154.37.222.93/smart.php?id=nhkbs1_japan
 #EXTINF:-1 group-title="日本频特",NHKBSプレミア Premium
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=nhkpremium_japan
+http://154.37.222.93/smart.php?id=nhkpremium_japan
 #EXTINF:-1 group-title="日本频特",BSジャパン 181
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=bs181_japan
+http://154.37.222.93/smart.php?id=bs181_japan
 #EXTINF:-1 group-title="日本频特",BSフジ BS Fuji
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=bsfuji_japan
+http://154.37.222.93/smart.php?id=bsfuji_japan
 #EXTINF:-1 group-title="日本频特",CNA Japan
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=cna_japan
+http://154.37.222.93/smart.php?id=cna_japan
 #EXTINF:-1 group-title="日本频特",BS-TBS
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=bstbs_japan
+http://154.37.222.93/smart.php?id=bstbs_japan
 #EXTINF:-1 group-title="日本频特",NHK Oaska
-http://pitv.jun1.xyz:6696/live.php?token=d4876272bde5f4c1e7bda2a3a9361823cec0bda2a0cfb2585854f574afcb39ce&id=nhkosaka_japan
+http://154.37.222.93/smart.php?id=nhkosaka_japan
