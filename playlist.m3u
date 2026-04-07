@@ -17,38 +17,60 @@ http://rihou.cc:555/tv/[mv]分享更新
 http://rihou.cc:555/tv/[mv]爱扒随便
 #EXTINF:-1 group-title="猫TV影视",➡️不必纠结⬅️
 http://rihou.cc:555/tv/[mv]不必纠结
-#EXTINF:-1 group-title="NBA赛评",04-07⬇️NBA常规赛⬇️🏀📡
+#EXTINF:-1 group-title="CBA赛评",04-07⬇️CBA常规赛⬇️🏀📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="NBA赛评",07:00老鹰🆚尼克斯
+#EXTINF:-1 group-title="CBA赛评",19:35长白山恩🆚四川丰谷
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="NBA赛评",国🔊07咪评述
-http://rihou.cc:555/tv/07NBA咪评述
-#EXTINF:-1 group-title="NBA赛评",国🔊07腾评述
-http://rihou.cc:555/tv/07NBA腾评述
-#EXTINF:-1 group-title="NBA赛评",07:00活塞🆚魔术
+#EXTINF:-1 group-title="CBA赛评",国🔊07抖评述
+http://rihou.cc:555/tv/07CBA抖评述
+#EXTINF:-1 group-title="CBA赛评",19:35辽宁本钢🆚福建晋江
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="NBA赛评",国🔊07咪述评
-http://rihou.cc:555/tv/07NBA咪述评
-#EXTINF:-1 group-title="NBA赛评",国🔊07腾述评
-http://rihou.cc:555/tv/07NBA腾述评
-#EXTINF:-1 group-title="NBA赛评",08:00骑士🆚灰熊
+#EXTINF:-1 group-title="CBA赛评",国🔊07抖述评
+http://rihou.cc:555/tv/07CBA抖述评
+#EXTINF:-1 group-title="CBA赛评",04-08⬇️CBA常规赛⬇️🏀📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="CBA赛评",19:35广东阳光🆚青岛崂山
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="NBA赛评",国🔊07咪评评
-http://rihou.cc:555/tv/07NBA咪评评
-#EXTINF:-1 group-title="NBA赛评",国🔊07腾评评
-http://rihou.cc:555/tv/07NBA腾评评
-#EXTINF:-1 group-title="NBA赛评",08:0076人🆚马刺
+#EXTINF:-1 group-title="CBA赛评",粤🔊'丁伟杰述
+http://rihou.cc:555/tv/08CBA丁伟杰
+#EXTINF:-1 group-title="CBA赛评",粤🔊'广东体育
+http://rihou.cc:555/tv/[At|]广东体育
+#EXTINF:-1 group-title="CBA赛评",国🔊08抖评述
+http://rihou.cc:555/tv/08CBA抖评述
+#EXTINF:-1 group-title="CBA赛评",19:35广州朗肽🆚北京北汽
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="NBA赛评",国🔊07咪述述
-http://rihou.cc:555/tv/07NBA咪述述
-#EXTINF:-1 group-title="NBA赛评",国🔊07腾述述
-http://rihou.cc:555/tv/07NBA腾述述
-#EXTINF:-1 group-title="NBA赛评",09:00掘金🆚开拓者
+#EXTINF:-1 group-title="CBA赛评",国🔊08抖述评
+http://rihou.cc:555/tv/08CBA抖述评
+#EXTINF:-1 group-title="CBA赛评",19:35宁波町渥🆚上海久事
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="NBA赛评",国🔊07咪旁述
-http://rihou.cc:555/tv/07NBA咪旁述
-#EXTINF:-1 group-title="NBA赛评",国🔊07腾旁述
-http://rihou.cc:555/tv/07NBA腾旁述
+#EXTINF:-1 group-title="CBA赛评",国🔊08抖评评
+http://rihou.cc:555/tv/08CBA抖评评
+#EXTINF:-1 group-title="CBA赛评",19:35南京天蓝🆚北京控股
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="CBA赛评",国🔊08抖述述
+http://rihou.cc:555/tv/08CBA抖述述
+#EXTINF:-1 group-title="CBA赛评",19:35浙江浙商🆚山东高速
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="CBA赛评",国🔊08抖旁述
+http://rihou.cc:555/tv/08CBA抖旁述
+#EXTINF:-1 group-title="CBA赛评",20:00新疆伊力🆚天津行者
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="CBA赛评",国🔊08抖述旁
+http://rihou.cc:555/tv/08CBA抖述旁
+#EXTINF:-1 group-title="CBA赛评",04-09⬇️CBA常规赛⬇️🏀📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="CBA赛评",19:35山西汾酒🆚深圳马可
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="CBA赛评",粤🔊丁伟杰'述
+http://rihou.cc:555/tv/08CBA丁伟杰
+#EXTINF:-1 group-title="CBA赛评",粤🔊广东体'育
+http://rihou.cc:555/tv/[At|]广东体育
+#EXTINF:-1 group-title="CBA赛评",国🔊09抖评述
+http://rihou.cc:555/tv/09CBA抖评述
+#EXTINF:-1 group-title="CBA赛评",19:35江苏肯帝🆚浙江稠州
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="CBA赛评",国🔊09抖述评
+http://rihou.cc:555/tv/09CBA抖述评
 #EXTINF:-1 group-title="NBA赛评",04-08⬇️NBA常规赛⬇️🏀📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="NBA赛评",07:00公牛🆚奇才
@@ -155,60 +177,6 @@ http://rihou.cc:555/tv/v
 http://rihou.cc:555/tv/09NBA咪旁旁
 #EXTINF:-1 group-title="NBA赛评",国🔊09腾旁旁
 http://rihou.cc:555/tv/09NBA腾旁旁
-#EXTINF:-1 group-title="CBA赛评",04-07⬇️CBA常规赛⬇️🏀📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="CBA赛评",19:35长白山恩🆚四川丰谷
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="CBA赛评",国🔊07抖评述
-http://rihou.cc:555/tv/07CBA抖评述
-#EXTINF:-1 group-title="CBA赛评",19:35辽宁本钢🆚福建晋江
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="CBA赛评",国🔊07抖述评
-http://rihou.cc:555/tv/07CBA抖述评
-#EXTINF:-1 group-title="CBA赛评",04-08⬇️CBA常规赛⬇️🏀📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="CBA赛评",19:35广东阳光🆚青岛崂山
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="CBA赛评",粤🔊'丁伟杰述
-http://rihou.cc:555/tv/08CBA丁伟杰
-#EXTINF:-1 group-title="CBA赛评",粤🔊'广东体育
-http://rihou.cc:555/tv/[At|]广东体育
-#EXTINF:-1 group-title="CBA赛评",国🔊08抖评述
-http://rihou.cc:555/tv/08CBA抖评述
-#EXTINF:-1 group-title="CBA赛评",19:35广州朗肽🆚北京北汽
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="CBA赛评",国🔊08抖述评
-http://rihou.cc:555/tv/08CBA抖述评
-#EXTINF:-1 group-title="CBA赛评",19:35宁波町渥🆚上海久事
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="CBA赛评",国🔊08抖评评
-http://rihou.cc:555/tv/08CBA抖评评
-#EXTINF:-1 group-title="CBA赛评",19:35南京天蓝🆚北京控股
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="CBA赛评",国🔊08抖述述
-http://rihou.cc:555/tv/08CBA抖述述
-#EXTINF:-1 group-title="CBA赛评",19:35浙江浙商🆚山东高速
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="CBA赛评",国🔊08抖旁述
-http://rihou.cc:555/tv/08CBA抖旁述
-#EXTINF:-1 group-title="CBA赛评",20:00新疆伊力🆚天津行者
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="CBA赛评",国🔊08抖述旁
-http://rihou.cc:555/tv/08CBA抖述旁
-#EXTINF:-1 group-title="CBA赛评",04-09⬇️CBA常规赛⬇️🏀📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="CBA赛评",19:35山西汾酒🆚深圳马可
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="CBA赛评",粤🔊丁伟杰'述
-http://rihou.cc:555/tv/08CBA丁伟杰
-#EXTINF:-1 group-title="CBA赛评",粤🔊广东体'育
-http://rihou.cc:555/tv/[At|]广东体育
-#EXTINF:-1 group-title="CBA赛评",国🔊09抖评述
-http://rihou.cc:555/tv/09CBA抖评述
-#EXTINF:-1 group-title="CBA赛评",19:35江苏肯帝🆚浙江稠州
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="CBA赛评",国🔊09抖述评
-http://rihou.cc:555/tv/09CBA抖述评
 #EXTINF:-1 group-title="WCBA评",04-08⬇️WCBA排位赛⬇️🏀📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="WCBA评",19:30石家庄英励🆚厦门环东文旅
@@ -1416,7 +1384,11 @@ http://smt.4666888.xyz/mtvhd_twn.m3u8
 #EXTINF:-1 group-title="闽南频特",Discover频特
 http://smt.4666888.xyz/discoverytwn_twn.m3u8
 #EXTINF:-1 group-title="欣赏频道",粤语戏曲欣赏
+p3p://focus169.org:36826/679d953d000945e59987130a6e93668b
+#EXTINF:-1 group-title="欣赏频道",粤语戏曲欣赏
 http://tl.061833.xyz/tl/null-15
+#EXTINF:-1 group-title="欣赏频道",粤语长片欣赏
+p3p://focus169.org:36826/643361c7000d4bee220f05703b541d41
 #EXTINF:-1 group-title="欣赏频道",粤语长片欣赏
 http://tl.061833.xyz/tl/null-10
 #EXTINF:-1 group-title="欣赏频道",广东珠江欣赏
