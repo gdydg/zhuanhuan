@@ -17,36 +17,6 @@ http://rihou.cc:555/tv/[mv]分享更新
 http://rihou.cc:555/tv/[mv]爱扒随便
 #EXTINF:-1 group-title="猫TV影视",➡️不必纠结⬅️
 http://rihou.cc:555/tv/[mv]不必纠结
-#EXTINF:-1 group-title="4/15赛事",04-15⬇️CBA常规赛⬇️🏀📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="4/15赛事",19:35广州朗肽🆚上海久事
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="4/15赛事",粤🔊'丁伟杰述
-http://rihou.cc:555/tv/15CBA丁伟杰
-#EXTINF:-1 group-title="4/15赛事",粤🔊'广东体育
-http://rihou.cc:555/tv/[At|]广东体育
-#EXTINF:-1 group-title="4/15赛事",国🔊15抖评述
-http://rihou.cc:555/tv/15CBA抖评述
-#EXTINF:-1 group-title="4/15赛事",19:35北京控股🆚山东高速
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="4/15赛事",国🔊15抖述评
-http://rihou.cc:555/tv/15CBA抖述评
-#EXTINF:-1 group-title="4/15赛事",19:35辽宁本钢🆚南京天蓝
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="4/15赛事",国🔊15抖评评
-http://rihou.cc:555/tv/15CBA抖评评
-#EXTINF:-1 group-title="4/15赛事",19:35山西汾酒🆚浙江浙商
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="4/15赛事",国🔊15抖述述
-http://rihou.cc:555/tv/15CBA抖述述
-#EXTINF:-1 group-title="4/15赛事",19:35天津行者🆚四川丰谷
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="4/15赛事",国🔊15抖旁述
-http://rihou.cc:555/tv/15CBA抖旁述
-#EXTINF:-1 group-title="4/15赛事",20:00新疆伊力🆚深圳马可
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="4/15赛事",国🔊15抖述旁
-http://rihou.cc:555/tv/15CBA抖述旁
 #EXTINF:-1 group-title="4/16赛事",04-16⬇️NBA附加赛⬇️🏀📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="4/16赛事",07:30魔术🆚76人
@@ -139,6 +109,14 @@ http://rihou.cc:555/tv/t
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="4/19赛事",国🔊19抖评述
 http://rihou.cc:555/tv/19WCBA抖评述
+#EXTINF:-1 group-title="欧冠回放",04-16⬇️欧冠1/4决赛第2轮⬇️⚽📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="欧冠回放",03:00拜仁(4🆚3)皇马
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="欧冠回放",粤'🔊鞋佬旁述
+http://rihou.cc:555/tv/鞋佬回放拜皇
+#EXTINF:-1 group-title="欧冠回放",国'🔊真实评述
+http://rihou.cc:555/tv/真实回放拜皇
 #EXTINF:-1 group-title="欧冠回放",04-15⬇️欧冠1/4决赛第2轮⬇️⚽📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="欧冠回放",03:00巴塞(2🆚1)马体会
@@ -161,36 +139,26 @@ http://rihou.cc:555/tv/老咪回放利巴
 http://rihou.cc:555/tv/团哥回放利巴
 #EXTINF:-1 group-title="欧冠回放",国🔊小斐评述
 http://rihou.cc:555/tv/小斐回放利巴
-#EXTINF:-1 group-title="英超回放",04-14⬇️英超联赛回放⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="英超回放",03:00曼联(1🆚2)列斯联
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="英超回放",粤🔊华头旁述
-http://rihou.cc:555/tv/华头回放曼列
-#EXTINF:-1 group-title="英超回放",粤🔊江德忠述
-http://rihou.cc:555/tv/江德忠回放曼
-#EXTINF:-1 group-title="英超回放",国🔊咪咕评述
-http://rihou.cc:555/tv/咪咕回放曼列
 #EXTINF:-1 group-title="赛事精锦",⬇️各大赛事精锦⬇️
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="赛事精锦",联赛赛事回放
-http://rihou.cc:555/tv/联赛回放赛15
+http://rihou.cc:555/tv/联赛回放赛16
 #EXTINF:-1 group-title="赛事精锦",NBA赛事回放
-http://rihou.cc:555/tv/NBA回放赛15
+http://rihou.cc:555/tv/NBA回放赛16
 #EXTINF:-1 group-title="赛事精锦",羽球赛事回放
-http://rihou.cc:555/tv/羽球回放赛15
+http://rihou.cc:555/tv/羽球回放赛16
 #EXTINF:-1 group-title="赛事精锦",橄球赛事回放
-http://rihou.cc:555/tv/橄球回放赛15
+http://rihou.cc:555/tv/橄球回放赛16
 #EXTINF:-1 group-title="赛事精锦",乒球赛事回放
-http://rihou.cc:555/tv/乒球回放赛15
+http://rihou.cc:555/tv/乒球回放赛16
 #EXTINF:-1 group-title="赛事精锦",网球赛事回放
-http://rihou.cc:555/tv/网球回放赛15
+http://rihou.cc:555/tv/网球回放赛16
 #EXTINF:-1 group-title="赛事精锦",排球赛事回放
-http://rihou.cc:555/tv/排球回放赛15
+http://rihou.cc:555/tv/排球回放赛16
 #EXTINF:-1 group-title="赛事精锦",格斗赛事回放
-http://rihou.cc:555/tv/格斗回放赛15
+http://rihou.cc:555/tv/格斗回放赛16
 #EXTINF:-1 group-title="赛事精锦",斯赛赛事回放
-http://rihou.cc:555/tv/斯赛回放赛15
+http://rihou.cc:555/tv/斯赛回放赛16
 #EXTINF:-1 group-title="赛事咪咕",抖姐舞陪你看
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="赛事咪咕",赛事睛彩竞技
@@ -1914,9 +1882,9 @@ https://pull.dxhmt.cn/tv/168666456yinyue123477.flv
 #EXTINF:-1 group-title="欣赏频道",经典音乐频道
 https://pull.dxhmt.cn/tv/168666456yinyuy123477.flv
 #EXTINF:-1 group-title="网页音乐",音乐库仓抖播
-http://rihou.cc:555/tv/音乐库仓抖15
+http://rihou.cc:555/tv/音乐库仓抖16
 #EXTINF:-1 group-title="网页音乐",音乐仓库抖播
-http://rihou.cc:555/tv/音乐仓库抖15
+http://rihou.cc:555/tv/音乐仓库抖16
 #EXTINF:-1 group-title="欣赏音乐",⬇️刘德华<今日>演唱会精彩片段⬇️
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="欣赏音乐",今日演唱会上
