@@ -17,26 +17,6 @@ http://rihou.cc:555/tv/[mv]分享更新
 http://rihou.cc:555/tv/[mv]爱扒随便
 #EXTINF:-1 group-title="猫TV影视",➡️不必纠结⬅️
 http://rihou.cc:555/tv/[mv]不必纠结
-#EXTINF:-1 group-title="4/21赛事",04-21⬇️NBA季后赛⬇️🏀📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="4/21赛事",07:00猛龙🆚骑士
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="4/21赛事",国🔊21咪评述
-http://rihou.cc:555/tv/21NBA咪评述
-#EXTINF:-1 group-title="4/21赛事",国🔊21腾评述
-http://rihou.cc:555/tv/21NBA腾评述
-#EXTINF:-1 group-title="4/21赛事",08:00老鹰🆚尼克斯
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="4/21赛事",国🔊21咪述评
-http://rihou.cc:555/tv/21NBA咪述评
-#EXTINF:-1 group-title="4/21赛事",国🔊21腾述评
-http://rihou.cc:555/tv/21NBA腾述评
-#EXTINF:-1 group-title="4/21赛事",10:30木狼🆚掘金
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="4/21赛事",国🔊21咪评评
-http://rihou.cc:555/tv/21NBA咪评评
-#EXTINF:-1 group-title="4/21赛事",国🔊21腾评评
-http://rihou.cc:555/tv/21NBA腾评评
 #EXTINF:-1 group-title="4/21赛事",04-21⬇️中超联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="4/21赛事",19:00深圳鹏城🆚北京国安
@@ -91,6 +71,20 @@ http://rihou.cc:555/tv/t
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="4/22赛事",国🔊22抖评述
 http://rihou.cc:555/tv/22WCBA抖评述
+#EXTINF:-1 group-title="4/22赛事",04-22⬇️浙超联赛⬇️⚽📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="4/22赛事",19:30舟山队🆚台州队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="4/22赛事",国🔊22浙评述
+http://rihou.cc:555/tv/22浙超咪评述
+#EXTINF:-1 group-title="4/22赛事",19:30衢州队🆚湖州队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="4/22赛事",国🔊22浙述评
+http://rihou.cc:555/tv/22浙超咪述评
+#EXTINF:-1 group-title="4/22赛事",19:30温州队🆚金华队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="4/22赛事",国🔊22浙评评
+http://rihou.cc:555/tv/22浙超咪评评
 #EXTINF:-1 group-title="4/22赛事",04-22⬇️中超联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="4/22赛事",19:35青岛西岸🆚河南俱乐
@@ -1327,6 +1321,8 @@ http://rihou.cc:555/tv/[Mt]Now新闻
 http://rihou.cc:555/tv/[Hv]中天新聞
 #EXTINF:-1 group-title="欣赏频道",中天新闻欣赏
 http://rihou.cc:555/tv/[SZ]中天新闻
+#EXTINF:-1 group-title="欣赏频道",中天新闻欣赏
+http://rihou.cc:555/tv/[Us]中天新闻
 #EXTINF:-1 group-title="欣赏频道",中天新闻欣赏
 http://rihou.cc:555/tv/[Bx]中天新闻
 #EXTINF:-1 group-title="欣赏频道",寰宇新闻欣赏
