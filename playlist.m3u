@@ -17,30 +17,18 @@ http://rihou.cc:555/tv/[mv]分享更新
 http://rihou.cc:555/tv/[mv]爱扒随便
 #EXTINF:-1 group-title="猫TV影视",➡️不必纠结⬅️
 http://rihou.cc:555/tv/[mv]不必纠结
-#EXTINF:-1 group-title="4/29赛事",04-29⬇️NBA季后赛⬇️🏀📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="4/29赛事",09:30马刺🆚开拓者
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="4/29赛事",粤🔊小肥旁述
-http://rihou.cc:555/tv/29NBA小肥述
-#EXTINF:-1 group-title="4/29赛事",国🔊29咪评评
-http://rihou.cc:555/tv/29NBA咪评评
-#EXTINF:-1 group-title="4/29赛事",国🔊29腾评评
-http://rihou.cc:555/tv/29NBA腾评评
-#EXTINF:-1 group-title="4/29赛事",08:00老鹰🆚尼克斯
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="4/29赛事",国🔊29咪述评
-http://rihou.cc:555/tv/29NBA咪述评
-#EXTINF:-1 group-title="4/29赛事",国🔊29腾述评
-http://rihou.cc:555/tv/29NBA腾述评
 #EXTINF:-1 group-title="4/29赛事",04-29⬇️CBA常规赛⬇️🏀📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="4/29赛事",19:35青岛崂山🆚山西汾酒
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="4/29赛事",国🔊29抖评述
-http://rihou.cc:555/tv/29CBA抖评述
 #EXTINF:-1 group-title="4/29赛事",19:35浙江稠州🆚宁波町渥
 http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="4/29赛事",粤🔊丁伟杰述
+http://rihou.cc:555/tv/29CBA丁伟杰
+#EXTINF:-1 group-title="4/29赛事",国🔊29抖评述
+http://rihou.cc:555/tv/29CBA抖评述
+#EXTINF:-1 group-title="4/29赛事",19:35青岛崂山🆚山西汾酒
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="4/29赛事",粤🔊粤kk旁述
+http://rihou.cc:555/tv/29CBA粤kk述
 #EXTINF:-1 group-title="4/29赛事",国🔊29抖述评
 http://rihou.cc:555/tv/29CBA抖述评
 #EXTINF:-1 group-title="4/30赛事",04-30⬇️NBA季后赛⬇️🏀📡
@@ -675,8 +663,8 @@ http://rihou.cc:555/tv/[Hk]年代新闻
 http://rihou.cc:555/tv/[Hk]非凡新闻
 #EXTINF:-1 group-title="欣赏频道",闽镜新闻欣赏
 http://rihou.cc:555/tv/[Hk]闽镜新闻
-#EXTINF:-1 group-title="欣赏频道",闽南综合欣赏
-http://rihou.cc:555/tv/[Hk]闽南综合
+#EXTINF:-1 group-title="欣赏频道",闽壹新闻欣赏
+http://rihou.cc:555/tv/[Hk]闽壹新闻
 #EXTINF:-1 group-title="欣赏频道",tvbS新闻欣赏
 http://rihou.cc:555/tv/[FY]tvbS新闻
 #EXTINF:-1 group-title="欣赏频道",tvbS闽南欣赏
@@ -713,6 +701,8 @@ http://rihou.cc:555/tv/[Bx]Now爆谷
 http://rihou.cc:555/tv/[Hk]东森电影
 #EXTINF:-1 group-title="欣赏频道",纬来电影欣赏
 http://rihou.cc:555/tv/[Hk]纬来电影
+#EXTINF:-1 group-title="欣赏频道",好莱电影欣赏
+http://rihou.cc:555/tv/[Hk]好莱电影
 #EXTINF:-1 group-title="欣赏频道",龙祥电影欣赏
 http://rihou.cc:555/tv/[Hk]龙祥电影
 #EXTINF:-1 group-title="欣赏频道",美亚电影粤赏
