@@ -17,22 +17,12 @@ http://rihou.cc:555/tv/[mv]分享更新
 http://rihou.cc:555/tv/[mv]爱扒随便
 #EXTINF:-1 group-title="猫TV影视",➡️不必纠结⬅️
 http://rihou.cc:555/tv/[mv]不必纠结
-#EXTINF:-1 group-title="4/30赛事",04-30⬇️浙超联赛⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="4/30赛事",19:30温州队🆚舟山队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="4/30赛事",国🔊30浙评述
-http://rihou.cc:555/tv/30浙超咪评述
 #EXTINF:-1 group-title="5/01赛事",05-01⬇️NBA季后赛⬇️🏀📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="5/01赛事",07:00老鹰🆚尼克斯
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="5/01赛事",国🔊01咪评述
-http://rihou.cc:555/tv/01NBA咪评述
-#EXTINF:-1 group-title="5/01赛事",国🔊01腾评述
-http://rihou.cc:555/tv/01NBA腾评述
 #EXTINF:-1 group-title="5/01赛事",08:0076人🆚凯尔特人
 http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="5/01赛事",粤🔊小肥旁述
+http://rihou.cc:555/tv/01NBA小肥述
 #EXTINF:-1 group-title="5/01赛事",国🔊01咪述评
 http://rihou.cc:555/tv/01NBA咪述评
 #EXTINF:-1 group-title="5/01赛事",国🔊01腾述评
@@ -43,6 +33,16 @@ http://rihou.cc:555/tv/v
 http://rihou.cc:555/tv/01NBA咪评评
 #EXTINF:-1 group-title="5/01赛事",国🔊01腾评评
 http://rihou.cc:555/tv/01NBA腾评评
+#EXTINF:-1 group-title="5/01赛事",05-01⬇️贵州村超⬇️⚽📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="5/01赛事",14:30富民村足球队🆚车江一村足球队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="5/01赛事",国🔊01村评述
+http://rihou.cc:555/tv/01村超咪评述
+#EXTINF:-1 group-title="5/01赛事",20:30忠诚村足球队🆚场坝龙泉井村队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="5/01赛事",国🔊01村述评
+http://rihou.cc:555/tv/01村超咪述评
 #EXTINF:-1 group-title="5/01赛事",05-01⬇️浙超联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="5/01赛事",15:00嘉兴队🆚绍兴队
@@ -61,24 +61,6 @@ http://rihou.cc:555/tv/01浙超咪评评
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="5/01赛事",国🔊01浙述述
 http://rihou.cc:555/tv/01浙超咪述述
-#EXTINF:-1 group-title="5/01赛事",05-01⬇️川超联赛⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="5/01赛事",15:30德阳队🆚南充队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="5/01赛事",国🔊01川评述
-http://rihou.cc:555/tv/01川超咪评述
-#EXTINF:-1 group-title="5/01赛事",19:35乐山队🆚凉山队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="5/01赛事",国🔊01川述评
-http://rihou.cc:555/tv/01川超咪述评
-#EXTINF:-1 group-title="5/01赛事",19:35绵阳队🆚成都队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="5/01赛事",国🔊01川评评
-http://rihou.cc:555/tv/01川超咪评评
-#EXTINF:-1 group-title="5/01赛事",19:35达州队🆚宜宾队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="5/01赛事",国🔊01川述述
-http://rihou.cc:555/tv/01川超咪述述
 #EXTINF:-1 group-title="5/01赛事",05-01⬇️中超联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="5/01赛事",19:00大连英博🆚重庆铜梁
@@ -123,6 +105,24 @@ http://rihou.cc:555/tv/t
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="5/01赛事",国🔊01闽评述
 http://rihou.cc:555/tv/01闽超咪评述
+#EXTINF:-1 group-title="5/01赛事",05-01⬇️川超联赛⬇️⚽📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="5/01赛事",19:35德阳队🆚南充队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="5/01赛事",国🔊01川评述
+http://rihou.cc:555/tv/01川超咪评述
+#EXTINF:-1 group-title="5/01赛事",19:35乐山队🆚凉山队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="5/01赛事",国🔊01川述评
+http://rihou.cc:555/tv/01川超咪述评
+#EXTINF:-1 group-title="5/01赛事",19:35绵阳队🆚成都队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="5/01赛事",国🔊01川评评
+http://rihou.cc:555/tv/01川超咪评评
+#EXTINF:-1 group-title="5/01赛事",19:35达州队🆚宜宾队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="5/01赛事",国🔊01川述述
+http://rihou.cc:555/tv/01川超咪述述
 #EXTINF:-1 group-title="5/01赛事",05-01⬇️粤BA联赛⬇️🏀📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="5/01赛事",19:30潮州🆚梅州
@@ -173,6 +173,20 @@ http://rihou.cc:555/tv/02英超咪评评
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="5/02赛事",国🔊02英述述
 http://rihou.cc:555/tv/02英超咪述述
+#EXTINF:-1 group-title="5/02赛事",05-02⬇️贵州村超⬇️⚽📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="5/02赛事",14:00高硐村足球队🆚党调村贵州村徒队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="5/02赛事",国🔊02村评述
+http://rihou.cc:555/tv/02村超咪评述
+#EXTINF:-1 group-title="5/02赛事",16:00党相村塔石羊瘪队🆚扒王村足球队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="5/02赛事",国🔊02村述评
+http://rihou.cc:555/tv/02村超咪述评
+#EXTINF:-1 group-title="5/02赛事",21:00车江二村足球队🆚色边村足球队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="5/02赛事",国🔊02村评评
+http://rihou.cc:555/tv/02村超咪评评
 #EXTINF:-1 group-title="5/02赛事",05-02⬇️鲁超联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="5/02赛事",14:30德州古贝春🆚青岛青春
@@ -319,6 +333,20 @@ http://rihou.cc:555/tv/03英超咪述评
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="5/03赛事",国🔊03英评评
 http://rihou.cc:555/tv/03英超咪评评
+#EXTINF:-1 group-title="5/03赛事",05-03⬇️贵州村超⬇️⚽📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="5/03赛事",14:30场坝大河口将军岩队🆚安乐村足球队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="5/03赛事",国🔊03村评述
+http://rihou.cc:555/tv/03村超咪评述
+#EXTINF:-1 group-title="5/03赛事",16:30俾吊岑村足球队🆚平永村足球队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="5/03赛事",国🔊03村述评
+http://rihou.cc:555/tv/03村超咪述评
+#EXTINF:-1 group-title="5/03赛事",20:30腊酉村足球队🆚水尾村足球队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="5/03赛事",国🔊03村评评
+http://rihou.cc:555/tv/03村超咪评评
 #EXTINF:-1 group-title="5/03赛事",05-03⬇️粤超联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="5/03赛事",15:30茂名队🆚湛江队
@@ -391,6 +419,20 @@ http://rihou.cc:555/tv/04英超咪评述
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="5/04赛事",国🔊04英述评
 http://rihou.cc:555/tv/04英超咪述评
+#EXTINF:-1 group-title="5/04赛事",05-04⬇️贵州村超⬇️⚽📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="5/04赛事",14:30忠诚村足球队🆚色边村足球队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="5/04赛事",国🔊04村评述
+http://rihou.cc:555/tv/04村超咪评述
+#EXTINF:-1 group-title="5/04赛事",16:30党调村贵州村徒队🆚寿洞村足球队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="5/04赛事",国🔊04村述评
+http://rihou.cc:555/tv/04村超咪述评
+#EXTINF:-1 group-title="5/04赛事",20:30场坝龙泉井村队🆚阳光村足球队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="5/04赛事",国🔊04村评评
+http://rihou.cc:555/tv/04村超咪评评
 #EXTINF:-1 group-title="5/04赛事",05-04⬇️鲁超联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="5/04赛事",15:00聊城传奇农商行🆚临沂队
@@ -409,6 +451,24 @@ http://rihou.cc:555/tv/t
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="5/05赛事",国🔊05英评述
 http://rihou.cc:555/tv/05英超咪评述
+#EXTINF:-1 group-title="5/05赛事",05-05⬇️贵州村超⬇️⚽📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="5/05赛事",14:30仁吉村村牛足球队🆚俾吊岑村足球队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="5/05赛事",国🔊05村评述
+http://rihou.cc:555/tv/05村超咪评述
+#EXTINF:-1 group-title="5/05赛事",16:30平永村足球队🆚党相村塔石羊瘪队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="5/05赛事",国🔊05村述评
+http://rihou.cc:555/tv/05村超咪述评
+#EXTINF:-1 group-title="5/05赛事",18:30水尾村足球队🆚小堡村足球队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="5/05赛事",国🔊05村评评
+http://rihou.cc:555/tv/05村超咪评评
+#EXTINF:-1 group-title="5/05赛事",20:30扒王村足球队🆚场坝大河口将军岩队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="5/05赛事",国🔊05村述述
+http://rihou.cc:555/tv/05村超咪述述
 #EXTINF:-1 group-title="5/05赛事",05-05⬇️鲁超联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="5/05赛事",15:00枣庄丰源轮胎队🆚潍坊队
@@ -500,23 +560,23 @@ http://rihou.cc:555/tv/06中超咪述述
 #EXTINF:-1 group-title="赛事精锦",⬇️各大赛事精锦⬇️
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="赛事精锦",联赛赛事回放
-http://rihou.cc:555/tv/联赛回放赛30
+http://rihou.cc:555/tv/联赛回放赛01
 #EXTINF:-1 group-title="赛事精锦",NBA赛事回放
-http://rihou.cc:555/tv/NBA回放赛30
+http://rihou.cc:555/tv/NBA回放赛01
 #EXTINF:-1 group-title="赛事精锦",羽球赛事回放
-http://rihou.cc:555/tv/羽球回放赛30
+http://rihou.cc:555/tv/羽球回放赛01
 #EXTINF:-1 group-title="赛事精锦",橄球赛事回放
-http://rihou.cc:555/tv/橄球回放赛30
+http://rihou.cc:555/tv/橄球回放赛01
 #EXTINF:-1 group-title="赛事精锦",乒球赛事回放
-http://rihou.cc:555/tv/乒球回放赛30
+http://rihou.cc:555/tv/乒球回放赛01
 #EXTINF:-1 group-title="赛事精锦",网球赛事回放
-http://rihou.cc:555/tv/网球回放赛30
+http://rihou.cc:555/tv/网球回放赛01
 #EXTINF:-1 group-title="赛事精锦",排球赛事回放
-http://rihou.cc:555/tv/排球回放赛30
+http://rihou.cc:555/tv/排球回放赛01
 #EXTINF:-1 group-title="赛事精锦",格斗赛事回放
-http://rihou.cc:555/tv/格斗回放赛30
+http://rihou.cc:555/tv/格斗回放赛01
 #EXTINF:-1 group-title="赛事精锦",斯赛赛事回放
-http://rihou.cc:555/tv/斯赛回放赛30
+http://rihou.cc:555/tv/斯赛回放赛01
 #EXTINF:-1 group-title="赛事咪咕",抖姐舞陪你看
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="赛事咪咕",赛事睛彩竞技
@@ -1666,9 +1726,9 @@ https://pull.dxhmt.cn/tv/168666456yinyue123477.flv
 #EXTINF:-1 group-title="欣赏频道",经典音乐频道
 https://pull.dxhmt.cn/tv/168666456yinyuy123477.flv
 #EXTINF:-1 group-title="网页音乐",音乐库仓抖播
-http://rihou.cc:555/tv/音乐库仓抖30
+http://rihou.cc:555/tv/音乐库仓抖01
 #EXTINF:-1 group-title="网页音乐",音乐仓库抖播
-http://rihou.cc:555/tv/音乐仓库抖30
+http://rihou.cc:555/tv/音乐仓库抖01
 #EXTINF:-1 group-title="欣赏音乐",⬇️刘德华<今日>演唱会精彩片段⬇️
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="欣赏音乐",今日演唱会上
