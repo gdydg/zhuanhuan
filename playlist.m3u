@@ -23,12 +23,28 @@ http://rihou.cc:555/tv/t
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="NBA赛评",粤🔊22小肥述
 http://rihou.cc:555/tv/22NBA小肥述
+#EXTINF:-1 group-title="NBA赛评",粤🔊22牛哥述
+http://rihou.cc:555/tv/22NBA牛哥述
 #EXTINF:-1 group-title="NBA赛评",国🔊22咪评述
 http://rihou.cc:555/tv/22NBA咪评述
 #EXTINF:-1 group-title="NBA赛评",国🔊22腾评述
 http://rihou.cc:555/tv/22NBA腾评述
 #EXTINF:-1 group-title="NBA赛评",国🔊22纬来述
 http://rihou.cc:555/tv/22NBA纬来述
+#EXTINF:-1 group-title="村超赛评",05-22⬇️贵州村超联赛⬇️⚽📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="村超赛评",16:20俾吊岑村足球队🆚扒王村足球队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="村超赛评",国🔊22村评述
+http://rihou.cc:555/tv/22村超咪评述
+#EXTINF:-1 group-title="村超赛评",18:30车江二村足球队🆚场坝龙泉井村队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="村超赛评",国🔊22村述评
+http://rihou.cc:555/tv/22村超咪述评
+#EXTINF:-1 group-title="村超赛评",20:30色边村足球队🆚车江一村足球队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="村超赛评",国🔊22村评评
+http://rihou.cc:555/tv/22村超咪评评
 #EXTINF:-1 group-title="CBA赛评",05-22⬇️CBA季后赛半决赛⬇️🏀📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="CBA赛评",19:35北京北汽🆚上海久事
@@ -57,6 +73,24 @@ http://rihou.cc:555/tv/23NBA咪评述
 http://rihou.cc:555/tv/23NBA腾评述
 #EXTINF:-1 group-title="5/23赛事",国🔊23纬来述
 http://rihou.cc:555/tv/23NBA纬来述
+#EXTINF:-1 group-title="5/23赛事",05-23⬇️贵州村超联赛⬇️⚽📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="5/23赛事",14:20阳光村足球队🆚腊酉村足球队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="5/23赛事",国🔊23村评述
+http://rihou.cc:555/tv/23村超咪评述
+#EXTINF:-1 group-title="5/23赛事",16:30场坝大河口将军岩队🆚仁吉村村牛足球队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="5/23赛事",国🔊23村述评
+http://rihou.cc:555/tv/23村超咪述评
+#EXTINF:-1 group-title="5/23赛事",18:30探路者球队🆚爱未来榕江公益慈善队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="5/23赛事",国🔊23村评评
+http://rihou.cc:555/tv/23村超咪评评
+#EXTINF:-1 group-title="5/23赛事",20:30平永村足球队🆚安乐村足球队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="5/23赛事",国🔊23村述述
+http://rihou.cc:555/tv/23村超咪述述
 #EXTINF:-1 group-title="5/23赛事",05-23⬇️内蒙古足球超级联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="5/23赛事",14:50兴安盟队🆚巴彦淖尔队
@@ -305,6 +339,24 @@ http://rihou.cc:555/tv/24NBA咪评述
 http://rihou.cc:555/tv/24NBA腾评述
 #EXTINF:-1 group-title="5/24赛事",国🔊24纬来述
 http://rihou.cc:555/tv/24NBA纬来述
+#EXTINF:-1 group-title="5/24赛事",05-24⬇️贵州村超联赛⬇️⚽📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="5/24赛事",14:20大利村🆚忠诚村足球队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="5/24赛事",国🔊24村评述
+http://rihou.cc:555/tv/24村超咪评述
+#EXTINF:-1 group-title="5/24赛事",16:30党相村塔石羊瘪队🆚党调村贵州村徒队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="5/24赛事",国🔊24村述评
+http://rihou.cc:555/tv/24村超咪述评
+#EXTINF:-1 group-title="5/24赛事",18:30高硐村足球队🆚寿洞村足球队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="5/24赛事",国🔊24村评评
+http://rihou.cc:555/tv/24村超咪评评
+#EXTINF:-1 group-title="5/24赛事",20:30小堡村足球队🆚富民村足球队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="5/24赛事",国🔊24村述述
+http://rihou.cc:555/tv/24村超咪述述
 #EXTINF:-1 group-title="5/24赛事",05-24⬇️内蒙古足球超级联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="5/24赛事",15:50乌兰察布队🆚呼伦贝尔队
