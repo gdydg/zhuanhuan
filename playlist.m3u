@@ -17,28 +17,8 @@ http://rihou.cc:555/tv/[mv]分享更新
 http://rihou.cc:555/tv/[mv]爱扒随便
 #EXTINF:-1 group-title="猫TV影视",➡️不必纠结⬅️
 http://rihou.cc:555/tv/[mv]不必纠结
-#EXTINF:-1 group-title="NBA赛评",05-23⬇️NBA西部决赛⬇️🏀📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="NBA赛评",08:30雷霆(1🆚1)马刺
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="NBA赛评",粤🔊23小肥述
-http://rihou.cc:555/tv/23NBA小肥述
-#EXTINF:-1 group-title="NBA赛评",国🔊23咪评述
-http://rihou.cc:555/tv/23NBA咪评述
-#EXTINF:-1 group-title="NBA赛评",国🔊23腾评述
-http://rihou.cc:555/tv/23NBA腾评述
-#EXTINF:-1 group-title="NBA赛评",国🔊23纬来述
-http://rihou.cc:555/tv/23NBA纬来述
 #EXTINF:-1 group-title="村超赛评",05-23⬇️贵州村超联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="村超赛评",14:20阳光村足球队🆚腊酉村足球队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="村超赛评",国🔊23村评述
-http://rihou.cc:555/tv/23村超咪评述
-#EXTINF:-1 group-title="村超赛评",16:30场坝大河口将军岩队🆚仁吉村村牛足球队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="村超赛评",国🔊23村述评
-http://rihou.cc:555/tv/23村超咪述评
 #EXTINF:-1 group-title="村超赛评",18:30探路者球队🆚爱未来榕江公益慈善队
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="村超赛评",国🔊23村评评
@@ -49,14 +29,6 @@ http://rihou.cc:555/tv/v
 http://rihou.cc:555/tv/23村超咪述述
 #EXTINF:-1 group-title="蒙超赛评",05-23⬇️内蒙古足球超级联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="蒙超赛评",14:50兴安盟队🆚巴彦淖尔队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="蒙超赛评",国🔊23蒙评述
-http://rihou.cc:555/tv/23蒙超咪评述
-#EXTINF:-1 group-title="蒙超赛评",15:50阿拉善队🆚通辽队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="蒙超赛评",国🔊23蒙述评
-http://rihou.cc:555/tv/23蒙超咪述评
 #EXTINF:-1 group-title="蒙超赛评",18:50赤峰队🆚包头队
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="蒙超赛评",国🔊23蒙评评
@@ -67,10 +39,6 @@ http://rihou.cc:555/tv/v
 http://rihou.cc:555/tv/23蒙超咪述述
 #EXTINF:-1 group-title="鲁超赛评",05-23⬇️山东省齐鲁足球超级联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="鲁超赛评",15:00聊城传奇农商行🆚烟台队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="鲁超赛评",国🔊23鲁评述
-http://rihou.cc:555/tv/23鲁超咪评述
 #EXTINF:-1 group-title="鲁超赛评",19:00滨州创新队🆚东营队
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="鲁超赛评",国🔊23鲁述评
@@ -89,10 +57,6 @@ http://rihou.cc:555/tv/v
 http://rihou.cc:555/tv/23鲁超咪旁述
 #EXTINF:-1 group-title="粤超赛评",05-23⬇️广东省城市足球超级联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="粤超赛评",15:30潮州队🆚清远队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="粤超赛评",国🔊粤23评述
-http://rihou.cc:555/tv/23粤超咪评述
 #EXTINF:-1 group-title="粤超赛评",19:30惠州队🆚揭阳队
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="粤超赛评",国🔊粤23述评
@@ -111,10 +75,6 @@ http://rihou.cc:555/tv/v
 http://rihou.cc:555/tv/23粤超咪旁述
 #EXTINF:-1 group-title="鄂超赛评",05-23⬇️湖北省城市足球联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="鄂超赛评",15:50神农架队🆚潜江龙虾队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="鄂超赛评",国🔊23鄂评述
-http://rihou.cc:555/tv/23鄂超咪评述
 #EXTINF:-1 group-title="鄂超赛评",19:25黄石队🆚宜昌东阳光队
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="鄂超赛评",国🔊23鄂述评
@@ -135,40 +95,6 @@ http://rihou.cc:555/tv/23鄂超咪旁述
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="鄂超赛评",国🔊23鄂述旁
 http://rihou.cc:555/tv/23鄂超咪述旁
-#EXTINF:-1 group-title="滇超赛评",05-23⬇️云南省城市足球联赛⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="滇超赛评",16:30普洱队🆚迪庆队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="滇超赛评",国🔊23滇评述
-http://rihou.cc:555/tv/23滇超咪评述
-#EXTINF:-1 group-title="滇超赛评",16:30怒江队🆚大理队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="滇超赛评",国🔊23滇述评
-http://rihou.cc:555/tv/23滇超咪述评
-#EXTINF:-1 group-title="滇超赛评",16:30丽江队🆚红河队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="滇超赛评",国🔊23滇评评
-http://rihou.cc:555/tv/23滇超咪评评
-#EXTINF:-1 group-title="滇超赛评",16:30保山队🆚西双版纳队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="滇超赛评",国🔊23滇述述
-http://rihou.cc:555/tv/23滇超咪述述
-#EXTINF:-1 group-title="滇超赛评",16:30文山队🆚临沧队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="滇超赛评",国🔊23滇旁述
-http://rihou.cc:555/tv/23滇超咪旁述
-#EXTINF:-1 group-title="滇超赛评",16:30楚雄队🆚德宏队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="滇超赛评",国🔊23滇述旁
-http://rihou.cc:555/tv/23滇超咪述旁
-#EXTINF:-1 group-title="滇超赛评",16:30曲靖队🆚昭通队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="滇超赛评",国🔊23滇旁旁
-http://rihou.cc:555/tv/23滇超咪旁旁
-#EXTINF:-1 group-title="滇超赛评",16:30昆明队🆚玉溪队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="滇超赛评",国🔊23滇旁评
-http://rihou.cc:555/tv/23滇超咪旁评
 #EXTINF:-1 group-title="东超赛评",05-23⬇️东北地区城市足球联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="东超赛评",18:00沈阳🆚鸡西
