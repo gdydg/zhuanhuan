@@ -21,14 +21,16 @@ http://rihou.cc:555/tv/[mv]不必纠结
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="NBA赛评",08:30马刺(2🆚2)雷霆
 http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="NBA赛评",粤🔊27牛哥述
+https://pull.wayttc.com/live/8877642.flv?auth_info=l7IRmG0dgtyJReO0DMt5RwDdvAt5%2F3G4HinsRa5yB8w%3D.7479564c7864356e4c4d733058644665
 #EXTINF:-1 group-title="NBA赛评",粤🔊27小肥述
-http://rihou.cc:555/tv/27NBA小肥述
+https://pull.wayttc.com/live/8877648.flv?auth_info=%2BoliwQrpUmUyb3xMdJvMYqT71WL7Pq%2BHzMOyKHd77z8%3D.773070734974744a5a796a6772475535
 #EXTINF:-1 group-title="NBA赛评",国🔊27咪评述
-http://rihou.cc:555/tv/27NBA咪评述
+https://live.666666.zip/live/3921246.m3u8
 #EXTINF:-1 group-title="NBA赛评",国🔊27腾评述
-http://rihou.cc:555/tv/27NBA腾评述
+https://hls.sportsteam356.com/live/42500315.m3u8
 #EXTINF:-1 group-title="NBA赛评",国🔊27纬来述
-http://rihou.cc:555/tv/27NBA纬来述
+https://hlsz.yjjcfw.com/live/vl.m3u8?expire=1779855220&sign=10f5f207377a22059534e50d1d34c0fb
 #EXTINF:-1 group-title="粤BA赛评",05-27⬇️粤BA联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="粤BA赛评",19:30汕头🆚汕尾
@@ -605,6 +607,32 @@ http://rihou.cc:555/tv/[Pe]广东珠江
 http://rihou.cc:555/tv/[Pe]广东戏曲
 #EXTINF:-1 group-title="特区Petv",博斯网球Petv
 http://rihou.cc:555/tv/[Pe]博斯网球
+#EXTINF:-1 group-title="特区hptv",凤凰香港hptv
+http://123.202.221.184:9983/stream/channelid/1781676223
+#EXTINF:-1 group-title="特区hptv",有线新闻hptv
+http://123.202.221.184:9983/stream/channelid/1393968513
+#EXTINF:-1 group-title="特区hptv",无线新闻hptv
+http://123.202.221.184:9983/stream/channelid/2051586642
+#EXTINF:-1 group-title="特区hptv",无线翡翠hptv
+http://123.202.221.184:9983/stream/channelid/1425740866
+#EXTINF:-1 group-title="特区hptv",无线明珠hptv
+http://123.202.221.184:9983/stream/channelid/1803382046
+#EXTINF:-1 group-title="特区hptv",Plus综合hptv
+http://123.202.221.184:9983/stream/channelid/2082072924
+#EXTINF:-1 group-title="特区hptv",有线综合hptv
+http://123.202.221.184:9983/stream/channelid/1771268893
+#EXTINF:-1 group-title="特区hptv",有线赛讯hptv
+http://123.202.221.184:9983/stream/channelid/794554145
+#EXTINF:-1 group-title="特区hptv",VIUTV'粤hptv
+http://123.202.221.184:9983/stream/channelid/1336932033
+#EXTINF:-1 group-title="特区hptv",VIUTV'英hptv
+http://123.202.221.184:9983/stream/channelid/2134513294
+#EXTINF:-1 group-title="特区hptv",RTHK-31hptv
+http://123.202.221.184:9983/stream/channelid/512708317
+#EXTINF:-1 group-title="特区hptv",RTHK-32hptv
+http://123.202.221.184:9983/stream/channelid/1947359012
+#EXTINF:-1 group-title="特区hptv",CCTV-综hptv
+http://123.202.221.184:9983/stream/channelid/962050687
 #EXTINF:-1 group-title="特区双音",Plus综合双语
 https://o11.163189.xyz/stream/tvb/tvbp/
 #EXTINF:-1 group-title="特区双音",无线翡翠4k音
