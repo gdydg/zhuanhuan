@@ -1,16 +1,12 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
-#EXTINF:-1 group-title="国足赛评",06-05⬇️土伦杯小组赛⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="国足赛评",21:00中国U19🆚哥伦比亚U19
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="国足赛评",国🔊05土评述
-http://rihou.cc:555/tv/05土伦咪评述
 #EXTINF:-1 group-title="NBA赛评",06-06⬇️NBA总决赛G2⬇️🏀📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="NBA赛评",08:30尼克斯(1🆚0)马刺
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="NBA赛评",粤🔊06小肥述
 http://rihou.cc:555/tv/06NBA小肥述
+#EXTINF:-1 group-title="NBA赛评",粤🔊06金爷述
+http://rihou.cc:555/tv/06NBA金爷述
 #EXTINF:-1 group-title="NBA赛评",国🔊06咪评述
 http://rihou.cc:555/tv/06NBA咪评述
 #EXTINF:-1 group-title="NBA赛评",国🔊06腾评述
@@ -847,144 +843,6 @@ http://t.061899.xyz/tl/tl.php?id=xzws
 http://t.061899.xyz/tl/tl.php?id=nmgws
 #EXTINF:-1 group-title="央卫咪咕",黑龙江视咪咕
 http://t.061899.xyz/tl/tl.php?id=hljws
-#EXTINF:-1 group-title="特区KPtv",凤凰香港KPtv
-http://rihou.cc:555/tv/[KP]凤凰香港
-#EXTINF:-1 group-title="特区KPtv",无线新闻KPtv
-http://rihou.cc:555/tv/[KP]无线新闻
-#EXTINF:-1 group-title="特区KPtv",无线翡翠KPtv
-http://rihou.cc:555/tv/[KP]无线翡翠
-#EXTINF:-1 group-title="特区KPtv",无线明珠KPtv
-http://rihou.cc:555/tv/[KP]无线明珠
-#EXTINF:-1 group-title="特区KPtv",无线经典KPtv
-http://rihou.cc:555/tv/[KP]无线经典
-#EXTINF:-1 group-title="特区KPtv",无线星河KPtv
-http://rihou.cc:555/tv/[KP]无线星河
-#EXTINF:-1 group-title="特区KPtv",无线娱乐KPtv
-http://rihou.cc:555/tv/[KP]无线娱乐
-#EXTINF:-1 group-title="特区KPtv",天映电影KPtv
-http://rihou.cc:555/tv/[KP]天映电影
-#EXTINF:-1 group-title="特区KPtv",美亚电影KPtv
-http://rihou.cc:555/tv/[KP]美亚电影
-#EXTINF:-1 group-title="特区KPtv",龙祥电影KPtv
-http://rihou.cc:555/tv/[KP]龙祥电影
-#EXTINF:-1 group-title="特区KPtv",东森电影KPtv
-http://rihou.cc:555/tv/[KP]东森电影
-#EXTINF:-1 group-title="特区KPtv",HBO电影KPtv
-http://rihou.cc:555/tv/[KP]HBO电影
-#EXTINF:-1 group-title="特区KPtv",AXN电影KPtv
-http://rihou.cc:555/tv/[KP]AXN电影
-#EXTINF:-1 group-title="特区KPtv",VIUTV'英KPtv
-http://rihou.cc:555/tv/[KP]VIUTV英
-#EXTINF:-1 group-title="闽南KPtv",中天新闻KPtv
-http://rihou.cc:555/tv/[KP]中天新闻
-#EXTINF:-1 group-title="闽南KPtv",东森新闻KPtv
-http://rihou.cc:555/tv/[KP]东森新闻
-#EXTINF:-1 group-title="闽南KPtv",寰宇新闻KPtv
-http://rihou.cc:555/tv/[KP]寰宇新闻
-#EXTINF:-1 group-title="闽南KPtv",tvbs新闻KPtv
-http://rihou.cc:555/tv/[KP]tvbs新闻
-#EXTINF:-1 group-title="闽南KPtv",年代新闻KPtv
-http://rihou.cc:555/tv/[KP]年代新闻
-#EXTINF:-1 group-title="闽南KPtv",非凡新闻KPtv
-http://rihou.cc:555/tv/[KP]非凡新闻
-#EXTINF:-1 group-title="闽南KPtv",中视新闻KPtv
-http://rihou.cc:555/tv/[KP]中视新闻
-#EXTINF:-1 group-title="闽南KPtv",民视新闻KPtv
-http://rihou.cc:555/tv/[KP]民视新闻
-#EXTINF:-1 group-title="闽南KPtv",台视新闻KPtv
-http://rihou.cc:555/tv/[KP]台视新闻
-#EXTINF:-1 group-title="闽南KPtv",tvbs闽南KPtv
-http://rihou.cc:555/tv/[KP]tvbs闽南
-#EXTINF:-1 group-title="闽南KPtv",中视闽南KPtv
-http://rihou.cc:555/tv/[KP]中视闽南
-#EXTINF:-1 group-title="闽南KPtv",民视闽南KPtv
-http://rihou.cc:555/tv/[KP]民视闽南
-#EXTINF:-1 group-title="闽南KPtv",华视闽南KPtv
-http://rihou.cc:555/tv/[KP]华视闽南
-#EXTINF:-1 group-title="闽南KPtv",公视闽语KPtv
-http://rihou.cc:555/tv/[KP]公视闽语
-#EXTINF:-1 group-title="闽南KPtv",民视闽语KPtv
-http://rihou.cc:555/tv/[KP]民视闽语
-#EXTINF:-1 group-title="闽南KPtv",台视综合KPtv
-http://rihou.cc:555/tv/[KP]台视综合
-#EXTINF:-1 group-title="闽南KPtv",中天综合KPtv
-http://rihou.cc:555/tv/[KP]中天综合
-#EXTINF:-1 group-title="闽南KPtv",中天亚洲KPtv
-http://rihou.cc:555/tv/[KP]中天亚洲
-#EXTINF:-1 group-title="闽南KPtv",中天娱乐KPtv
-http://rihou.cc:555/tv/[KP]中天娱乐
-#EXTINF:-1 group-title="闽南KPtv",三立都会KPtv
-http://rihou.cc:555/tv/[KP]三立都会
-#EXTINF:-1 group-title="闽南KPtv",三立闽南KPtv
-http://rihou.cc:555/tv/[KP]三立闽南
-#EXTINF:-1 group-title="闽南KPtv",三立综合KPtv
-http://rihou.cc:555/tv/[KP]三立综合
-#EXTINF:-1 group-title="闽南KPtv",八大第一KPtv
-http://rihou.cc:555/tv/[KP]八大第一
-#EXTINF:-1 group-title="闽南KPtv",八大戏剧KPtv
-http://rihou.cc:555/tv/[KP]八大戏剧
-#EXTINF:-1 group-title="闽南KPtv",八大综合KPtv
-http://rihou.cc:555/tv/[KP]八大综合
-#EXTINF:-1 group-title="闽南KPtv",东森财经KPtv
-http://rihou.cc:555/tv/[KP]东森财经
-#EXTINF:-1 group-title="闽南KPtv",东森戏剧KPtv
-http://rihou.cc:555/tv/[KP]东森戏剧
-#EXTINF:-1 group-title="闽南KPtv",东森洋片KPtv
-http://rihou.cc:555/tv/[KP]东森洋片
-#EXTINF:-1 group-title="闽南KPtv",东森综合KPtv
-http://rihou.cc:555/tv/[KP]东森综合
-#EXTINF:-1 group-title="闽南KPtv",龙华偶像KPtv
-http://rihou.cc:555/tv/[KP]龙华偶像
-#EXTINF:-1 group-title="闽南KPtv",龙华戏剧KPtv
-http://rihou.cc:555/tv/[KP]龙华戏剧
-#EXTINF:-1 group-title="闽南KPtv",靖天卡通KPtv
-http://rihou.cc:555/tv/[KP]靖天卡通
-#EXTINF:-1 group-title="闽南KPtv",大爱频道KPtv
-http://rihou.cc:555/tv/[KP]大爱频道
-#EXTINF:-1 group-title="闽南KPtv",好消息贰KPtv
-http://rihou.cc:555/tv/[KP]好消息贰
-#EXTINF:-1 group-title="闽南KPtv",华艺中文KPtv
-http://rihou.cc:555/tv/[KP]华艺中文
-#EXTINF:-1 group-title="闽南KPtv",阿里郎综KPtv
-http://rihou.cc:555/tv/[KP]阿里郎综
-#EXTINF:-1 group-title="闽南KPtv",亚洲美食KPtv
-http://rihou.cc:555/tv/[KP]亚洲美食
-#EXTINF:-1 group-title="闽南KPtv",纬来日本KPtv
-http://rihou.cc:555/tv/[KP]纬来日本
-#EXTINF:-1 group-title="闽南KPtv",纬来戏剧KPtv
-http://rihou.cc:555/tv/[KP]纬来戏剧
-#EXTINF:-1 group-title="闽南KPtv",纬来育乐KPtv
-http://rihou.cc:555/tv/[KP]纬来育乐
-#EXTINF:-1 group-title="闽南KPtv",纬来综合KPtv
-http://rihou.cc:555/tv/[KP]纬来综合
-#EXTINF:-1 group-title="闽南KPtv",纬来体育KPtv
-http://rihou.cc:555/tv/[KP]纬来体育
-#EXTINF:-1 group-title="闽南KPtv",博斯无限KPtv
-http://rihou.cc:555/tv/[KP]博斯无限
-#EXTINF:-1 group-title="闽南KPtv",博斯网球KPtv
-http://rihou.cc:555/tv/[KP]博斯网球
-#EXTINF:-1 group-title="闽南KPtv",博高球贰KPtv
-http://rihou.cc:555/tv/[KP]博高球贰
-#EXTINF:-1 group-title="闽南KPtv",博运动壹KPtv
-http://rihou.cc:555/tv/[KP]博运动壹
-#EXTINF:-1 group-title="闽南KPtv",博运动贰KPtv
-http://rihou.cc:555/tv/[KP]博运动贰
-#EXTINF:-1 group-title="闽南KPtv",DAZN'壹KPtv
-http://rihou.cc:555/tv/[KP]DAZN壹
-#EXTINF:-1 group-title="闽南KPtv",tvbs欢乐KPtv
-http://rihou.cc:555/tv/[KP]tvbs欢乐
-#EXTINF:-1 group-title="闽南KPtv",ELta综合KPtv
-http://rihou.cc:555/tv/[KP]ELta综合
-#EXTINF:-1 group-title="闽南KPtv",EYE'旅游KPtv
-http://rihou.cc:555/tv/[KP]EYE旅游
-#EXTINF:-1 group-title="闽南KPtv",EYE'戏剧KPtv
-http://rihou.cc:555/tv/[KP]EYE戏剧
-#EXTINF:-1 group-title="闽南KPtv",YOYO'幼KPtv
-http://rihou.cc:555/tv/[KP]YOYO幼
-#EXTINF:-1 group-title="闽南KPtv",DW-综合KPtv
-http://rihou.cc:555/tv/[KP]DW综合
-#EXTINF:-1 group-title="闽南KPtv",TLC综合KPtv
-http://rihou.cc:555/tv/[KP]TLC综合
 #EXTINF:-1 group-title="特新Pdtv",Plus综合Pdtv
 http://rihou.cc:555/tv/[Pd]Plus综合
 #EXTINF:-1 group-title="特新Pdtv",凤凰中文Pdtv
