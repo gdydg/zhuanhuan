@@ -1,65 +1,19 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
-#EXTINF:-1 group-title="NBA赛评",06-06⬇️NBA总决赛G2⬇️🏀📡
+#EXTINF:-1 group-title="国足赛评",06-08⬇️土伦杯小组赛⬇️⚽📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="NBA赛评",08:30尼克斯(1🆚0)马刺
+#EXTINF:-1 group-title="国足赛评",00:30中国U19🆚突尼斯U23
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="NBA赛评",粤🔊06小肥述
-http://rihou.cc:555/tv/06NBA小肥述
-#EXTINF:-1 group-title="NBA赛评",粤🔊06金爷述
-http://rihou.cc:555/tv/06NBA金爷述
-#EXTINF:-1 group-title="NBA赛评",国🔊06咪评述
-http://rihou.cc:555/tv/06NBA咪评述
-#EXTINF:-1 group-title="NBA赛评",国🔊06腾评述
-http://rihou.cc:555/tv/06NBA腾评述
-#EXTINF:-1 group-title="NBA赛评",国🔊06纬来述
-http://rihou.cc:555/tv/06NBA纬来述
-#EXTINF:-1 group-title="国青赛评",06-06⬇️中国之队·国际青年足球邀请赛⬇️🏀📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="国青赛评",15:30中国U23🆚塔吉克斯坦U23
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="国青赛评",国🔊06青评述
-http://rihou.cc:555/tv/06国青咪评述
-#EXTINF:-1 group-title="蒙超赛评",06-06⬇️内蒙古足球超级联赛⬇️🏀📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="蒙超赛评",15:50锡林郭勒队🆚阿拉善队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="蒙超赛评",国🔊06蒙评述
-http://rihou.cc:555/tv/06蒙超咪评述
-#EXTINF:-1 group-title="蒙超赛评",15:50乌兰察布队🆚包头队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="蒙超赛评",国🔊06蒙述评
-http://rihou.cc:555/tv/06蒙超咪述评
-#EXTINF:-1 group-title="蒙超赛评",15:50兴安盟队🆚乌海队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="蒙超赛评",国🔊06蒙评评
-http://rihou.cc:555/tv/06蒙超咪评评
-#EXTINF:-1 group-title="蒙超赛评",16:50巴彦淖尔队🆚呼伦贝尔队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="蒙超赛评",国🔊06蒙述述
-http://rihou.cc:555/tv/06蒙超咪述述
-#EXTINF:-1 group-title="蒙超赛评",18:50赤峰队🆚通辽队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="蒙超赛评",国🔊06蒙旁述
-http://rihou.cc:555/tv/06蒙超咪旁述
-#EXTINF:-1 group-title="蒙超赛评",19:20呼和浩特队🆚鄂尔多斯队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="蒙超赛评",国🔊06蒙述旁
-http://rihou.cc:555/tv/06蒙超咪述旁
-#EXTINF:-1 group-title="川超赛评",06-06⬇️四川省城市足球超级联赛⬇️🏀📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="川超赛评",19:35乐山队🆚德阳队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="川超赛评",国🔊06川评述
-http://rihou.cc:555/tv/06川超咪评述
-#EXTINF:-1 group-title="6/08赛事",06-08⬇️土伦杯小组赛⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="6/08赛事",00:30中国U19🆚突尼斯U23
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="6/08赛事",国🔊08土评述
+#EXTINF:-1 group-title="国足赛评",国🔊08土评述
 http://rihou.cc:555/tv/08土伦咪评述
+#EXTINF:-1 group-title="世热身赛",06-08⬇️世界杯热身赛⬇️⚽📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="世热身赛",03:03摩洛哥🆚挪威
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="世热身赛",国🔊08热评述
+http://rihou.cc:555/tv/08热身咪评述
 #EXTINF:-1 group-title="6/09赛事",06-09⬇️NBA总决赛G3⬇️🏀📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="6/09赛事",08:30马刺(🆚)尼克斯
+#EXTINF:-1 group-title="6/09赛事",08:30马刺(0🆚2)尼克斯
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="6/09赛事",粤🔊09小肥述
 http://rihou.cc:555/tv/09NBA小肥述
@@ -69,6 +23,12 @@ http://rihou.cc:555/tv/09NBA咪评述
 http://rihou.cc:555/tv/09NBA腾评述
 #EXTINF:-1 group-title="6/09赛事",国🔊09纬来述
 http://rihou.cc:555/tv/09NBA纬来述
+#EXTINF:-1 group-title="6/10赛事",06-10⬇️世界杯热身赛⬇️⚽📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="6/10赛事",09:08阿根廷🆚冰岛
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="6/10赛事",国🔊10热评述
+http://rihou.cc:555/tv/10热身咪评述
 #EXTINF:-1 group-title="6/11赛事",06-11⬇️NBA总决赛G4⬇️🏀📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="6/11赛事",08:30马刺(🆚)尼克斯
@@ -406,23 +366,23 @@ http://rihou.cc:555/tv/28世界杯述旁
 #EXTINF:-1 group-title="赛事精锦",⬇️各大赛事精锦⬇️
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="赛事精锦",联赛赛事回放
-http://rihou.cc:555/tv/联赛回放赛06
+http://rihou.cc:555/tv/联赛回放赛08
 #EXTINF:-1 group-title="赛事精锦",NBA赛事回放
-http://rihou.cc:555/tv/NBA回放赛06
+http://rihou.cc:555/tv/NBA回放赛08
 #EXTINF:-1 group-title="赛事精锦",羽球赛事回放
-http://rihou.cc:555/tv/羽球回放赛06
+http://rihou.cc:555/tv/羽球回放赛08
 #EXTINF:-1 group-title="赛事精锦",橄球赛事回放
-http://rihou.cc:555/tv/橄球回放赛06
+http://rihou.cc:555/tv/橄球回放赛08
 #EXTINF:-1 group-title="赛事精锦",乒球赛事回放
-http://rihou.cc:555/tv/乒球回放赛06
+http://rihou.cc:555/tv/乒球回放赛08
 #EXTINF:-1 group-title="赛事精锦",网球赛事回放
-http://rihou.cc:555/tv/网球回放赛06
+http://rihou.cc:555/tv/网球回放赛08
 #EXTINF:-1 group-title="赛事精锦",排球赛事回放
-http://rihou.cc:555/tv/排球回放赛06
+http://rihou.cc:555/tv/排球回放赛08
 #EXTINF:-1 group-title="赛事精锦",格斗赛事回放
-http://rihou.cc:555/tv/格斗回放赛06
+http://rihou.cc:555/tv/格斗回放赛08
 #EXTINF:-1 group-title="赛事精锦",斯赛赛事回放
-http://rihou.cc:555/tv/斯赛回放赛06
+http://rihou.cc:555/tv/斯赛回放赛08
 #EXTINF:-1 group-title="赛事咪咕",抖姐舞陪你看
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="赛事咪咕",赛事睛彩竞技
@@ -1492,9 +1452,9 @@ https://pull.dxhmt.cn/tv/168666456yinyue123477.flv
 #EXTINF:-1 group-title="欣赏频道",经典音乐频道
 https://pull.dxhmt.cn/tv/168666456yinyuy123477.flv
 #EXTINF:-1 group-title="网页音乐",音乐库仓抖播
-http://rihou.cc:555/tv/音乐库仓抖06
+http://rihou.cc:555/tv/音乐库仓抖08
 #EXTINF:-1 group-title="网页音乐",音乐仓库抖播
-http://rihou.cc:555/tv/音乐仓库抖06
+http://rihou.cc:555/tv/音乐仓库抖08
 #EXTINF:-1 group-title="欣赏音乐",⬇️刘德华<今日>演唱会精彩片段⬇️
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="欣赏音乐",今日演唱会上
