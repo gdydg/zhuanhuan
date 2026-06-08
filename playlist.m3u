@@ -1,16 +1,24 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
-#EXTINF:-1 group-title="国足赛评",06-08⬇️土伦杯小组赛⬇️⚽📡
+#EXTINF:-1 group-title="赛事精锦",⬇️各大赛事精锦⬇️
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="国足赛评",00:30中国U19🆚突尼斯U23
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="国足赛评",国🔊08土评述
-http://rihou.cc:555/tv/08土伦咪评述
-#EXTINF:-1 group-title="世热身赛",06-08⬇️世界杯热身赛⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="世热身赛",03:03摩洛哥🆚挪威
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="世热身赛",国🔊08热评述
-http://rihou.cc:555/tv/08热身咪评述
+#EXTINF:-1 group-title="赛事精锦",联赛赛事回放
+http://rihou.cc:555/tv/联赛回放赛08
+#EXTINF:-1 group-title="赛事精锦",NBA赛事回放
+http://rihou.cc:555/tv/NBA回放赛08
+#EXTINF:-1 group-title="赛事精锦",羽球赛事回放
+http://rihou.cc:555/tv/羽球回放赛08
+#EXTINF:-1 group-title="赛事精锦",橄球赛事回放
+http://rihou.cc:555/tv/橄球回放赛08
+#EXTINF:-1 group-title="赛事精锦",乒球赛事回放
+http://rihou.cc:555/tv/乒球回放赛08
+#EXTINF:-1 group-title="赛事精锦",网球赛事回放
+http://rihou.cc:555/tv/网球回放赛08
+#EXTINF:-1 group-title="赛事精锦",排球赛事回放
+http://rihou.cc:555/tv/排球回放赛08
+#EXTINF:-1 group-title="赛事精锦",格斗赛事回放
+http://rihou.cc:555/tv/格斗回放赛08
+#EXTINF:-1 group-title="赛事精锦",斯赛赛事回放
+http://rihou.cc:555/tv/斯赛回放赛08
 #EXTINF:-1 group-title="6/09赛事",06-09⬇️NBA总决赛G3⬇️🏀📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="6/09赛事",08:30马刺(0🆚2)尼克斯
@@ -363,26 +371,6 @@ http://rihou.cc:555/tv/28世界杯旁述
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="世界杯赛",国🔊28世述旁
 http://rihou.cc:555/tv/28世界杯述旁
-#EXTINF:-1 group-title="赛事精锦",⬇️各大赛事精锦⬇️
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="赛事精锦",联赛赛事回放
-http://rihou.cc:555/tv/联赛回放赛08
-#EXTINF:-1 group-title="赛事精锦",NBA赛事回放
-http://rihou.cc:555/tv/NBA回放赛08
-#EXTINF:-1 group-title="赛事精锦",羽球赛事回放
-http://rihou.cc:555/tv/羽球回放赛08
-#EXTINF:-1 group-title="赛事精锦",橄球赛事回放
-http://rihou.cc:555/tv/橄球回放赛08
-#EXTINF:-1 group-title="赛事精锦",乒球赛事回放
-http://rihou.cc:555/tv/乒球回放赛08
-#EXTINF:-1 group-title="赛事精锦",网球赛事回放
-http://rihou.cc:555/tv/网球回放赛08
-#EXTINF:-1 group-title="赛事精锦",排球赛事回放
-http://rihou.cc:555/tv/排球回放赛08
-#EXTINF:-1 group-title="赛事精锦",格斗赛事回放
-http://rihou.cc:555/tv/格斗回放赛08
-#EXTINF:-1 group-title="赛事精锦",斯赛赛事回放
-http://rihou.cc:555/tv/斯赛回放赛08
 #EXTINF:-1 group-title="赛事咪咕",抖姐舞陪你看
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="赛事咪咕",赛事睛彩竞技
