@@ -1,221 +1,179 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
-#EXTINF:-1 group-title="世界杯赛",06-12⬇️世界杯小组赛⬇️⚽📡
+#EXTINF:-1 group-title="世界杯赛",06-13⬇️世界杯小组赛⬇️⚽📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="世界杯赛",A组10:00韩国🆚捷克
+#EXTINF:-1 group-title="世界杯赛",B组03:00加拿大🆚波黑
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="世界杯赛",粤🔊鞋佬旁述
-http://rihou.cc:555/tv/12世杯鞋佬述
-#EXTINF:-1 group-title="世界杯赛",粤🔊大D-旁述
-http://rihou.cc:555/tv/12世杯大D述
-#EXTINF:-1 group-title="世界杯赛",粤🔊锐探旁述
-http://rihou.cc:555/tv/12世杯锐探述
-#EXTINF:-1 group-title="世界杯赛",粤🔊丁伟杰述
-http://rihou.cc:555/tv/12世杯丁伟杰
-#EXTINF:-1 group-title="世界杯赛",粤🔊粤kk旁述
-http://rihou.cc:555/tv/12世杯粤kk述
-#EXTINF:-1 group-title="世界杯赛",粤🔊大超旁述
-http://rihou.cc:555/tv/12世杯大超述
-#EXTINF:-1 group-title="世界杯赛",粤🔊12任锴述
-http://rihou.cc:555/tv/12世杯任锴述
+#EXTINF:-1 group-title="世界杯赛",粤🔊13江忠德
+http://rihou.cc:555/tv/13世杯江忠德
 #EXTINF:-1 group-title="世界杯赛",粤🔊广东体育
 http://rihou.cc:555/tv/[At|]广东体育
-#EXTINF:-1 group-title="世界杯赛",国🔊12真实述
-http://rihou.cc:555/tv/12世杯真实述
-#EXTINF:-1 group-title="世界杯赛",国🔊12小斐述
-http://rihou.cc:555/tv/12世杯小斐述
-#EXTINF:-1 group-title="世界杯赛",国🔊12徐阳述
-http://rihou.cc:555/tv/12世杯徐阳述
-#EXTINF:-1 group-title="世界杯赛",国🔊12咪咕述
-http://rihou.cc:555/tv/12世杯咪咕述
-#EXTINF:-1 group-title="鄂超赛评",06-12⬇️湖北省城市足球超级联赛⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="鄂超赛评",15:50神农架队🆚鄂州临空队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="鄂超赛评",国🔊12鄂评述
-http://rihou.cc:555/tv/12鄂超咪评述
-#EXTINF:-1 group-title="川超赛评",06-12⬇️四川省城市足球超级联赛⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="川超赛评",19:35凉山队🆚宜宾队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="川超赛评",国🔊12川评述
-http://rihou.cc:555/tv/12川超咪评述
-#EXTINF:-1 group-title="东北超赛",06-12⬇️东北区城市足球超级联赛⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="东北超赛",19:40哈尔滨🆚呼和浩特
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="东北超赛",国🔊12东评述
-http://rihou.cc:555/tv/12东北超评述
-#EXTINF:-1 group-title="6/13赛事",06-13⬇️世界杯小组赛⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="6/13赛事",B组03:00加拿大🆚波黑
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="6/13赛事",粤🔊13江忠德
-http://rihou.cc:555/tv/13世杯江忠德
-#EXTINF:-1 group-title="6/13赛事",粤'🔊广东体育
-http://rihou.cc:555/tv/[At|]广东体育
-#EXTINF:-1 group-title="6/13赛事",国🔊13李彦述
+#EXTINF:-1 group-title="世界杯赛",国🔊ELta体育
+http://rihou.cc:555/tv/[At|]ELta体育
+#EXTINF:-1 group-title="世界杯赛",国🔊13李彦述
 http://rihou.cc:555/tv/13世杯李彦述
-#EXTINF:-1 group-title="6/13赛事",D组09:00美国🆚巴拉圭
+#EXTINF:-1 group-title="世界杯赛",D组09:00美国🆚巴拉圭
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="6/13赛事",粤🔊13夏景俊
+#EXTINF:-1 group-title="世界杯赛",粤🔊13夏景俊
 http://rihou.cc:555/tv/13世杯夏景俊
-#EXTINF:-1 group-title="6/13赛事",粤🔊'广东体育
+#EXTINF:-1 group-title="世界杯赛",粤'🔊广东体育
 http://rihou.cc:555/tv/[At|]广东体育
-#EXTINF:-1 group-title="6/13赛事",国🔊13刘越述
+#EXTINF:-1 group-title="世界杯赛",国'🔊ELta体育
+http://rihou.cc:555/tv/[At|]ELta体育
+#EXTINF:-1 group-title="世界杯赛",国🔊13刘越述
 http://rihou.cc:555/tv/13世杯刘越述
-#EXTINF:-1 group-title="6/13赛事",06-13⬇️内蒙古城市足球超级联赛⬇️⚽📡
+#EXTINF:-1 group-title="蒙超赛评",06-13⬇️内蒙古城市足球超级联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="6/13赛事",15:50巴彦淖尔队🆚乌兰察布队
+#EXTINF:-1 group-title="蒙超赛评",15:50巴彦淖尔队🆚乌兰察布队
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="6/13赛事",国🔊13蒙评述
+#EXTINF:-1 group-title="蒙超赛评",国🔊13蒙评述
 http://rihou.cc:555/tv/13蒙超咪评述
-#EXTINF:-1 group-title="6/13赛事",15:50呼伦贝尔队🆚鄂尔多斯队
+#EXTINF:-1 group-title="蒙超赛评",15:50呼伦贝尔队🆚鄂尔多斯队
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="6/13赛事",国🔊13蒙述评
+#EXTINF:-1 group-title="蒙超赛评",国🔊13蒙述评
 http://rihou.cc:555/tv/13蒙超咪述评
-#EXTINF:-1 group-title="6/13赛事",16:50乌海队🆚赤峰队
+#EXTINF:-1 group-title="蒙超赛评",16:50乌海队🆚赤峰队
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="6/13赛事",国🔊13蒙评评
+#EXTINF:-1 group-title="蒙超赛评",国🔊13蒙评评
 http://rihou.cc:555/tv/13蒙超咪评评
-#EXTINF:-1 group-title="6/13赛事",16:50阿拉善队🆚兴安盟队
+#EXTINF:-1 group-title="蒙超赛评",16:50阿拉善队🆚兴安盟队
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="6/13赛事",国🔊13蒙述述
+#EXTINF:-1 group-title="蒙超赛评",国🔊13蒙述述
 http://rihou.cc:555/tv/13蒙超咪述述
-#EXTINF:-1 group-title="6/13赛事",19:20包头队🆚锡林郭勒队
+#EXTINF:-1 group-title="蒙超赛评",19:20包头队🆚锡林郭勒队
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="6/13赛事",国🔊13蒙旁述
+#EXTINF:-1 group-title="蒙超赛评",国🔊13蒙旁述
 http://rihou.cc:555/tv/13蒙超咪旁述
-#EXTINF:-1 group-title="6/13赛事",06-13⬇️新疆省城市足球超级联赛⬇️⚽📡
+#EXTINF:-1 group-title="疆超赛评",06-13⬇️新疆省城市足球超级联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="6/13赛事",17:58阿勒泰队🆚克拉玛依队
+#EXTINF:-1 group-title="疆超赛评",17:58阿勒泰队🆚克拉玛依队
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="6/13赛事",国🔊13疆评述
+#EXTINF:-1 group-title="疆超赛评",国🔊13疆评述
 http://rihou.cc:555/tv/13疆超咪评述
-#EXTINF:-1 group-title="6/13赛事",21:28哈密队🆚阿克苏队
+#EXTINF:-1 group-title="疆超赛评",21:28哈密队🆚阿克苏队
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="6/13赛事",国🔊13疆述评
+#EXTINF:-1 group-title="疆超赛评",国🔊13疆述评
 http://rihou.cc:555/tv/13疆超咪述评
-#EXTINF:-1 group-title="6/13赛事",06-13⬇️福建省城市足球超级联赛⬇️⚽📡
+#EXTINF:-1 group-title="闽超赛评",06-13⬇️福建省城市足球超级联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="6/13赛事",19:00漳州队🆚莆田队
+#EXTINF:-1 group-title="闽超赛评",19:00漳州队🆚莆田队
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="6/13赛事",国🔊13闽评述
+#EXTINF:-1 group-title="闽超赛评",国🔊13闽评述
 http://rihou.cc:555/tv/13闽超咪评述
-#EXTINF:-1 group-title="6/13赛事",19:00福州队🆚宁德队
+#EXTINF:-1 group-title="闽超赛评",19:00福州队🆚宁德队
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="6/13赛事",国🔊13闽述评
+#EXTINF:-1 group-title="闽超赛评",国🔊13闽述评
 http://rihou.cc:555/tv/13闽超咪述评
-#EXTINF:-1 group-title="6/13赛事",19:00厦门队🆚平潭队
+#EXTINF:-1 group-title="闽超赛评",19:00厦门队🆚平潭队
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="6/13赛事",国🔊13闽评评
+#EXTINF:-1 group-title="闽超赛评",国🔊13闽评评
 http://rihou.cc:555/tv/13闽超咪评评
-#EXTINF:-1 group-title="6/13赛事",19:00泉州队🆚龙岩队
+#EXTINF:-1 group-title="闽超赛评",19:00泉州队🆚龙岩队
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="6/13赛事",国🔊13闽述述
+#EXTINF:-1 group-title="闽超赛评",国🔊13闽述述
 http://rihou.cc:555/tv/13闽超咪述述
-#EXTINF:-1 group-title="6/13赛事",19:00南平队🆚三明队
+#EXTINF:-1 group-title="闽超赛评",19:00南平队🆚三明队
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="6/13赛事",国🔊13闽旁述
+#EXTINF:-1 group-title="闽超赛评",国🔊13闽旁述
 http://rihou.cc:555/tv/13闽超咪旁述
-#EXTINF:-1 group-title="6/13赛事",06-13⬇️湖北省城市足球超级联赛⬇️⚽📡
+#EXTINF:-1 group-title="鄂超赛评",06-13⬇️湖北省城市足球超级联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="6/13赛事",19:25恩施小土豆队🆚咸宁外星人队
+#EXTINF:-1 group-title="鄂超赛评",19:25恩施小土豆队🆚咸宁外星人队
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="6/13赛事",国🔊13鄂评述
+#EXTINF:-1 group-title="鄂超赛评",国🔊13鄂评述
 http://rihou.cc:555/tv/13鄂超咪评述
-#EXTINF:-1 group-title="6/13赛事",19:25十堰武当队🆚宜昌东阳光队
+#EXTINF:-1 group-title="鄂超赛评",19:25十堰武当队🆚宜昌东阳光队
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="6/13赛事",国🔊13鄂述评
+#EXTINF:-1 group-title="鄂超赛评",国🔊13鄂述评
 http://rihou.cc:555/tv/13鄂超咪述评
-#EXTINF:-1 group-title="6/13赛事",19:25孝感孝傲江湖队🆚随州炎炎队
+#EXTINF:-1 group-title="鄂超赛评",19:25孝感孝傲江湖队🆚随州炎炎队
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="6/13赛事",国🔊13鄂评评
+#EXTINF:-1 group-title="鄂超赛评",国🔊13鄂评评
 http://rihou.cc:555/tv/13鄂超咪评评
-#EXTINF:-1 group-title="6/13赛事",19:25武汉华工科技队🆚仙桃黄鳝队
+#EXTINF:-1 group-title="鄂超赛评",19:25武汉华工科技队🆚仙桃黄鳝队
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="6/13赛事",国🔊13鄂述述
+#EXTINF:-1 group-title="鄂超赛评",国🔊13鄂述述
 http://rihou.cc:555/tv/13鄂超咪述述
-#EXTINF:-1 group-title="6/13赛事",19:25荆门金龙泉队🆚潜江龙虾队
+#EXTINF:-1 group-title="鄂超赛评",19:25荆门金龙泉队🆚潜江龙虾队
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="6/13赛事",国🔊13鄂旁述
+#EXTINF:-1 group-title="鄂超赛评",国🔊13鄂旁述
 http://rihou.cc:555/tv/13鄂超咪旁述
-#EXTINF:-1 group-title="6/13赛事",06-13⬇️江西省城市足球超级联赛⬇️⚽📡
+#EXTINF:-1 group-title="赣超赛评",06-13⬇️江西省城市足球超级联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="6/13赛事",19:30赣州队🆚新余队
+#EXTINF:-1 group-title="赣超赛评",19:30赣州队🆚新余队
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="6/13赛事",国🔊13赣评述
+#EXTINF:-1 group-title="赣超赛评",国🔊13赣评述
 http://rihou.cc:555/tv/13赣超咪评述
-#EXTINF:-1 group-title="6/13赛事",19:30鹰潭队🆚抚州队
+#EXTINF:-1 group-title="赣超赛评",19:30鹰潭队🆚抚州队
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="6/13赛事",国🔊13赣述评
+#EXTINF:-1 group-title="赣超赛评",国🔊13赣述评
 http://rihou.cc:555/tv/13赣超咪述评
-#EXTINF:-1 group-title="6/13赛事",19:30宜春队🆚吉安队
+#EXTINF:-1 group-title="赣超赛评",19:30宜春队🆚吉安队
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="6/13赛事",国🔊13赣评评
+#EXTINF:-1 group-title="赣超赛评",国🔊13赣评评
 http://rihou.cc:555/tv/13赣超咪评评
-#EXTINF:-1 group-title="6/13赛事",06-13⬇️广东省城市足球超级联赛⬇️⚽📡
+#EXTINF:-1 group-title="粤超赛评",06-13⬇️广东省城市足球超级联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="6/13赛事",19:30梅州队🆚清远队
+#EXTINF:-1 group-title="粤超赛评",19:30梅州队🆚清远队
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="6/13赛事",国🔊粤13评述
+#EXTINF:-1 group-title="粤超赛评",国🔊粤13评述
 http://rihou.cc:555/tv/13粤超咪评述
-#EXTINF:-1 group-title="6/13赛事",19:30惠州队🆚东莞队
+#EXTINF:-1 group-title="粤超赛评",19:30惠州队🆚东莞队
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="6/13赛事",国🔊粤13述评
+#EXTINF:-1 group-title="粤超赛评",国🔊粤13述评
 http://rihou.cc:555/tv/13粤超咪述评
-#EXTINF:-1 group-title="6/13赛事",19:30广州队🆚云浮队
+#EXTINF:-1 group-title="粤超赛评",19:30广州队🆚云浮队
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="6/13赛事",国🔊粤13评评
+#EXTINF:-1 group-title="粤超赛评",国🔊粤13评评
 http://rihou.cc:555/tv/13粤超咪评评
-#EXTINF:-1 group-title="6/13赛事",19:30江门队🆚佛山队
+#EXTINF:-1 group-title="粤超赛评",19:30江门队🆚佛山队
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="6/13赛事",国🔊粤13述述
+#EXTINF:-1 group-title="粤超赛评",国🔊粤13述述
 http://rihou.cc:555/tv/13粤超咪述述
-#EXTINF:-1 group-title="6/13赛事",19:30茂名队🆚中山队
+#EXTINF:-1 group-title="粤超赛评",19:30茂名队🆚中山队
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="6/13赛事",国🔊粤13旁述
+#EXTINF:-1 group-title="粤超赛评",国🔊粤13旁述
 http://rihou.cc:555/tv/13粤超咪旁述
-#EXTINF:-1 group-title="6/13赛事",19:30肇庆队🆚珠海队
+#EXTINF:-1 group-title="粤超赛评",19:30肇庆队🆚珠海队
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="6/13赛事",国🔊粤13述旁
+#EXTINF:-1 group-title="粤超赛评",国🔊粤13述旁
 http://rihou.cc:555/tv/13粤超咪述旁
-#EXTINF:-1 group-title="6/13赛事",06-13⬇️粤BA联赛⬇️⚽📡
+#EXTINF:-1 group-title="粤BA赛评",06-13⬇️粤BA联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="6/13赛事",19:30云浮🆚汕头
+#EXTINF:-1 group-title="粤BA赛评",19:30云浮🆚汕头
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="6/13赛事",国🔊13粤评述
+#EXTINF:-1 group-title="粤BA赛评",国🔊13粤评述
 http://rihou.cc:555/tv/13粤BA咪评述
-#EXTINF:-1 group-title="6/13赛事",19:30潮州🆚珠海
+#EXTINF:-1 group-title="粤BA赛评",19:30潮州🆚珠海
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="6/13赛事",国🔊13粤述评
+#EXTINF:-1 group-title="粤BA赛评",国🔊13粤述评
 http://rihou.cc:555/tv/13粤BA咪述评
-#EXTINF:-1 group-title="6/13赛事",19:30湛江🆚揭阳
+#EXTINF:-1 group-title="粤BA赛评",19:30湛江🆚揭阳
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="6/13赛事",国🔊13粤评评
+#EXTINF:-1 group-title="粤BA赛评",国🔊13粤评评
 http://rihou.cc:555/tv/13粤BA咪评评
-#EXTINF:-1 group-title="6/13赛事",19:30河源🆚佛山
+#EXTINF:-1 group-title="粤BA赛评",19:30河源🆚佛山
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="6/13赛事",国🔊13粤述述
+#EXTINF:-1 group-title="粤BA赛评",国🔊13粤述述
 http://rihou.cc:555/tv/13粤BA咪述述
-#EXTINF:-1 group-title="6/13赛事",06-13⬇️东北区城市足球超级联赛⬇️⚽📡
+#EXTINF:-1 group-title="东北超赛",06-13⬇️东北区城市足球超级联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="6/13赛事",19:40沈阳🆚延边
+#EXTINF:-1 group-title="东北超赛",19:40沈阳🆚延边
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="6/13赛事",国🔊13东评述
+#EXTINF:-1 group-title="东北超赛",国🔊13东评述
 http://rihou.cc:555/tv/13东北超评述
-#EXTINF:-1 group-title="6/13赛事",06-13⬇️苏超常规赛第9周⬇️⚽📡
+#EXTINF:-1 group-title="苏超赛评",06-13⬇️苏超常规赛第9周⬇️⚽📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="6/13赛事",19:40徐州队🆚无锡队
+#EXTINF:-1 group-title="苏超赛评",19:40徐州队🆚无锡队
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="6/13赛事",国🔊13苏评述
+#EXTINF:-1 group-title="苏超赛评",国🔊13苏评述
 http://rihou.cc:555/tv/13苏超咪评述
-#EXTINF:-1 group-title="6/13赛事",19:40宿迁队🆚镇江队
+#EXTINF:-1 group-title="苏超赛评",19:40宿迁队🆚镇江队
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="6/13赛事",国🔊13苏述评
+#EXTINF:-1 group-title="苏超赛评",国🔊13苏述评
 http://rihou.cc:555/tv/13苏超咪述评
-#EXTINF:-1 group-title="6/13赛事",19:40南通队🆚泰州队
+#EXTINF:-1 group-title="苏超赛评",19:40南通队🆚泰州队
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="6/13赛事",国🔊13苏评评
+#EXTINF:-1 group-title="苏超赛评",国🔊13苏评评
 http://rihou.cc:555/tv/13苏超咪评评
 #EXTINF:-1 group-title="6/14赛事",06-14⬇️世界杯小组赛⬇️⚽📡
 http://rihou.cc:555/tv/t
