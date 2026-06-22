@@ -1,44 +1,10 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
-#EXTINF:-1 group-title="世界杯赛",06-22⬇️世界杯小组赛⬇️⚽📡
+#EXTINF:-1 group-title="国篮赛评",06-23⬇️中国男篮系列热身赛⬇️🏀📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="世界杯赛",G组09:00新西兰🆚埃及
+#EXTINF:-1 group-title="国篮赛评",19:30中国男篮🆚荷兰男篮
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="世界杯赛",粤🔊22锐探旁述
-http://rihou.cc:555/tv/22世杯锐探述
-#EXTINF:-1 group-title="世界杯赛",粤🔊22师兄旁述
-http://rihou.cc:555/tv/22世杯师兄述
-#EXTINF:-1 group-title="世界杯赛",粤🔊22大K-旁述
-http://rihou.cc:555/tv/22世杯大K-述
-#EXTINF:-1 group-title="世界杯赛",粤🔊22小肥旁述
-http://rihou.cc:555/tv/22世杯小肥述
-#EXTINF:-1 group-title="世界杯赛",粤🔊22JY粤旁述
-http://rihou.cc:555/tv/22世杯JY粤述
-#EXTINF:-1 group-title="世界杯赛",粤🔊22猛哥旁述
-http://rihou.cc:555/tv/22世杯猛哥述
-#EXTINF:-1 group-title="世界杯赛",粤🔊22碧咸旁述
-http://rihou.cc:555/tv/22世杯碧咸述
-#EXTINF:-1 group-title="世界杯赛",粤🔊22周主任述
-http://rihou.cc:555/tv/22世杯周主任
-#EXTINF:-1 group-title="世界杯赛",粤🔊22梁子宁述
-http://rihou.cc:555/tv/22世杯梁子宁
-#EXTINF:-1 group-title="世界杯赛",粤🔊22梁子宁述
-https://live-fwc-play-tx.xhscdn.com/live/7653827542064288952_acc740.flv?roomid=7653827542064288952&vendor=tx&uid=678a00db000000000d00ab97&cip=Wp-zOQ&rdtime=6a38d8f8&sign=8372b33370fffc9c53563fee38be5c26&userId=678a00db000000000d00ab97&abr_pts=-800
-#EXTINF:-1 group-title="世界杯赛",粤🔊22广东体育
-http://rihou.cc:555/tv/[At|]广东体育
-#EXTINF:-1 group-title="世界杯赛",粤🔊22Now体育
-http://rihou.cc:555/tv/[At|]Now体育
-#EXTINF:-1 group-title="世界杯赛",粤🔊22澳门体育
-http://rihou.cc:555/tv/[At|]澳门体育
-#EXTINF:-1 group-title="世界杯赛",国🔊22ELta体育
-http://rihou.cc:555/tv/[At|]ELta体育
-#EXTINF:-1 group-title="世界杯赛",国🔊22咪咕评述
-http://rihou.cc:555/tv/22世杯咪述述
-#EXTINF:-1 group-title="世界杯赛",国🔊22红书评述
-http://rihou.cc:555/tv/22世杯小红书
-#EXTINF:-1 group-title="世界杯赛",国🔊22红书评述
-https://live-fwc-play-tx.xhscdn.com/live/570330313160481419_acc740.flv?roomid=570330313160481419&vendor=tx&uid=678a00db000000000d00ab97&cip=Wp-zOQ&rdtime=6a38d8f5&sign=fcac56feca749821c1f6127dc019077c&userId=678a00db000000000d00ab97&abr_pts=-800
-#EXTINF:-1 group-title="世界杯赛",国🔊22央视评述
-http://rihou.cc:555/tv/22世杯央视频
+#EXTINF:-1 group-title="国篮赛评",国🔊23咪评述
+http://rihou.cc:555/tv/23国篮咪评述
 #EXTINF:-1 group-title="世界杯赛",06-23⬇️世界杯小组赛⬇️⚽📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="世界杯赛",J组01:00阿根廷🆚奥地利
@@ -219,12 +185,6 @@ http://rihou.cc:555/tv/28世界杯旁述
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="世界杯赛",国🔊28世杯述旁
 http://rihou.cc:555/tv/28世界杯述旁
-#EXTINF:-1 group-title="国篮赛评",06-23⬇️中国男篮系列热身赛⬇️🏀📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="国篮赛评",19:30中国男篮🆚荷兰男篮
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="国篮赛评",国🔊23咪评述
-http://rihou.cc:555/tv/23国篮咪评述
 #EXTINF:-1 group-title="赛事精锦",⬇️各大赛事精锦⬇️
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="赛事精锦",世赛赛事回放
