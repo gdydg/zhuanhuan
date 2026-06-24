@@ -1,44 +1,4 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
-#EXTINF:-1 group-title="世界杯赛",06-24⬇️世界杯小组赛⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="世界杯赛",K组10:00哥伦比亚🆚刚果(金)
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="世界杯赛",粤🔊24华头旁述
-http://rihou.cc:555/tv/24世杯华头述
-#EXTINF:-1 group-title="世界杯赛",粤🔊24锐探旁述
-http://rihou.cc:555/tv/24世杯锐探述
-#EXTINF:-1 group-title="世界杯赛",粤🔊24大K-旁述
-http://rihou.cc:555/tv/24世杯大K-述
-#EXTINF:-1 group-title="世界杯赛",粤🔊24粤kk旁述
-http://rihou.cc:555/tv/24世杯粤kk述
-#EXTINF:-1 group-title="世界杯赛",粤🔊24师兄旁述
-http://rihou.cc:555/tv/24世杯师兄述
-#EXTINF:-1 group-title="世界杯赛",粤🔊24小肥旁述
-http://rihou.cc:555/tv/24世杯小肥述
-#EXTINF:-1 group-title="世界杯赛",粤🔊24牛哥旁述
-http://rihou.cc:555/tv/24世杯牛哥述
-#EXTINF:-1 group-title="世界杯赛",粤🔊24JY粤旁述
-http://rihou.cc:555/tv/24世杯JY粤述
-#EXTINF:-1 group-title="世界杯赛",粤🔊24红梁子宁
-http://rihou.cc:555/tv/24世杯梁子宁
-#EXTINF:-1 group-title="世界杯赛",粤🔊24红梁子宁
-https://live-fwc-play-tx.xhscdn.com/live/7654584293807896508_acc740.flv?roomid=7654584293807896508&vendor=tx&uid=678a00db000000000d00ab97&cip=Wp-zOQ&rdtime=6a3b87b2&sign=d8d6b3b80311857cc44008397920c0d0&userId=678a00db000000000d00ab97&abr_pts=-800
-#EXTINF:-1 group-title="世界杯赛",粤🔊24广东体育
-http://rihou.cc:555/tv/[At|]广东体育
-#EXTINF:-1 group-title="世界杯赛",粤🔊24Now体育
-http://rihou.cc:555/tv/[At|]Now体育
-#EXTINF:-1 group-title="世界杯赛",粤🔊24澳门体育
-http://rihou.cc:555/tv/[At|]澳门体育
-#EXTINF:-1 group-title="世界杯赛",国🔊24ELta体育
-http://rihou.cc:555/tv/[At|]ELta体育
-#EXTINF:-1 group-title="世界杯赛",国🔊24咪咕评述
-http://rihou.cc:555/tv/24世杯咪述述
-#EXTINF:-1 group-title="世界杯赛",国🔊24红书评述
-http://rihou.cc:555/tv/24世杯小红书
-#EXTINF:-1 group-title="世界杯赛",国🔊24红书评述
-https://live-fwc-play-tx.xhscdn.com/live/570333272655391226_acc740.flv?roomid=570333272655391226&vendor=tx&uid=678a00db000000000d00ab97&cip=Wp-zOQ&rdtime=6a3b87b1&sign=e5449ce7064e5ee05b21b41ed1cf951d&userId=678a00db000000000d00ab97&abr_pts=-800
-#EXTINF:-1 group-title="世界杯赛",国🔊24央视评述
-http://rihou.cc:555/tv/24世杯央视频
 #EXTINF:-1 group-title="世界杯赛",06-25⬇️世界杯小组赛⬇️⚽📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="世界杯赛",B组03:00波黑🆚卡塔尔
