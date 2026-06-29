@@ -1,50 +1,10 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
-#EXTINF:-1 group-title="世杯16强",06-29⬇️世界杯1/16决赛⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="世杯16强",03:00南非🆚加拿大
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="世杯16强",粤🔊29咪江忠德
-http://rihou.cc:555/tv/29世杯江忠德
-#EXTINF:-1 group-title="世杯16强",粤🔊29红丁伟杰
-http://rihou.cc:555/tv/29世杯丁伟杰
-#EXTINF:-1 group-title="世杯16强",粤🔊29红丁伟杰
-https://live-fwc-play-hw.xhscdn.com/live/7656433264267415995_acc740.flv?roomid=7656433264267415995&vendor=hw&uid=678a00db000000000d00ab97&cip=Wp-zZw&rdtime=6a41c6a2&sign=084f2e1b178d291bd7d3a836b6aa4328&userId=678a00db000000000d00ab97&abr_pts=-800
-#EXTINF:-1 group-title="世杯16强",粤🔊29锐探旁述
-http://rihou.cc:555/tv/29世杯锐探述
-#EXTINF:-1 group-title="世杯16强",粤🔊29马高旁述
-http://rihou.cc:555/tv/29世杯马高述
-#EXTINF:-1 group-title="世杯16强",粤🔊29师兄旁述
-http://rihou.cc:555/tv/29世杯师兄述
-#EXTINF:-1 group-title="世杯16强",粤🔊29SHY根述
-http://rihou.cc:555/tv/29世杯SHY根
-#EXTINF:-1 group-title="世杯16强",粤🔊29小肥旁述
-http://rihou.cc:555/tv/29世杯小肥述
-#EXTINF:-1 group-title="世杯16强",粤🔊29猛哥旁述
-http://rihou.cc:555/tv/29世杯猛哥述
-#EXTINF:-1 group-title="世杯16强",粤🔊29碧咸旁述
-http://rihou.cc:555/tv/29世杯碧咸述
-#EXTINF:-1 group-title="世杯16强",粤🔊29广东体育
-http://rihou.cc:555/tv/[At|]广东体育
-#EXTINF:-1 group-title="世杯16强",粤🔊29Now体育
-http://rihou.cc:555/tv/[At|]Now体育
-#EXTINF:-1 group-title="世杯16强",粤🔊29澳门体育
-http://rihou.cc:555/tv/[At|]澳门体育
-#EXTINF:-1 group-title="世杯16强",国🔊29ELta体育
-http://rihou.cc:555/tv/[At|]ELta体育
-#EXTINF:-1 group-title="世杯16强",国🔊29咪咕评述
-http://rihou.cc:555/tv/29世杯咪评述
-#EXTINF:-1 group-title="世杯16强",国🔊29红书评述
-http://rihou.cc:555/tv/29世杯小红书
-#EXTINF:-1 group-title="世杯16强",国🔊29红书评述
-https://live-fwc-play-tx.xhscdn.com/live/570340067430505782_acc740.flv?roomid=570340067430505782&vendor=tx&uid=678a00db000000000d00ab97&cip=Wp-zZw&rdtime=6a41bf19&sign=b3e4b428167ef87e1f2195c751dfa1f3&userId=678a00db000000000d00ab97&abr_pts=-800
-#EXTINF:-1 group-title="世杯16强",国🔊29央视评述
-http://rihou.cc:555/tv/29世杯央视频
 #EXTINF:-1 group-title="世杯16强",06-30⬇️世界杯1/16决赛⬇️⚽📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="世杯16强",01:00巴西🆚日本
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="世杯16强",粤🔊30咪咕旁述
-http://rihou.cc:555/tv/30世杯咪旁述
+#EXTINF:-1 group-title="世杯16强",粤🔊30咪陈凯冬
+http://rihou.cc:555/tv/30世杯陈凯冬
 #EXTINF:-1 group-title="世杯16强",粤🔊30广东体育
 http://rihou.cc:555/tv/[At|]广东体育
 #EXTINF:-1 group-title="世杯16强",粤🔊30Now体育
@@ -57,8 +17,8 @@ http://rihou.cc:555/tv/[At|]ELta体育
 http://rihou.cc:555/tv/30世杯咪评述
 #EXTINF:-1 group-title="世杯16强",04:30德国🆚巴拉圭
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="世杯16强",粤'🔊30咪咕旁述
-http://rihou.cc:555/tv/30世杯咪述旁
+#EXTINF:-1 group-title="世杯16强",粤🔊30咪叶紫辰
+http://rihou.cc:555/tv/30世杯叶紫辰
 #EXTINF:-1 group-title="世杯16强",粤'🔊30广东体育
 http://rihou.cc:555/tv/[At|]广东体育
 #EXTINF:-1 group-title="世杯16强",粤'🔊30Now体育
@@ -71,8 +31,8 @@ http://rihou.cc:555/tv/[At|]ELta体育
 http://rihou.cc:555/tv/30世杯咪述评
 #EXTINF:-1 group-title="世杯16强",09:00荷兰🆚摩洛哥
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="世杯16强",粤🔊'30咪咕旁述
-http://rihou.cc:555/tv/30世杯咪旁旁
+#EXTINF:-1 group-title="世杯16强",粤🔊30咪咕陈曦
+http://rihou.cc:555/tv/30世杯陈曦述
 #EXTINF:-1 group-title="世杯16强",粤🔊'30广东体育
 http://rihou.cc:555/tv/[At|]广东体育
 #EXTINF:-1 group-title="世杯16强",粤🔊'30Now体育
@@ -262,25 +222,25 @@ http://rihou.cc:555/tv/04世杯咪评评
 #EXTINF:-1 group-title="赛事精锦",⬇️各大赛事精锦⬇️
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="赛事精锦",世赛赛事回放
-http://rihou.cc:555/tv/世赛回放赛29
+http://rihou.cc:555/tv/世赛回放赛30
 #EXTINF:-1 group-title="赛事精锦",联赛赛事回放
-http://rihou.cc:555/tv/联赛回放赛29
+http://rihou.cc:555/tv/联赛回放赛30
 #EXTINF:-1 group-title="赛事精锦",NBA赛事回放
-http://rihou.cc:555/tv/NBA回放赛29
+http://rihou.cc:555/tv/NBA回放赛30
 #EXTINF:-1 group-title="赛事精锦",羽球赛事回放
-http://rihou.cc:555/tv/羽球回放赛29
+http://rihou.cc:555/tv/羽球回放赛30
 #EXTINF:-1 group-title="赛事精锦",橄球赛事回放
-http://rihou.cc:555/tv/橄球回放赛29
+http://rihou.cc:555/tv/橄球回放赛30
 #EXTINF:-1 group-title="赛事精锦",乒球赛事回放
-http://rihou.cc:555/tv/乒球回放赛29
+http://rihou.cc:555/tv/乒球回放赛30
 #EXTINF:-1 group-title="赛事精锦",网球赛事回放
-http://rihou.cc:555/tv/网球回放赛29
+http://rihou.cc:555/tv/网球回放赛30
 #EXTINF:-1 group-title="赛事精锦",排球赛事回放
-http://rihou.cc:555/tv/排球回放赛29
+http://rihou.cc:555/tv/排球回放赛30
 #EXTINF:-1 group-title="赛事精锦",格斗赛事回放
-http://rihou.cc:555/tv/格斗回放赛29
+http://rihou.cc:555/tv/格斗回放赛30
 #EXTINF:-1 group-title="赛事精锦",斯赛赛事回放
-http://rihou.cc:555/tv/斯赛回放赛29
+http://rihou.cc:555/tv/斯赛回放赛30
 #EXTINF:-1 group-title="赛事咪咕",抖姐舞陪你看
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="赛事咪咕",赛事睛彩竞技
@@ -1350,9 +1310,9 @@ https://pull.dxhmt.cn/tv/168666456yinyue123477.flv
 #EXTINF:-1 group-title="欣赏频道",经典音乐频道
 https://pull.dxhmt.cn/tv/168666456yinyuy123477.flv
 #EXTINF:-1 group-title="网页音乐",音乐库仓抖播
-http://rihou.cc:555/tv/音乐库仓抖29
+http://rihou.cc:555/tv/音乐库仓抖30
 #EXTINF:-1 group-title="网页音乐",音乐仓库抖播
-http://rihou.cc:555/tv/音乐仓库抖29
+http://rihou.cc:555/tv/音乐仓库抖30
 #EXTINF:-1 group-title="欣赏音乐",⬇️刘德华<今日>演唱会精彩片段⬇️
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="欣赏音乐",今日演唱会上
