@@ -1,10 +1,28 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
 #EXTINF:-1 group-title="世杯16强",06-30⬇️世界杯1/16决赛⬇️⚽📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="世杯16强",01:00巴西🆚日本
+#EXTINF:-1 group-title="世杯16强",09:00荷兰🆚摩洛哥
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="世杯16强",粤🔊30咪陈凯冬
-http://rihou.cc:555/tv/30世杯陈凯冬
+#EXTINF:-1 group-title="世杯16强",粤🔊30鞋佬旁述
+http://rihou.cc:555/tv/30世杯鞋佬述
+#EXTINF:-1 group-title="世杯16强",粤🔊30锐探旁述
+http://rihou.cc:555/tv/30世杯锐探述
+#EXTINF:-1 group-title="世杯16强",粤🔊30大K-旁述
+http://rihou.cc:555/tv/30世杯大K-述
+#EXTINF:-1 group-title="世杯16强",粤🔊30师兄旁述
+http://rihou.cc:555/tv/30世杯师兄述
+#EXTINF:-1 group-title="世杯16强",粤🔊30粤kk旁述
+http://rihou.cc:555/tv/30世杯粤kk述
+#EXTINF:-1 group-title="世杯16强",粤🔊30小肥旁述
+http://rihou.cc:555/tv/30世杯小肥述
+#EXTINF:-1 group-title="世杯16强",粤🔊30牛哥旁述
+http://rihou.cc:555/tv/30世杯牛哥述
+#EXTINF:-1 group-title="世杯16强",粤🔊30咪咕陈曦
+http://rihou.cc:555/tv/30世杯陈曦述
+#EXTINF:-1 group-title="世杯16强",粤🔊30红丁伟杰
+http://rihou.cc:555/tv/30世杯丁伟杰
+#EXTINF:-1 group-title="世杯16强",粤🔊30红丁伟杰
+https://live-fwc-play-tx.xhscdn.com/live/7656810315245054242_acc740.flv?roomid=7656810315245054242&vendor=tx&uid=678a00db000000000d00ab97&cip=Wp-xPA&rdtime=6a4360d0&sign=17ce70e7c6e3f90c53c06df2f8693c06&userId=678a00db000000000d00ab97&abr_pts=-800
 #EXTINF:-1 group-title="世杯16强",粤🔊30广东体育
 http://rihou.cc:555/tv/[At|]广东体育
 #EXTINF:-1 group-title="世杯16强",粤🔊30Now体育
@@ -14,35 +32,13 @@ http://rihou.cc:555/tv/[At|]澳门体育
 #EXTINF:-1 group-title="世杯16强",国🔊30ELta体育
 http://rihou.cc:555/tv/[At|]ELta体育
 #EXTINF:-1 group-title="世杯16强",国🔊30咪咕评述
-http://rihou.cc:555/tv/30世杯咪评述
-#EXTINF:-1 group-title="世杯16强",04:30德国🆚巴拉圭
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="世杯16强",粤🔊30咪叶紫辰
-http://rihou.cc:555/tv/30世杯叶紫辰
-#EXTINF:-1 group-title="世杯16强",粤'🔊30广东体育
-http://rihou.cc:555/tv/[At|]广东体育
-#EXTINF:-1 group-title="世杯16强",粤'🔊30Now体育
-http://rihou.cc:555/tv/[At|]Now体育
-#EXTINF:-1 group-title="世杯16强",粤'🔊30澳门体育
-http://rihou.cc:555/tv/[At|]澳门体育
-#EXTINF:-1 group-title="世杯16强",国'🔊30ELta体育
-http://rihou.cc:555/tv/[At|]ELta体育
-#EXTINF:-1 group-title="世杯16强",国'🔊30咪咕评述
-http://rihou.cc:555/tv/30世杯咪述评
-#EXTINF:-1 group-title="世杯16强",09:00荷兰🆚摩洛哥
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="世杯16强",粤🔊30咪咕陈曦
-http://rihou.cc:555/tv/30世杯陈曦述
-#EXTINF:-1 group-title="世杯16强",粤🔊'30广东体育
-http://rihou.cc:555/tv/[At|]广东体育
-#EXTINF:-1 group-title="世杯16强",粤🔊'30Now体育
-http://rihou.cc:555/tv/[At|]Now体育
-#EXTINF:-1 group-title="世杯16强",粤🔊'30澳门体育
-http://rihou.cc:555/tv/[At|]澳门体育
-#EXTINF:-1 group-title="世杯16强",国🔊'30ELta体育
-http://rihou.cc:555/tv/[At|]ELta体育
-#EXTINF:-1 group-title="世杯16强",国🔊'30咪咕评述
 http://rihou.cc:555/tv/30世杯咪评评
+#EXTINF:-1 group-title="世杯16强",国🔊30红书评述
+http://rihou.cc:555/tv/30世杯小红书
+#EXTINF:-1 group-title="世杯16强",国🔊30红书评述
+https://live-fwc-play-tx.xhscdn.com/live/570341879373218629_acc740.flv?roomid=570341879373218629&vendor=tx&uid=678a00db000000000d00ab97&cip=Wp-xPA&rdtime=6a4360ce&sign=0108188e2f31bebcfbc9da1fe1310a27&userId=678a00db000000000d00ab97&abr_pts=-800
+#EXTINF:-1 group-title="世杯16强",国🔊30央视评述
+http://rihou.cc:555/tv/30世杯央视频
 #EXTINF:-1 group-title="世杯16强",07-01⬇️世界杯1/16决赛⬇️⚽📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="世杯16强",01:00科特迪瓦🆚挪威
