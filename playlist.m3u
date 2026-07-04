@@ -1,46 +1,4 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
-#EXTINF:-1 group-title="世杯16强",07-04⬇️世界杯1/16决赛⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="世杯16强",09:30哥伦比亚🆚加纳
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="世杯16强",粤🔊04鞋佬旁述
-http://rihou.cc:555/tv/04世杯鞋佬述
-#EXTINF:-1 group-title="世杯16强",粤🔊04小肥旁述
-http://rihou.cc:555/tv/04世杯小肥述
-#EXTINF:-1 group-title="世杯16强",粤🔊04碧咸旁述
-http://rihou.cc:555/tv/04世杯碧咸述
-#EXTINF:-1 group-title="世杯16强",原🔊04韩国高清
-http://rihou.cc:555/tv/04世杯韩国源
-#EXTINF:-1 group-title="世杯16强",粤🔊04锐探旁述
-http://rihou.cc:555/tv/04世杯锐探述
-#EXTINF:-1 group-title="世杯16强",粤🔊04丁伟杰述
-http://rihou.cc:555/tv/04世杯丁伟杰
-#EXTINF:-1 group-title="世杯16强",粤🔊04粤kk旁述
-http://rihou.cc:555/tv/04世杯粤kk述
-#EXTINF:-1 group-title="世杯16强",粤🔊04师兄旁述
-http://rihou.cc:555/tv/04世杯师兄述
-#EXTINF:-1 group-title="世杯16强",粤🔊04咪陈熙荣
-http://rihou.cc:555/tv/04世杯陈熙荣
-#EXTINF:-1 group-title="世杯16强",粤🔊04红梁子宁
-http://rihou.cc:555/tv/04世杯梁子宁
-#EXTINF:-1 group-title="世杯16强",粤🔊04红梁子宁
-https://live-fwc-play-tx.xhscdn.com/live/7658281006509585614_acc740.flv?roomid=7658281006509585614&vendor=tx&uid=678a00db000000000d00ab97&cip=Wp-xPA&rdtime=6a48b218&sign=8d03a194b136a384e64699c3dd8ffeab&userId=678a00db000000000d00ab97&abr_pts=-800
-#EXTINF:-1 group-title="世杯16强",粤🔊04广东体育
-http://rihou.cc:555/tv/[At|]广东体育
-#EXTINF:-1 group-title="世杯16强",粤🔊04Now体育
-http://rihou.cc:555/tv/[At|]Now体育
-#EXTINF:-1 group-title="世杯16强",粤🔊04澳门体育
-http://rihou.cc:555/tv/[At|]澳门体育
-#EXTINF:-1 group-title="世杯16强",国🔊04ELta体育
-http://rihou.cc:555/tv/[At|]ELta体育
-#EXTINF:-1 group-title="世杯16强",国🔊04咪咕评述
-http://rihou.cc:555/tv/04世杯咪评评
-#EXTINF:-1 group-title="世杯16强",国🔊04红书评述
-http://rihou.cc:555/tv/04世杯小红书
-#EXTINF:-1 group-title="世杯16强",国🔊04红书评述
-https://live-fwc-play-tx.xhscdn.com/live/570347737968922116_acc740.flv?roomid=570347737968922116&vendor=tx&uid=678a00db000000000d00ab97&cip=Wp-xPA&rdtime=6a48b213&sign=6418e5434f213b336866e31c24b4c8b4&userId=678a00db000000000d00ab97&abr_pts=-800
-#EXTINF:-1 group-title="世杯16强",国🔊04央视评述
-http://rihou.cc:555/tv/04世杯央视频
 #EXTINF:-1 group-title="村超赛评",07-04⬇️贵州村超联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="村超赛评",13:00忠诚村足球队🆚小堡村足球队
@@ -227,96 +185,126 @@ http://rihou.cc:555/tv/04东北超述评
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="东北超赛",国🔊04东评评
 http://rihou.cc:555/tv/04东北超评评
-#EXTINF:-1 group-title="世杯[8]强",07-05⬇️世界杯1/8决赛⬇️⚽📡
+#EXTINF:-1 group-title="世杯八强",07-05⬇️世界杯1/8决赛⬇️⚽📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="世杯[8]强",01:00加拿大🆚摩洛哥
+#EXTINF:-1 group-title="世杯八强",01:00加拿大🆚摩洛哥
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="世杯[8]强",粤🔊05咪咕旁述
-http://rihou.cc:555/tv/05世杯咪旁述
-#EXTINF:-1 group-title="世杯[8]强",粤🔊05广东体育
+#EXTINF:-1 group-title="世杯八强",粤🔊05咪江忠德
+http://rihou.cc:555/tv/05世杯江忠德
+#EXTINF:-1 group-title="世杯八强",粤🔊05广东体育
 http://rihou.cc:555/tv/[At|]广东体育
-#EXTINF:-1 group-title="世杯[8]强",粤🔊05Now体育
+#EXTINF:-1 group-title="世杯八强",粤🔊05Now体育
 http://rihou.cc:555/tv/[At|]Now体育
-#EXTINF:-1 group-title="世杯[8]强",粤🔊05澳门体育
+#EXTINF:-1 group-title="世杯八强",粤🔊05澳门体育
 http://rihou.cc:555/tv/[At|]澳门体育
-#EXTINF:-1 group-title="世杯[8]强",国🔊05ELta体育
+#EXTINF:-1 group-title="世杯八强",国🔊05ELta体育
 http://rihou.cc:555/tv/[At|]ELta体育
-#EXTINF:-1 group-title="世杯[8]强",国🔊05咪咕评述
+#EXTINF:-1 group-title="世杯八强",国🔊05咪咕评述
 http://rihou.cc:555/tv/05世杯咪评述
-#EXTINF:-1 group-title="世杯[8]强",05:00巴拉圭🆚法国
+#EXTINF:-1 group-title="世杯八强",05:00巴拉圭🆚法国
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="世杯[8]强",粤'🔊05咪咕旁述
-http://rihou.cc:555/tv/05世杯咪述旁
-#EXTINF:-1 group-title="世杯[8]强",粤'🔊05广东体育
+#EXTINF:-1 group-title="世杯八强",粤'🔊05咪陈凯冬
+http://rihou.cc:555/tv/05世杯陈凯冬
+#EXTINF:-1 group-title="世杯八强",粤'🔊05广东体育
 http://rihou.cc:555/tv/[At|]广东体育
-#EXTINF:-1 group-title="世杯[8]强",粤'🔊05Now体育
+#EXTINF:-1 group-title="世杯八强",粤'🔊05Now体育
 http://rihou.cc:555/tv/[At|]Now体育
-#EXTINF:-1 group-title="世杯[8]强",粤'🔊05澳门体育
+#EXTINF:-1 group-title="世杯八强",粤'🔊05澳门体育
 http://rihou.cc:555/tv/[At|]澳门体育
-#EXTINF:-1 group-title="世杯[8]强",国'🔊05ELta体育
+#EXTINF:-1 group-title="世杯八强",国'🔊05ELta体育
 http://rihou.cc:555/tv/[At|]ELta体育
-#EXTINF:-1 group-title="世杯[8]强",国'🔊05咪咕评述
+#EXTINF:-1 group-title="世杯八强",国'🔊05咪咕评述
 http://rihou.cc:555/tv/05世杯咪述评
-#EXTINF:-1 group-title="世杯[8]强",07-06⬇️世界杯1/8决赛⬇️⚽📡
+#EXTINF:-1 group-title="世杯八强",07-06⬇️世界杯1/8决赛⬇️⚽📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="世杯[8]强",04:00巴西🆚挪威
+#EXTINF:-1 group-title="世杯八强",04:00巴西🆚挪威
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="世杯[8]强",粤🔊06咪咕旁述
+#EXTINF:-1 group-title="世杯八强",粤🔊06咪咕旁述
 http://rihou.cc:555/tv/06世杯咪旁述
-#EXTINF:-1 group-title="世杯[8]强",粤🔊06广东体育
+#EXTINF:-1 group-title="世杯八强",粤🔊06广东体育
 http://rihou.cc:555/tv/[At|]广东体育
-#EXTINF:-1 group-title="世杯[8]强",粤🔊06Now体育
+#EXTINF:-1 group-title="世杯八强",粤🔊06Now体育
 http://rihou.cc:555/tv/[At|]Now体育
-#EXTINF:-1 group-title="世杯[8]强",粤🔊06澳门体育
+#EXTINF:-1 group-title="世杯八强",粤🔊06澳门体育
 http://rihou.cc:555/tv/[At|]澳门体育
-#EXTINF:-1 group-title="世杯[8]强",国🔊06ELta体育
+#EXTINF:-1 group-title="世杯八强",国🔊06ELta体育
 http://rihou.cc:555/tv/[At|]ELta体育
-#EXTINF:-1 group-title="世杯[8]强",国🔊06咪咕评述
+#EXTINF:-1 group-title="世杯八强",国🔊06咪咕评述
 http://rihou.cc:555/tv/06世杯咪评述
-#EXTINF:-1 group-title="世杯[8]强",08:00墨西哥🆚英格兰
+#EXTINF:-1 group-title="世杯八强",08:00墨西哥🆚英格兰
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="世杯[8]强",粤'🔊06咪咕旁述
+#EXTINF:-1 group-title="世杯八强",粤'🔊06咪咕旁述
 http://rihou.cc:555/tv/06世杯咪述旁
-#EXTINF:-1 group-title="世杯[8]强",粤'🔊06广东体育
+#EXTINF:-1 group-title="世杯八强",粤'🔊06广东体育
 http://rihou.cc:555/tv/[At|]广东体育
-#EXTINF:-1 group-title="世杯[8]强",粤'🔊06Now体育
+#EXTINF:-1 group-title="世杯八强",粤'🔊06Now体育
 http://rihou.cc:555/tv/[At|]Now体育
-#EXTINF:-1 group-title="世杯[8]强",粤'🔊06澳门体育
+#EXTINF:-1 group-title="世杯八强",粤'🔊06澳门体育
 http://rihou.cc:555/tv/[At|]澳门体育
-#EXTINF:-1 group-title="世杯[8]强",国'🔊06ELta体育
+#EXTINF:-1 group-title="世杯八强",国'🔊06ELta体育
 http://rihou.cc:555/tv/[At|]ELta体育
-#EXTINF:-1 group-title="世杯[8]强",国'🔊06咪咕评述
+#EXTINF:-1 group-title="世杯八强",国'🔊06咪咕评述
 http://rihou.cc:555/tv/06世杯咪述评
-#EXTINF:-1 group-title="世杯[8]强",07-07⬇️世界杯1/8决赛⬇️⚽📡
+#EXTINF:-1 group-title="世杯八强",07-07⬇️世界杯1/8决赛⬇️⚽📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="世杯[8]强",03:00葡萄牙🆚西班牙
+#EXTINF:-1 group-title="世杯八强",03:00葡萄牙🆚西班牙
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="世杯[8]强",粤🔊07咪咕旁述
+#EXTINF:-1 group-title="世杯八强",粤🔊07咪咕旁述
 http://rihou.cc:555/tv/07世杯咪旁述
-#EXTINF:-1 group-title="世杯[8]强",粤🔊07广东体育
+#EXTINF:-1 group-title="世杯八强",粤🔊07广东体育
 http://rihou.cc:555/tv/[At|]广东体育
-#EXTINF:-1 group-title="世杯[8]强",粤🔊07Now体育
+#EXTINF:-1 group-title="世杯八强",粤🔊07Now体育
 http://rihou.cc:555/tv/[At|]Now体育
-#EXTINF:-1 group-title="世杯[8]强",粤🔊07澳门体育
+#EXTINF:-1 group-title="世杯八强",粤🔊07澳门体育
 http://rihou.cc:555/tv/[At|]澳门体育
-#EXTINF:-1 group-title="世杯[8]强",国🔊07ELta体育
+#EXTINF:-1 group-title="世杯八强",国🔊07ELta体育
 http://rihou.cc:555/tv/[At|]ELta体育
-#EXTINF:-1 group-title="世杯[8]强",国🔊07咪咕评述
+#EXTINF:-1 group-title="世杯八强",国🔊07咪咕评述
 http://rihou.cc:555/tv/07世杯咪评述
-#EXTINF:-1 group-title="世杯[8]强",08:00美国🆚比利时
+#EXTINF:-1 group-title="世杯八强",08:00美国🆚比利时
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="世杯[8]强",粤'🔊07咪咕旁述
+#EXTINF:-1 group-title="世杯八强",粤'🔊07咪咕旁述
 http://rihou.cc:555/tv/07世杯咪述旁
-#EXTINF:-1 group-title="世杯[8]强",粤'🔊07广东体育
+#EXTINF:-1 group-title="世杯八强",粤'🔊07广东体育
 http://rihou.cc:555/tv/[At|]广东体育
-#EXTINF:-1 group-title="世杯[8]强",粤'🔊07Now体育
+#EXTINF:-1 group-title="世杯八强",粤'🔊07Now体育
 http://rihou.cc:555/tv/[At|]Now体育
-#EXTINF:-1 group-title="世杯[8]强",粤'🔊07澳门体育
+#EXTINF:-1 group-title="世杯八强",粤'🔊07澳门体育
 http://rihou.cc:555/tv/[At|]澳门体育
-#EXTINF:-1 group-title="世杯[8]强",国'🔊07ELta体育
+#EXTINF:-1 group-title="世杯八强",国'🔊07ELta体育
 http://rihou.cc:555/tv/[At|]ELta体育
-#EXTINF:-1 group-title="世杯[8]强",国'🔊07咪咕评述
+#EXTINF:-1 group-title="世杯八强",国'🔊07咪咕评述
 http://rihou.cc:555/tv/07世杯咪述评
+#EXTINF:-1 group-title="世杯八强",07-08⬇️世界杯1/8决赛⬇️⚽📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="世杯八强",00:00阿根廷🆚埃及
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="世杯八强",粤🔊08咪咕旁述
+http://rihou.cc:555/tv/08世杯咪旁述
+#EXTINF:-1 group-title="世杯八强",粤🔊08广东体育
+http://rihou.cc:555/tv/[At|]广东体育
+#EXTINF:-1 group-title="世杯八强",粤🔊08Now体育
+http://rihou.cc:555/tv/[At|]Now体育
+#EXTINF:-1 group-title="世杯八强",粤🔊08澳门体育
+http://rihou.cc:555/tv/[At|]澳门体育
+#EXTINF:-1 group-title="世杯八强",国🔊08ELta体育
+http://rihou.cc:555/tv/[At|]ELta体育
+#EXTINF:-1 group-title="世杯八强",国🔊08咪咕评述
+http://rihou.cc:555/tv/08世杯咪评述
+#EXTINF:-1 group-title="世杯八强",04:00瑞士🆚哥伦比亚
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="世杯八强",粤'🔊08咪咕旁述
+http://rihou.cc:555/tv/08世杯咪述旁
+#EXTINF:-1 group-title="世杯八强",粤'🔊08广东体育
+http://rihou.cc:555/tv/[At|]广东体育
+#EXTINF:-1 group-title="世杯八强",粤'🔊08Now体育
+http://rihou.cc:555/tv/[At|]Now体育
+#EXTINF:-1 group-title="世杯八强",粤'🔊08澳门体育
+http://rihou.cc:555/tv/[At|]澳门体育
+#EXTINF:-1 group-title="世杯八强",国'🔊08ELta体育
+http://rihou.cc:555/tv/[At|]ELta体育
+#EXTINF:-1 group-title="世杯八强",国'🔊08咪咕评述
+http://rihou.cc:555/tv/08世杯咪述评
 #EXTINF:-1 group-title="鲁超赛评'",07-05⬇️山东省齐鲁超级联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="鲁超赛评'",16:00临沂队🆚潍坊队
