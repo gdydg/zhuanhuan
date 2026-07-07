@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
 #EXTINF:-1 group-title="世杯八强",07-07⬇️世界杯1/8决赛⬇️⚽📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="世杯八强",03:00葡萄牙🆚西班牙
+#EXTINF:-1 group-title="世杯八强",08:00美国🆚比利时
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="世杯八强",粤🔊07鞋佬旁述
 http://rihou.cc:555/tv/07世杯鞋佬述
@@ -9,22 +9,24 @@ http://rihou.cc:555/tv/07世杯鞋佬述
 http://rihou.cc:555/tv/07世杯小肥述
 #EXTINF:-1 group-title="世杯八强",粤🔊07牛哥旁述
 http://rihou.cc:555/tv/07世杯牛哥述
-#EXTINF:-1 group-title="世杯八强",粤🔊07碧咸旁述
-http://rihou.cc:555/tv/07世杯碧咸述
-#EXTINF:-1 group-title="世杯八强",原🔊07韩国高清
-http://rihou.cc:555/tv/07世杯韩国源
+#EXTINF:-1 group-title="世杯八强",粤🔊07金爷旁述
+http://rihou.cc:555/tv/07世杯金爷述
 #EXTINF:-1 group-title="世杯八强",粤🔊07锐探旁述
 http://rihou.cc:555/tv/07世杯锐探述
 #EXTINF:-1 group-title="世杯八强",粤🔊07师兄旁述
 http://rihou.cc:555/tv/07世杯师兄述
-#EXTINF:-1 group-title="世杯八强",粤🔊07大超旁述
-http://rihou.cc:555/tv/07世杯大超述
-#EXTINF:-1 group-title="世杯八强",粤🔊07咪江忠德
-http://rihou.cc:555/tv/07世杯江忠德
-#EXTINF:-1 group-title="世杯八强",粤🔊07红丁伟杰
+#EXTINF:-1 group-title="世杯八强",粤🔊07丁伟杰述
 http://rihou.cc:555/tv/07世杯丁伟杰
+#EXTINF:-1 group-title="世杯八强",粤🔊07咪咕陈曦
+http://rihou.cc:555/tv/07世杯陈曦述
+#EXTINF:-1 group-title="世杯八强",粤🔊07红书何辉
+http://rihou.cc:555/tv/07世杯何辉述
+#EXTINF:-1 group-title="世杯八强",粤🔊07红书何辉
+https://live-fwc-play-tx.xhscdn.com/live/7659412794822429023_acc740.flv?roomid=7659412794822429023&vendor=tx&uid=678a00db000000000d00ab97&cip=Wp-y1g&rdtime=6a4c9036&sign=3607ad3cf67f50de1c0cafcb3b6c7572&userId=678a00db000000000d00ab97&abr_pts=-800
 #EXTINF:-1 group-title="世杯八强",粤🔊07广东体育
 http://rihou.cc:555/tv/[At|]广东体育
+#EXTINF:-1 group-title="世杯八强",粤🔊07Now4k体
+http://rihou.cc:555/tv/[At|]Now4k体
 #EXTINF:-1 group-title="世杯八强",粤🔊07Now体育
 http://rihou.cc:555/tv/[At|]Now体育
 #EXTINF:-1 group-title="世杯八强",粤🔊07澳门体育
@@ -32,25 +34,13 @@ http://rihou.cc:555/tv/[At|]澳门体育
 #EXTINF:-1 group-title="世杯八强",国🔊07ELta体育
 http://rihou.cc:555/tv/[At|]ELta体育
 #EXTINF:-1 group-title="世杯八强",国🔊07咪咕评述
-http://rihou.cc:555/tv/07世杯咪评述
+http://rihou.cc:555/tv/07世杯咪述评
 #EXTINF:-1 group-title="世杯八强",国🔊07红书评述
 http://rihou.cc:555/tv/07世杯小红书
+#EXTINF:-1 group-title="世杯八强",国🔊07红书评述
+https://live-fwc-play-tx.xhscdn.com/live/570351996030865990_acc740.flv?roomid=570351996030865990&vendor=tx&uid=678a00db000000000d00ab97&cip=Wp-y1g&rdtime=6a4c9034&sign=59c164c3a0cde380159a0c3b5d1f1976&userId=678a00db000000000d00ab97&abr_pts=-800
 #EXTINF:-1 group-title="世杯八强",国🔊07央视评述
 http://rihou.cc:555/tv/07世杯央视频
-#EXTINF:-1 group-title="世杯八强",08:00美国🆚比利时
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="世杯八强",粤'🔊07咪咕陈曦
-http://rihou.cc:555/tv/07世杯陈曦述
-#EXTINF:-1 group-title="世杯八强",粤'🔊07广东体育
-http://rihou.cc:555/tv/[At|]广东体育
-#EXTINF:-1 group-title="世杯八强",粤'🔊07Now体育
-http://rihou.cc:555/tv/[At|]Now体育
-#EXTINF:-1 group-title="世杯八强",粤'🔊07澳门体育
-http://rihou.cc:555/tv/[At|]澳门体育
-#EXTINF:-1 group-title="世杯八强",国'🔊07ELta体育
-http://rihou.cc:555/tv/[At|]ELta体育
-#EXTINF:-1 group-title="世杯八强",国'🔊07咪咕评述
-http://rihou.cc:555/tv/07世杯咪述评
 #EXTINF:-1 group-title="世杯八强",07-08⬇️世界杯1/8决赛⬇️⚽📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="世杯八强",00:00阿根廷🆚埃及
@@ -99,7 +89,7 @@ http://rihou.cc:555/tv/[At|]ELta体育
 http://rihou.cc:555/tv/10世杯咪评述
 #EXTINF:-1 group-title="世杯四强",07-11⬇️世界杯1/4决赛⬇️⚽📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="世杯四强",03:00葡萄牙/西班牙🆚美国/比利时
+#EXTINF:-1 group-title="世杯四强",03:00西班牙🆚美国/比利时
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="世杯四强",粤🔊11咪咕旁述
 http://rihou.cc:555/tv/11世杯咪旁述
