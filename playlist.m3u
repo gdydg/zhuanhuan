@@ -1,54 +1,4 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
-#EXTINF:-1 group-title="世杯半决",07-16⬇️世界杯半决赛⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="世杯半决",03:00英格兰🆚阿根廷
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="世杯半决",粤🔊16鞋佬旁述
-http://rihou.cc:555/tv/16世杯鞋佬述
-#EXTINF:-1 group-title="世杯半决",粤🔊16大D-旁述
-http://rihou.cc:555/tv/16世杯大D-述
-#EXTINF:-1 group-title="世杯半决",粤🔊16小肥旁述
-http://rihou.cc:555/tv/16世杯小肥述
-#EXTINF:-1 group-title="世杯半决",粤🔊16牛哥旁述
-http://rihou.cc:555/tv/16世杯牛哥述
-#EXTINF:-1 group-title="世杯半决",粤🔊16满球旁述
-http://rihou.cc:555/tv/16世杯满球述
-#EXTINF:-1 group-title="世杯半决",粤🔊16碧咸旁述
-http://rihou.cc:555/tv/16世杯碧咸述
-#EXTINF:-1 group-title="世杯半决",粤🔊16锐探旁述
-http://rihou.cc:555/tv/16世杯锐探述
-#EXTINF:-1 group-title="世杯半决",粤🔊16丁伟杰述
-http://rihou.cc:555/tv/16世杯丁伟杰
-#EXTINF:-1 group-title="世杯半决",粤🔊16粤kk旁述
-http://rihou.cc:555/tv/16世杯粤kk述
-#EXTINF:-1 group-title="世杯半决",粤🔊16师兄旁述
-http://rihou.cc:555/tv/16世杯师兄述
-#EXTINF:-1 group-title="世杯半决",粤🔊16SHY根述
-http://rihou.cc:555/tv/16世杯SHY根
-#EXTINF:-1 group-title="世杯半决",粤🔊16咪陈凯冬
-http://rihou.cc:555/tv/16世杯陈凯冬
-#EXTINF:-1 group-title="世杯半决",粤🔊16红书何辉
-http://rihou.cc:555/tv/16世杯何辉述
-#EXTINF:-1 group-title="世杯半决",粤🔊16广东体育
-http://rihou.cc:555/tv/[At|]广东体育
-#EXTINF:-1 group-title="世杯半决",粤🔊16Now4k体
-http://rihou.cc:555/tv/[At|]Now4k体
-#EXTINF:-1 group-title="世杯半决",粤🔊16Now体育
-http://rihou.cc:555/tv/[At|]Now体育
-#EXTINF:-1 group-title="世杯半决",粤🔊16澳门体育
-http://rihou.cc:555/tv/[At|]澳门体育
-#EXTINF:-1 group-title="世杯半决",国🔊16ELta体育
-http://rihou.cc:555/tv/[At|]ELta体育
-#EXTINF:-1 group-title="世杯半决",国🔊16咪咕评述
-http://rihou.cc:555/tv/16世杯咪评述
-#EXTINF:-1 group-title="世杯半决",国🔊16红书评述
-http://rihou.cc:555/tv/16世杯小红书
-#EXTINF:-1 group-title="世杯半决",国🔊16央视评述
-http://rihou.cc:555/tv/16世杯央视频
-#EXTINF:-1 group-title="世杯半决",国🔊16团哥评述
-http://rihou.cc:555/tv/16世杯团哥述
-#EXTINF:-1 group-title="世杯半决",国🔊16真实评述
-http://rihou.cc:555/tv/16世杯真实述
 #EXTINF:-1 group-title="村超赛评",07-17⬇️贵州村超1/4决赛⬇️⚽📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="村超赛评",18:30忠诚村足球队🆚寿洞村足球队
@@ -77,6 +27,12 @@ http://rihou.cc:555/tv/17中超咪评评
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="中超赛评",国🔊17中述述
 http://rihou.cc:555/tv/17中超咪述述
+#EXTINF:-1 group-title="蒙超赛评",07-17⬇️内蒙古足球超级联赛⬇️⚽📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="蒙超赛评",19:30通辽队🆚呼伦贝尔队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="蒙超赛评",国🔊17蒙评述
+http://rihou.cc:555/tv/17蒙超咪评述
 #EXTINF:-1 group-title="粤BA赛评",07-17⬇️粤BA季军赛次回合⬇️🏀📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="粤BA赛评",19:30广州🆚中山
@@ -287,7 +243,7 @@ http://rihou.cc:555/tv/v
 http://rihou.cc:555/tv/18疆超咪述评
 #EXTINF:-1 group-title="世杯决赛",07-19⬇️世界杯季军赛⬇️⚽📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="世杯决赛",05:00法国🆚英格兰/阿根廷
+#EXTINF:-1 group-title="世杯决赛",05:00法国🆚英格兰
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="世杯决赛",粤🔊19咪咕旁述
 http://rihou.cc:555/tv/19世杯咪旁述
@@ -305,7 +261,7 @@ http://rihou.cc:555/tv/[At|]ELta体育
 http://rihou.cc:555/tv/19世杯咪评述
 #EXTINF:-1 group-title="世杯决赛",07-20⬇️世界杯冠军赛⬇️⚽📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="世杯决赛",03:00西班牙🆚英格兰/阿根廷
+#EXTINF:-1 group-title="世杯决赛",03:00西班牙🆚阿根廷
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="世杯决赛",粤🔊20咪咕旁述
 http://rihou.cc:555/tv/20世杯咪旁述
