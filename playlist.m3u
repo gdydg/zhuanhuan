@@ -51,14 +51,6 @@ http://rihou.cc:555/tv/港风粤语女四
 http://rihou.cc:555/tv/港风粤语女五
 #EXTINF:-1 group-title="女篮26赛",07-26⬇️全国女子篮球锦标赛⬇️🏀📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="女篮26赛",10:00山东赤水河酒🆚北京师范大学
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="女篮26赛",国🔊26篮评述
-http://rihou.cc:555/tv/26女篮咪评述
-#EXTINF:-1 group-title="女篮26赛",14:30黑龙江队🆚陕西榆林天泽
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="女篮26赛",国🔊26篮述评
-http://rihou.cc:555/tv/26女篮咪述评
 #EXTINF:-1 group-title="女篮26赛",17:00合肥文旅🆚武汉盛帆黄鹤
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="女篮26赛",国🔊26篮评评
@@ -77,6 +69,8 @@ http://rihou.cc:555/tv/26疆超咪评述
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="中超26赛",19:00云南玉昆🆚深圳鹏城
 http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="中超26赛",粤🔊牛哥旁述
+http://rihou.cc:555/tv/26中超牛哥述
 #EXTINF:-1 group-title="中超26赛",国🔊26中评述
 http://rihou.cc:555/tv/26中超咪评述
 #EXTINF:-1 group-title="中超26赛",19:35成都蓉城🆚北京国安
@@ -235,82 +229,6 @@ http://1.202.119.183:15500/738910838
 http://1.202.119.183:15500/956923145
 #EXTINF:-1 group-title="央卫咪咕",黑龙江视咪咕
 http://1.202.119.183:15500/738906901
-#EXTINF:-1 group-title="央卫咪咕",CCTV-01咪咕
-http://221.221.137.78:8888/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央卫咪咕",CCTV-02咪咕
-http://221.221.137.78:8888/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央卫咪咕",CCTV-03咪咕
-http://221.221.137.78:8888/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央卫咪咕",CCTV-04咪咕
-http://221.221.137.78:8888/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央卫咪咕",CCTV-05咪咕
-http://221.221.137.78:8888/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央卫咪咕",CCTV-5+咪咕
-http://221.221.137.78:8888/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央卫咪咕",CCTV-06咪咕
-http://221.221.137.78:8888/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央卫咪咕",CCTV-07咪咕
-http://221.221.137.78:8888/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央卫咪咕",CCTV-08咪咕
-http://221.221.137.78:8888/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央卫咪咕",CCTV-09咪咕
-http://221.221.137.78:8888/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央卫咪咕",CCTV-10咪咕
-http://221.221.137.78:8888/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央卫咪咕",CCTV-11咪咕
-http://221.221.137.78:8888/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央卫咪咕",CCTV-12咪咕
-http://221.221.137.78:8888/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央卫咪咕",CCTV-13咪咕
-http://221.221.137.78:8888/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央卫咪咕",CCTV-14咪咕
-http://221.221.137.78:8888/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央卫咪咕",CCTV-15咪咕
-http://221.221.137.78:8888/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央卫咪咕",CCTV-16咪咕
-http://58.255.201.70:10443/tsfile/live/1001_1.m3u8
-#EXTINF:-1 group-title="央卫咪咕",CCTV-17咪咕
-http://mg.cttv.vip/673168256
-#EXTINF:-1 group-title="央卫咪咕",cct4欧洲咪咕
-http://mg.cttv.vip/608807419
-#EXTINF:-1 group-title="央卫咪咕",cct4美洲咪咕
-http://mg.cttv.vip/608807416
-#EXTINF:-1 group-title="央卫咪咕",CGTN-西咪咕
-http://mg.cttv.vip/609006450
-#EXTINF:-1 group-title="央卫咪咕",CGTN-阿咪咕
-http://mg.cttv.vip/609154345
-#EXTINF:-1 group-title="央卫咪咕",CGTN-法咪咕
-http://mg.cttv.vip/609006476
-#EXTINF:-1 group-title="央卫咪咕",北京卫视咪咕
-http://mg.cttv.vip/630287636
-#EXTINF:-1 group-title="央卫咪咕",东方卫视咪咕
-http://221.221.137.78:8888/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央卫咪咕",浙江卫视咪咕
-http://221.221.137.78:8888/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央卫咪咕",江苏卫视咪咕
-http://221.221.137.78:8888/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央卫咪咕",湖南卫视咪咕
-http://221.221.137.78:8888/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央卫咪咕",广东卫视咪咕
-http://mg.cttv.vip/608831231
-#EXTINF:-1 group-title="央卫咪咕",深圳卫视咪咕
-http://221.221.137.78:8888/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央卫咪咕",山东卫视咪咕
-http://221.221.137.78:8888/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央卫咪咕",河南卫视咪咕
-http://221.221.137.78:8888/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央卫咪咕",江西卫视咪咕
-http://221.221.137.78:8888/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央卫咪咕",湖北卫视咪咕
-http://221.221.137.78:8888/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央卫咪咕",海南卫视咪咕
-http://mg.cttv.vip/947472502
-#EXTINF:-1 group-title="央卫咪咕",陕西卫视咪咕
-http://mg.cttv.vip/738910838
-#EXTINF:-1 group-title="央卫咪咕",兵团卫视咪咕
-http://mg.cttv.vip/956923145
-#EXTINF:-1 group-title="央卫咪咕",黑龙江视咪咕
-http://221.221.137.78:8888/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央卫咪咕",CCTV-01咪咕
 http://mg.cttv.vip/608807420
 #EXTINF:-1 group-title="央卫咪咕",CCTV-02咪咕
