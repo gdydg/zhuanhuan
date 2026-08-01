@@ -131,6 +131,16 @@ http://rihou.cc:555/tv/[Pd]CH5综合
 http://rihou.cc:555/tv/[Pd]CH8综合
 #EXTINF:-1 group-title="欣赏Pdtv",astroaodPdtv
 http://rihou.cc:555/tv/[Pd]astroaod
+#EXTINF:-1 group-title="热身01赛",08-01⬇️足球热身赛⬇️⚽📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="热身01赛",19:30曼城🆚国际米兰
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="热身01赛",粤🔊小肥旁述
+http://rihou.cc:555/tv/01热身小肥述
+#EXTINF:-1 group-title="热身01赛",国🔊高老师述
+http://rihou.cc:555/tv/01热身高老师
+#EXTINF:-1 group-title="热身01赛",国🔊01热述评
+http://rihou.cc:555/tv/01热身咪述评
 #EXTINF:-1 group-title="鄂超01赛",08-01⬇️湖北省城市足球联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="鄂超01赛",17:00神农架队🆚荆门金龙泉队
@@ -175,16 +185,6 @@ http://rihou.cc:555/tv/01蒙超咪评述
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="蒙超01赛",国🔊01蒙述评
 http://rihou.cc:555/tv/01蒙超咪述评
-#EXTINF:-1 group-title="热身01赛",08-01⬇️足球热身赛⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="热身01赛",17:45车路士🆚热刺
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="热身01赛",国🔊01热评述
-http://rihou.cc:555/tv/01热身咪评述
-#EXTINF:-1 group-title="热身01赛",19:30曼城🆚国际米兰
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="热身01赛",国🔊01热述评
-http://rihou.cc:555/tv/01热身咪述评
 #EXTINF:-1 group-title="中超01赛",08-01⬇️中超联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="中超01赛",19:00天津门虎🆚云南玉昆
@@ -231,6 +231,26 @@ http://rihou.cc:555/tv/v
 http://rihou.cc:555/tv/01鲁超咪述旁
 #EXTINF:-1 group-title="粤超01赛",08-01⬇️广东省足球超级联赛第11轮⬇️⚽📡
 http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="粤超01赛",19:30中山🆚佛山
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="粤超01赛",国🔊01粤评'述
+http://rihou.cc:555/tv/01粤超咪-评述
+#EXTINF:-1 group-title="粤超01赛",19:30阳江🆚云浮
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="粤超01赛",国🔊01粤述'评
+http://rihou.cc:555/tv/01粤超咪-述评
+#EXTINF:-1 group-title="粤超01赛",19:30珠海🆚江门
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="粤超01赛",国🔊01粤评'评
+http://rihou.cc:555/tv/01粤超咪-评评
+#EXTINF:-1 group-title="粤超01赛",19:30肇庆🆚茂名
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="粤超01赛",国🔊01粤述'述
+http://rihou.cc:555/tv/01粤超咪-述述
+#EXTINF:-1 group-title="粤超01赛",19:30湛江🆚广州
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="粤超01赛",国🔊01粤旁'述
+http://rihou.cc:555/tv/01粤超咪-旁述
 #EXTINF:-1 group-title="粤超01赛",19:30河源🆚东莞
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="粤超01赛",国🔊01粤评述
@@ -255,8 +275,10 @@ http://rihou.cc:555/tv/01粤超咪旁述
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="粤BA01赛",19:30东莞🆚深圳
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="粤BA01赛",国🔊01粤'评述
+#EXTINF:-1 group-title="粤BA01赛",粤🔊01粤'评述
 http://rihou.cc:555/tv/01粤BA咪评述
+#EXTINF:-1 group-title="粤BA01赛",国🔊01粤'述评
+http://rihou.cc:555/tv/01粤BA咪述评
 #EXTINF:-1 group-title="赣超01赛",08-01⬇️江西省城市足球超级联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="赣超01赛",19:30抚州队🆚景德镇队
