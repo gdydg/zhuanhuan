@@ -131,6 +131,14 @@ http://rihou.cc:555/tv/[Pd]CH5综合
 http://rihou.cc:555/tv/[Pd]CH8综合
 #EXTINF:-1 group-title="欣赏Pdtv",astroaodPdtv
 http://rihou.cc:555/tv/[Pd]astroaod
+#EXTINF:-1 group-title="友谊05赛",08-05⬇️足球友谊赛⬇️⚽📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="友谊05赛",19:00AC米兰🆚国际米兰
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="友谊05赛",粤🔊锐探旁述
+http://rihou.cc:555/tv/05友谊锐探述
+#EXTINF:-1 group-title="友谊05赛",国🔊团哥评述
+http://rihou.cc:555/tv/05友谊团哥述
 #EXTINF:-1 group-title="热身05赛",08-05⬇️足球热身赛⬇️⚽📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="热身05赛",19:00曼城🆚K联赛全明星
@@ -139,6 +147,8 @@ http://rihou.cc:555/tv/v
 http://rihou.cc:555/tv/05热身咪评述
 #EXTINF:-1 group-title="热身05赛",19:30车路士🆚祖云达斯
 http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="热身05赛",粤🔊锐探'旁述
+http://rihou.cc:555/tv/05热身锐探述
 #EXTINF:-1 group-title="热身05赛",国🔊05热述评
 http://rihou.cc:555/tv/05热身咪述评
 #EXTINF:-1 group-title="赛事精锦",⬇️各大赛事精锦⬇️
