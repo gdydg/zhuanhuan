@@ -153,6 +153,8 @@ http://rihou.cc:555/tv/07湘超咪评述
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="热身07赛",20:00拜仁🆚维拉
 http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="热身07赛",粤🔊小肥旁述
+http://rihou.cc:555/tv/07热身小肥述
 #EXTINF:-1 group-title="热身07赛",国🔊07热评述
 http://rihou.cc:555/tv/07热身咪评述
 #EXTINF:-1 group-title="赛事精锦",⬇️各大赛事精锦⬇️
@@ -181,7 +183,7 @@ http://rihou.cc:555/tv/t
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="陇超08赛",国🔊08陇评述
 http://rihou.cc:555/tv/08陇超咪评述
-#EXTINF:-1 group-title="陇超08赛",19:00陇南队🆚甘南队
+#EXTINF:-1 group-title="陇超08赛",19:30陇南队🆚甘南队
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="陇超08赛",国🔊08陇述评
 http://rihou.cc:555/tv/08陇超咪述评
@@ -301,6 +303,12 @@ http://rihou.cc:555/tv/08苏超咪述评
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="苏超08赛",国🔊08苏评评
 http://rihou.cc:555/tv/08苏超咪评评
+#EXTINF:-1 group-title="热身08赛",08-08⬇️足球热身赛⬇️⚽📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="热身08赛",20:00车路士🆚AC米兰
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="热身08赛",国🔊08热评述
+http://rihou.cc:555/tv/08热身咪评述
 #EXTINF:-1 group-title="疆超08赛",08-08⬇️疆超季军赛⬇️⚽📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="疆超08赛",21:00吐鲁番队🆚阿勒泰队
