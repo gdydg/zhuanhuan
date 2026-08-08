@@ -131,16 +131,16 @@ http://rihou.cc:555/tv/[Pd]CH5综合
 http://rihou.cc:555/tv/[Pd]CH8综合
 #EXTINF:-1 group-title="欣赏Pdtv",astroaodPdtv
 http://rihou.cc:555/tv/[Pd]astroaod
-#EXTINF:-1 group-title="陇超08赛",08-08⬇️甘肃省足球超级联赛⬇️⚽📡
+#EXTINF:-1 group-title="热身08赛",08-08⬇️足球热身赛⬇️⚽📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="陇超08赛",10:00嘉峪关队🆚兰州队
+#EXTINF:-1 group-title="热身08赛",20:00车路士🆚AC米兰
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="陇超08赛",国🔊08陇评述
-http://rihou.cc:555/tv/08陇超咪评述
-#EXTINF:-1 group-title="陇超08赛",19:30陇南队🆚甘南队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="陇超08赛",国🔊08陇述评
-http://rihou.cc:555/tv/08陇超咪述评
+#EXTINF:-1 group-title="热身08赛",粤🔊小肥旁述
+http://rihou.cc:555/tv/08热身小肥述
+#EXTINF:-1 group-title="热身08赛",国🔊团哥评述
+http://rihou.cc:555/tv/08热身团哥述
+#EXTINF:-1 group-title="热身08赛",国🔊08热评述
+http://rihou.cc:555/tv/08热身咪评述
 #EXTINF:-1 group-title="鲁超08赛",08-08⬇️山东省足球超级联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="鲁超08赛",16:00德州古贝春🆚滨州创新队
@@ -201,6 +201,12 @@ http://rihou.cc:555/tv/08鄂超咪评述
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="鄂超08赛",国🔊08鄂述评
 http://rihou.cc:555/tv/08鄂超咪述评
+#EXTINF:-1 group-title="陇超08赛",08-08⬇️甘肃省足球超级联赛⬇️⚽📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="陇超08赛",19:30陇南队🆚甘南队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="陇超08赛",国🔊08陇述评
+http://rihou.cc:555/tv/08陇超咪述评
 #EXTINF:-1 group-title="赣超08赛",08-08⬇️江西省足球超级联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="赣超08赛",19:30鹰潭队🆚九江队
@@ -257,12 +263,6 @@ http://rihou.cc:555/tv/08苏超咪述评
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="苏超08赛",国🔊08苏评评
 http://rihou.cc:555/tv/08苏超咪评评
-#EXTINF:-1 group-title="热身08赛",08-08⬇️足球热身赛⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="热身08赛",20:00车路士🆚AC米兰
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="热身08赛",国🔊08热评述
-http://rihou.cc:555/tv/08热身咪评述
 #EXTINF:-1 group-title="疆超08赛",08-08⬇️疆超季军赛⬇️⚽📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="疆超08赛",21:00吐鲁番队🆚阿勒泰队
@@ -289,6 +289,20 @@ http://rihou.cc:555/tv/排球回放赛08
 http://rihou.cc:555/tv/格斗回放赛08
 #EXTINF:-1 group-title="赛事精锦",斯赛赛事回放
 http://rihou.cc:555/tv/斯赛回放赛08
+#EXTINF:-1 group-title="热身09赛",08-09⬇️足球热身赛⬇️⚽📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="热身09赛",19:00曼城🆚马体会
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="热身09赛",国🔊09热评述
+http://rihou.cc:555/tv/09热身咪评述
+#EXTINF:-1 group-title="热身09赛",20:00车路士🆚柔佛新山
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="热身09赛",国🔊09热述评
+http://rihou.cc:555/tv/09热身咪述评
+#EXTINF:-1 group-title="热身09赛",21:30利物浦🆚摩纳哥
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="热身09赛",国🔊09热评评
+http://rihou.cc:555/tv/09热身咪评评
 #EXTINF:-1 group-title="中超09赛",08-09⬇️中超联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="中超09赛",19:00河南俱乐🆚青岛西岸
@@ -348,81 +362,81 @@ http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="女篮12赛",国🔊12篮评述
 http://rihou.cc:555/tv/12女篮咪评述
 #EXTINF:-1 group-title="央卫咪咕",CCTV-01咪咕
-http://27.156.100.84:10000/608807420
+http://8.135.27.147:1234/608807420
 #EXTINF:-1 group-title="央卫咪咕",CCTV-02咪咕
-http://27.156.100.84:10000/631780532
+http://8.135.27.147:1234/631780532
 #EXTINF:-1 group-title="央卫咪咕",CCTV-03咪咕
-http://27.156.100.84:10000/624878271
+http://8.135.27.147:1234/624878271
 #EXTINF:-1 group-title="央卫咪咕",CCTV-04咪咕
-http://27.156.100.84:10000/631780421
+http://8.135.27.147:1234/631780421
 #EXTINF:-1 group-title="央卫咪咕",CCTV-05咪咕
-http://27.156.100.84:10000/641886683
+http://8.135.27.147:1234/641886683
 #EXTINF:-1 group-title="央卫咪咕",CCTV-5+咪咕
-http://27.156.100.84:10000/641886773
+http://8.135.27.147:1234/641886773
 #EXTINF:-1 group-title="央卫咪咕",CCTV-06咪咕
-http://27.156.100.84:10000/624878396
+http://8.135.27.147:1234/624878396
 #EXTINF:-1 group-title="央卫咪咕",CCTV-07咪咕
-http://27.156.100.84:10000/673168121
+http://8.135.27.147:1234/673168121
 #EXTINF:-1 group-title="央卫咪咕",CCTV-08咪咕
-http://27.156.100.84:10000/624878356
+http://8.135.27.147:1234/624878356
 #EXTINF:-1 group-title="央卫咪咕",CCTV-09咪咕
-http://27.156.100.84:10000/673168140
+http://8.135.27.147:1234/673168140
 #EXTINF:-1 group-title="央卫咪咕",CCTV-10咪咕
-http://27.156.100.84:10000/624878405
+http://8.135.27.147:1234/624878405
 #EXTINF:-1 group-title="央卫咪咕",CCTV-11咪咕
-http://27.156.100.84:10000/667987558
+http://8.135.27.147:1234/667987558
 #EXTINF:-1 group-title="央卫咪咕",CCTV-12咪咕
-http://27.156.100.84:10000/673168185
+http://8.135.27.147:1234/673168185
 #EXTINF:-1 group-title="央卫咪咕",CCTV-13咪咕
-http://27.156.100.84:10000/608807423
+http://8.135.27.147:1234/608807423
 #EXTINF:-1 group-title="央卫咪咕",CCTV-14咪咕
-http://27.156.100.84:10000/624878440
+http://8.135.27.147:1234/624878440
 #EXTINF:-1 group-title="央卫咪咕",CCTV-15咪咕
-http://27.156.100.84:10000/673168223
+http://8.135.27.147:1234/673168223
 #EXTINF:-1 group-title="央卫咪咕",CCTV-16咪咕
 http://58.255.201.70:10443/tsfile/live/1001_1.m3u8
 #EXTINF:-1 group-title="央卫咪咕",CCTV-17咪咕
-http://27.156.100.84:10000/673168256
+http://8.135.27.147:1234/673168256
 #EXTINF:-1 group-title="央卫咪咕",cct4欧洲咪咕
-http://27.156.100.84:10000/608807419
+http://8.135.27.147:1234/608807419
 #EXTINF:-1 group-title="央卫咪咕",cct4美洲咪咕
-http://27.156.100.84:10000/608807416
+http://8.135.27.147:1234/608807416
 #EXTINF:-1 group-title="央卫咪咕",CGTN-西咪咕
-http://27.156.100.84:10000/609006450
+http://8.135.27.147:1234/609006450
 #EXTINF:-1 group-title="央卫咪咕",CGTN-阿咪咕
-http://27.156.100.84:10000/609154345
+http://8.135.27.147:1234/609154345
 #EXTINF:-1 group-title="央卫咪咕",CGTN-法咪咕
-http://27.156.100.84:10000/609006476
+http://8.135.27.147:1234/609006476
 #EXTINF:-1 group-title="央卫咪咕",北京卫视咪咕
-http://27.156.100.84:10000/630287636
+http://8.135.27.147:1234/630287636
 #EXTINF:-1 group-title="央卫咪咕",东方卫视咪咕
-http://27.156.100.84:10000/651632648
+http://8.135.27.147:1234/651632648
 #EXTINF:-1 group-title="央卫咪咕",浙江卫视咪咕
 http://rihou.cc:555/tv/[mg]浙江卫视
 #EXTINF:-1 group-title="央卫咪咕",江苏卫视咪咕
-http://27.156.100.84:10000/623899368
+http://8.135.27.147:1234/623899368
 #EXTINF:-1 group-title="央卫咪咕",湖南卫视咪咕
 http://rihou.cc:555/tv/[mg]湖南卫视
 #EXTINF:-1 group-title="央卫咪咕",广东卫视咪咕
-http://27.156.100.84:10000/608831231
+http://8.135.27.147:1234/608831231
 #EXTINF:-1 group-title="央卫咪咕",深圳卫视咪咕
 http://rihou.cc:555/tv/[mg]深圳卫视
 #EXTINF:-1 group-title="央卫咪咕",山东卫视咪咕
 http://rihou.cc:555/tv/[mg]山东卫视
 #EXTINF:-1 group-title="央卫咪咕",河南卫视咪咕
-http://27.156.100.84:10000/790187291
+http://8.135.27.147:1234/790187291
 #EXTINF:-1 group-title="央卫咪咕",江西卫视咪咕
-http://27.156.100.84:10000/783847495
+http://8.135.27.147:1234/783847495
 #EXTINF:-1 group-title="央卫咪咕",湖北卫视咪咕
-http://27.156.100.84:10000/947472496
+http://8.135.27.147:1234/947472496
 #EXTINF:-1 group-title="央卫咪咕",海南卫视咪咕
-http://27.156.100.84:10000/947472502
+http://8.135.27.147:1234/947472502
 #EXTINF:-1 group-title="央卫咪咕",陕西卫视咪咕
-http://27.156.100.84:10000/738910838
+http://8.135.27.147:1234/738910838
 #EXTINF:-1 group-title="央卫咪咕",兵团卫视咪咕
-http://27.156.100.84:10000/956923145
+http://8.135.27.147:1234/956923145
 #EXTINF:-1 group-title="央卫咪咕",黑龙江视咪咕
-http://27.156.100.84:10000/738906901
+http://8.135.27.147:1234/738906901
 #EXTINF:-1 group-title="特区双音",Plus综合双语
 https://o11.163189.xyz/stream/tvb/tvbp/
 #EXTINF:-1 group-title="特区双音",无线翡翠4k音
