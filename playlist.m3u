@@ -129,20 +129,6 @@ http://rihou.cc:555/tv/[Pd]CH8综合
 http://rihou.cc:555/tv/[Pd]astroaod
 #EXTINF:-1 group-title="欣赏Pdtv",Astr欢喜Pdtv
 http://rihou.cc:555/tv/[Pd]Astr欢喜
-#EXTINF:-1 group-title="女篮25赛",08-25⬇️全国女篮锦标小组赛⬇️🏀📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="女篮25赛",18:00江苏南钢女队🆚合肥文旅女队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="女篮25赛",国🔊25篮述述
-http://rihou.cc:555/tv/25女篮咪述述
-#EXTINF:-1 group-title="女篮25赛",19:30黑龙江女子队🆚福建金篮女队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="女篮25赛",国🔊25篮旁述
-http://rihou.cc:555/tv/25女篮咪旁述
-#EXTINF:-1 group-title="女篮25赛",20:00浙江稠州银行🆚山东高速赤河
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="女篮25赛",国🔊25篮述旁
-http://rihou.cc:555/tv/25女篮咪述旁
 #EXTINF:-1 group-title="女篮26赛",08-26⬇️全国女篮锦标小组赛⬇️🏀📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="女篮26赛",14:00合肥文旅女队🆚四川蜀道远达
@@ -172,23 +158,23 @@ http://rihou.cc:555/tv/26女篮咪述旁
 #EXTINF:-1 group-title="赛事精锦",⬇️各大赛事精锦⬇️
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="赛事精锦",联赛赛事回放
-http://rihou.cc:555/tv/联赛回放赛25
+http://rihou.cc:555/tv/联赛回放赛26
 #EXTINF:-1 group-title="赛事精锦",NBA赛事回放
-http://rihou.cc:555/tv/NBA回放赛25
+http://rihou.cc:555/tv/NBA回放赛26
 #EXTINF:-1 group-title="赛事精锦",羽球赛事回放
-http://rihou.cc:555/tv/羽球回放赛25
+http://rihou.cc:555/tv/羽球回放赛26
 #EXTINF:-1 group-title="赛事精锦",橄球赛事回放
-http://rihou.cc:555/tv/橄球回放赛25
+http://rihou.cc:555/tv/橄球回放赛26
 #EXTINF:-1 group-title="赛事精锦",乒球赛事回放
-http://rihou.cc:555/tv/乒球回放赛25
+http://rihou.cc:555/tv/乒球回放赛26
 #EXTINF:-1 group-title="赛事精锦",网球赛事回放
-http://rihou.cc:555/tv/网球回放赛25
+http://rihou.cc:555/tv/网球回放赛26
 #EXTINF:-1 group-title="赛事精锦",排球赛事回放
-http://rihou.cc:555/tv/排球回放赛25
+http://rihou.cc:555/tv/排球回放赛26
 #EXTINF:-1 group-title="赛事精锦",格斗赛事回放
-http://rihou.cc:555/tv/格斗回放赛25
+http://rihou.cc:555/tv/格斗回放赛26
 #EXTINF:-1 group-title="赛事精锦",斯赛赛事回放
-http://rihou.cc:555/tv/斯赛回放赛25
+http://rihou.cc:555/tv/斯赛回放赛26
 #EXTINF:-1 group-title="央卫咪咕",CCTV-01咪咕
 http://mg.cttv.vip/608807420
 #EXTINF:-1 group-title="央卫咪咕",CCTV-02咪咕
@@ -265,24 +251,6 @@ http://mg.cttv.vip/738910838
 http://mg.cttv.vip/956923145
 #EXTINF:-1 group-title="央卫咪咕",黑龙江视咪咕
 http://mg.cttv.vip/738906901
-#EXTINF:-1 group-title="特区双音",Plus综合双语
-https://o11.163189.xyz/stream/tvb/tvbp/
-#EXTINF:-1 group-title="特区双音",无线翡翠4k音
-https://o11.163189.xyz/stream/tvb/fct4k/
-#EXTINF:-1 group-title="特区双音",无线华丽双语
-https://o11.163189.xyz/stream/live/hlt/
-#EXTINF:-1 group-title="特区双音",无线星河双语
-https://o11.163189.xyz/stream/live/tvbxh/
-#EXTINF:-1 group-title="特区双音",无线千禧单粤
-https://o11.163189.xyz/stream/live/tvbc/
-#EXTINF:-1 group-title="特区双音",astroaod双语
-https://o11.163189.xyz/stream/live/aod/
-#EXTINF:-1 group-title="特区双音",astroaec双语
-https://o11.163189.xyz/stream/live/aec/
-#EXTINF:-1 group-title="特区双音",astroiqiyi单国
-https://o11.163189.xyz/stream/live/iqiyi/
-#EXTINF:-1 group-title="特区双音",astro欢喜双语
-https://o11.163189.xyz/stream/live/hxt/
 #EXTINF:-1 group-title="欣赏频道",⬇️特闽新闻⬇️
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="欣赏频道",有线新闻欣赏
@@ -347,8 +315,6 @@ http://rihou.cc:555/tv/v
 http://rihou.cc:555/tv/[Pd]Plus综合
 #EXTINF:-1 group-title="欣赏频道",有线综合欣赏
 http://rihou.cc:555/tv/[Pd]有线综合
-#EXTINF:-1 group-title="欣赏频道",有线亚剧欣赏
-http://rihou.cc:555/tv/[Pd]有线亚剧
 #EXTINF:-1 group-title="欣赏频道",无线华丽粤赏
 http://rihou.cc:555/tv/[Pd]无线华丽
 #EXTINF:-1 group-title="欣赏频道",无线华丽国赏
@@ -363,6 +329,8 @@ http://rihou.cc:555/tv/v
 http://rihou.cc:555/tv/[At|]广东珠江
 #EXTINF:-1 group-title="欣赏频道",广东珠江欣赏
 http://rihou.cc:555/tv/[Cx]广东珠江
+#EXTINF:-1 group-title="欣赏频道",广东体育欣赏
+http://rihou.cc:555/tv/[At|]广东体育
 #EXTINF:-1 group-title="欣赏频道",广州综合欣赏
 http://rihou.cc:555/tv/[Cx]广州综合
 #EXTINF:-1 group-title="欣赏频道",广州新闻欣赏
@@ -403,18 +371,6 @@ http://rihou.cc:555/tv/[mv]港星贺岁
 http://rihou.cc:555/tv/[mv]寻秦记粤
 #EXTINF:-1 group-title="欣赏频道",⬇️欣赏频道⬇️
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="欣赏频道",广东珠江频道
-http://m.061899.xyz/mg/gdzj
-#EXTINF:-1 group-title="欣赏频道",广东体育频道
-http://m.061899.xyz/mg/gdty
-#EXTINF:-1 group-title="欣赏频道",广东民生频道
-http://m.061899.xyz/mg/gdms
-#EXTINF:-1 group-title="欣赏频道",广东新闻频道
-http://m.061899.xyz/mg/gdxw
-#EXTINF:-1 group-title="欣赏频道",广东影视频道
-http://m.061899.xyz/mg/gdys
-#EXTINF:-1 group-title="欣赏频道",广东湾区频道
-http://m.061899.xyz/mg/dwqws
 #EXTINF:-1 group-title="欣赏频道",凤凰电影频道
 http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 #EXTINF:-1 group-title="欣赏频道",凤凰电影频道
@@ -552,9 +508,9 @@ https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1 group-title="欣赏频道",芒果4k频道超
 https://ffmpeg.pendy.dpdns.org/mgtv/mgtv.m3u8
 #EXTINF:-1 group-title="欣赏频道",第一滴血全集
-http://iptv77.iptv66.eu.org:35455/yy/1354932355
+http://8.155.43.98:35455/yy/1354932355
 #EXTINF:-1 group-title="欣赏频道",速度与激情集
-http://iptv77.iptv66.eu.org:35455/yy/1382736911
+http://8.155.43.98:35455/yy/1382736911
 #EXTINF:-1 group-title="欣赏频道",雪中悍刀行剧
 http://120.220.76.91:2003/huya.php?id=11336592
 #EXTINF:-1 group-title="欣赏频道",庆余年一轮播
@@ -568,19 +524,19 @@ http://8.155.43.98:35455/douyu/9123570
 #EXTINF:-1 group-title="欣赏频道",96笑傲江湖粤
 http://8.155.43.98:35455/douyu/8912325
 #EXTINF:-1 group-title="欣赏频道",83射雕英雄传
-http://iptv77.iptv66.eu.org:35455/yy/1354210357
+http://8.155.43.98:35455/yy/1354210357
 #EXTINF:-1 group-title="欣赏频道",95神雕侠侣粤
-http://iptv77.iptv66.eu.org:35455/yy/1354926637
+http://8.155.43.98:35455/yy/1354926637
 #EXTINF:-1 group-title="欣赏频道",87经典红楼梦
-http://iptv77.iptv66.eu.org:35455/yy/1382745084
+http://8.155.43.98:35455/yy/1382745084
 #EXTINF:-1 group-title="欣赏频道",新白娘子轮播
-http://iptv77.iptv66.eu.org:35455/yy/1354930969
+http://8.155.43.98:35455/yy/1354930969
 #EXTINF:-1 group-title="欣赏频道",仙剑奇侠传剧
-http://iptv77.iptv66.eu.org:35455/yy/1382749903
+http://8.155.43.98:35455/yy/1382749903
 #EXTINF:-1 group-title="欣赏频道",花千骨电视剧
-http://iptv77.iptv66.eu.org:35455/yy/1354943110
+http://8.155.43.98:35455/yy/1354943110
 #EXTINF:-1 group-title="欣赏频道",鹊刀门传奇剧
-http://iptv77.iptv66.eu.org:35455/yy/1355344777
+http://8.155.43.98:35455/yy/1355344777
 #EXTINF:-1 group-title="欣赏频道",传闻中的芊芊
 http://120.220.76.91:2003/huya.php?id=21059608
 #EXTINF:-1 group-title="欣赏频道",如懿传电视剧
@@ -602,23 +558,23 @@ http://8.155.43.98:35455/douyu/3756989
 #EXTINF:-1 group-title="欣赏频道",好先生电视剧
 http://8.155.43.98:35455/douyu/9650792
 #EXTINF:-1 group-title="欣赏频道",我的体育老师
-http://iptv77.iptv66.eu.org:35455/yy/1382745169
+http://8.155.43.98:35455/yy/1382745169
 #EXTINF:-1 group-title="欣赏频道",如果岁月轮播
-http://iptv77.iptv66.eu.org:35455/yy/1382736883
+http://8.155.43.98:35455/yy/1382736883
 #EXTINF:-1 group-title="欣赏频道",流金岁月轮播
-http://iptv77.iptv66.eu.org:35455/yy/1382749906
+http://8.155.43.98:35455/yy/1382749906
 #EXTINF:-1 group-title="欣赏频道",我的前半生剧
-http://iptv77.iptv66.eu.org:35455/yy/1382735564
+http://8.155.43.98:35455/yy/1382735564
 #EXTINF:-1 group-title="欣赏频道",伪装者电视剧
-http://iptv77.iptv66.eu.org:35455/yy/1354936244
+http://8.155.43.98:35455/yy/1354936244
 #EXTINF:-1 group-title="欣赏频道",火蓝刀锋轮播
-http://iptv77.iptv66.eu.org:35455/yy/1382737892
+http://8.155.43.98:35455/yy/1382737892
 #EXTINF:-1 group-title="欣赏频道",二炮手电视剧
-http://iptv77.iptv66.eu.org:35455/yy/1354930964
+http://8.155.43.98:35455/yy/1354930964
 #EXTINF:-1 group-title="欣赏频道",炮神电视轮播
-http://iptv77.iptv66.eu.org:35455/yy/22089862
+http://8.155.43.98:35455/yy/22089862
 #EXTINF:-1 group-title="欣赏频道",风筝电视轮播
-http://iptv77.iptv66.eu.org:35455/yy/1354931585
+http://8.155.43.98:35455/yy/1354931585
 #EXTINF:-1 group-title="欣赏频道",渗透电视轮播
 http://120.220.76.91:2003/huya.php?id=30080244
 #EXTINF:-1 group-title="欣赏频道",亮剑电视轮播
@@ -626,7 +582,7 @@ http://120.220.76.91:2003/huya.php?id=30080238
 #EXTINF:-1 group-title="欣赏频道",雪豹电视轮播
 http://120.220.76.91:2003/huya.php?id=29580970
 #EXTINF:-1 group-title="欣赏频道",武林外传轮播
-http://iptv77.iptv66.eu.org:35455/yy/1355652820
+http://8.155.43.98:35455/yy/1355652820
 #EXTINF:-1 group-title="欣赏频道",科幻Fans轮播
 http://8.155.43.98:35455/douyu/3508304
 #EXTINF:-1 group-title="欣赏频道",科幻解说轮播
@@ -662,13 +618,9 @@ https://pull.dxhmt.cn/tv/168666456yinyue123477.flv
 #EXTINF:-1 group-title="欣赏频道",经典音乐频道
 https://pull.dxhmt.cn/tv/168666456yinyuy123477.flv
 #EXTINF:-1 group-title="网页音乐",音乐库仓抖播
-https://pull-m1.wxlivecdn.com/trtc_1400419933/orig_2042949128443073802_orig.flv?cdntagname=orig&combuf=3%2FwDuuMGgK2rW24GM%2F6B4OXVbamgz4JlitF71eaWboPsPWKS%2FkCsvYxEnpdCOIP5GkpGnkt7Z9z01cTuDOrAq2FNzEkceuloDcSYAhg4ASEdMwPL4PW4Mv5fA%2FYMHkjoDb9DdNfaeWsxWTH%2Bwf8PsneRY1k%2Bax0Zyuhe1yqfbzcDIgnnjVBCjwzX68pgF%2Ff8ldkZFQPdYM2e5QoxOj7AsV2v8sD0VJGHwZPgMTkrcUM%2FCEEJ&expt=&extbuf=R%2B%2Bz%2FPaC3UpSfsGz5B%2FqCZOwVFWby55kqeSdFuP4jA12RP2qBojO2Aq60ch5A9jnn%2BSLtBB%2BfYNEwysLjoCcTD8PsdWno2NlAfIE%2F08XSyylJTQKVEgEpgqKjWCQLHB7cXOjXgo2XtqshJ0aM63giN4awuxbvQq1UVieRw3Q08wCuAGQOnG2Kq3AyS%2BsnE45h6UH49mkwXASQCogWfnLnN7z5SQS&gid=&openid=248E708BD3149C2D2E91DB2A8F702FEA&q=4&sc=500&sv=1&txSecret=ec37940649ab583144312f869c64feac&txTime=6A8E5C64&vcodec=1&wu=1&wxns=1&wxtoken=ee01272dfe5ed050172bcdbe2744b3be
+http://rihou.cc:555/tv/音乐库仓抖26
 #EXTINF:-1 group-title="网页音乐",音乐仓库抖播
-https://pull-m1.wxlivecdn.com/trtc_1400419933/orig_2042948817846908170_h264.flv?cdntagname=h264&combuf=Hd%2BBUl9XcFdMMtH%2F8J4iK0aKPNwUzzFoDh4OVhXPSE0XGZq4RbJd38KjZ%2FR%2FtcibYa5E9KRg7mv6Sbo6Di8h6QyVLgf7mMU4THoqA6g2tbWMLJRwSo669GtXK7aURp04XsFt7EXcH4Df2OyHNFrtjZtdowyWNZa7YxnOKKepMEzP9nJwPZNvEmo%2BOP05a%2FGIGXqeHjIEeytd3tqrbML9ICxodnCFEQUDPsKk%2B4zM8vkMuIUn1Q%3D%3D&expt=&extbuf=h85w%2F%2B63TLNuAjSuWa1TMrkgQO62EfB%2F0QNAu6grNCI16RK2fJyhqNhHbcN8FguM259dFCER6zvw69fCJ6AQOgs%2B6TA9a7ft97Y7Jq8HqCZFEivdpkI4CgOKlwjiMb5BZp9lGvt9QksSQg6Ghged477214MNgfoVFsLSu4Kktvz9XIYy11xx3jzeoaH1pVxOdgG6V0Ttm%2BxZN1cMqG9lrb%2BZ1A%3D%3D&gid=&openid=2FCE51EE6BD39BED3355DB993721C2EB&q=3&sc=500&sv=1&txSecret=acc922f6ab1865c7ded325bfcf985c42&txTime=6A8E1B27&vcodec=1&wu=1&wxext=0_3000_0&wxns=1&wxtoken=191bccd1ff917acc2cef31baffe22a1f
-#EXTINF:-1 group-title="网页音乐",音乐库仓抖播
-http://rihou.cc:555/tv/音乐库仓抖25
-#EXTINF:-1 group-title="网页音乐",音乐仓库抖播
-http://rihou.cc:555/tv/音乐仓库抖25
+http://rihou.cc:555/tv/音乐仓库抖26
 #EXTINF:-1 group-title="欣赏音乐",⬇️刘德华<今日>演唱会精彩片段⬇️
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="欣赏音乐",今日演唱会上
@@ -1031,528 +983,38 @@ http://iptv.4666888.xyz/iptv2A.php?id=18
 http://iptv.4666888.xyz/iptv2A.php?id=16
 #EXTINF:-1 group-title="特闽FYtv",青海卫视FYtv
 http://iptv.4666888.xyz/iptv2A.php?id=17
-#EXTINF:-1 group-title="闽南4Gtv",今日新闻4Gtv
-http://nmk.ioapk.com:5050/nnews-zh/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",中天新闻4Gtv
-http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",寰宇新闻4Gtv
-http://nmk.ioapk.com:5050/litv-longturn14/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",东森新闻4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv152/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",tvbs新闻4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv072/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",三立新闻4Gtv
-http://nmk.ioapk.com:5050/4gtv-live089/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",三立新闻4Gtv
-http://nmk.ioapk.com:5050/iNEWS/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",非凡新闻4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv010/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",闽镜新闻4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv075/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",民视新闻4Gtv
-http://nmk.ioapk.com:5050/litv-ftv13/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",中视新闻4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv074/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",华视新闻4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv052/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",台视新闻4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv051/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",民视闽南4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv002/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",民视闽南4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv155/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",民视闽南4Gtv
-http://nmk.ioapk.com:5050/4gtv-live050/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",中视闽南4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv040/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",华视闽南4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv041/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",台视闽南4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv066/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",寰宇闽南4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv156/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",tvbs闽南4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv073/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",民视台湾4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv001/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",民视第一4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv003/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",民视旅游4Gtv
-http://nmk.ioapk.com:5050/litv-ftv07/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",民视影剧4Gtv
-http://nmk.ioapk.com:5050/litv-ftv09/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",民视综艺4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv004/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",中视菁采4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv064/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",中视经典4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv080/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",台视财经4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv056/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",公视戏剧4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv042/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",闽南戏剧4Gtv
-http://nmk.ioapk.com:5050/litv-longturn22/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",国际财经4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv104/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",全球财经4Gtv
-http://nmk.ioapk.com:5050/4gtv-live060/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",东森财经4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv153/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",寰宇财经4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv158/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",cnbc财经4Gtv
-http://nmk.ioapk.com:5050/4gtv-live130/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",tvbs精采4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv067/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",tvbs欢乐4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv068/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",tvbs综艺4Gtv
-http://nmk.ioapk.com:5050/4gtv-live087/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",tvbs台剧4Gtv
-http://nmk.ioapk.com:5050/4gtv-live088/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",八大精彩4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv034/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",八大综艺4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv039/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",三立综合4Gtv
-http://nmk.ioapk.com:5050/4gtv-live207/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",爱达娱乐4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv070/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",靖洋戏剧4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv045/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",靖洋卡通4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv057/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",靖天卡通4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv044/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",靖天综合4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv046/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",靖天日本4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv047/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",靖天欢乐4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv054/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",靖天映画4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv055/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",靖天戏剧4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv058/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",靖天电影4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv061/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",靖天育乐4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv062/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",靖天国际4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv063/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",靖天资讯4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv065/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",龙华卡通4Gtv
-http://nmk.ioapk.com:5050/litv-longturn01/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",龙华日韩4Gtv
-http://nmk.ioapk.com:5050/litv-longturn11/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",龙华偶像4Gtv
-http://nmk.ioapk.com:5050/litv-longturn12/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",龙华电影4Gtv
-http://nmk.ioapk.com:5050/litv-longturn03/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",龙华洋片4Gtv
-http://nmk.ioapk.com:5050/litv-longturn02/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",龙华戏剧4Gtv
-http://nmk.ioapk.com:5050/litv-longturn18/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",龙华经典4Gtv
-http://nmk.ioapk.com:5050/litv-longturn21/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",国会频壹4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv084/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",国会频贰4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv085/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",好消息壹4Gtv
-http://nmk.ioapk.com:5050/litv-ftv16/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",好消息贰4Gtv
-http://nmk.ioapk.com:5050/litv-ftv17/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",大爱壹高4Gtv
-http://nmk.ioapk.com:5050/4gtv-live007/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",大爱贰高4Gtv
-http://nmk.ioapk.com:5050/4gtv-live106/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",人间卫视4Gtv
-http://nmk.ioapk.com:5050/4gtv-live008/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",原住民族4Gtv
-http://nmk.ioapk.com:5050/4gtv-live014/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",智林体育4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv101/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",博斯魅力4Gtv
-http://nmk.ioapk.com:5050/litv-longturn04/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",博斯网球4Gtv
-http://nmk.ioapk.com:5050/litv-longturn09/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",博高球壹4Gtv
-http://nmk.ioapk.com:5050/litv-longturn05/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",博高球贰4Gtv
-http://nmk.ioapk.com:5050/litv-longturn06/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",博运动壹4Gtv
-http://nmk.ioapk.com:5050/litv-longturn07/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",博运动贰4Gtv
-http://nmk.ioapk.com:5050/litv-longturn08/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",博无限壹4Gtv
-http://nmk.ioapk.com:5050/litv-longturn10/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",博无限贰4Gtv
-http://nmk.ioapk.com:5050/litv-longturn13/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",阿里郎台4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv079/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",滚动人生4Gtv
-http://nmk.ioapk.com:5050/4gtv-live012/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",达文西台4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv018/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",猪哥亮厅4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv006/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",亚洲旅游4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv076/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",ELta旅游4Gtv
-http://nmk.ioapk.com:5050/4gtv-live120/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",美国之音4Gtv
-http://nmk.ioapk.com:5050/litv-ftv03/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",半岛新闻4Gtv
-http://nmk.ioapk.com:5050/litv-ftv10/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",非凡商业4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv048/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",第壹商业4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv109/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",影迷纪实4Gtv
-http://nmk.ioapk.com:5050/litv-ftv15/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",经典电影4Gtv
-http://nmk.ioapk.com:5050/4gtv-live021/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",经典卡通4Gtv
-http://nmk.ioapk.com:5050/4gtv-live022/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",精选动漫4Gtv
-http://nmk.ioapk.com:5050/4gtv-live024/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",戏剧壹台4Gtv
-http://nmk.ioapk.com:5050/4gtv-live010/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",古典音乐4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv059/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",客家电视4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv043/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",华仁纪实4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv013/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",时尚运动4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv014/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",空间居家4Gtv
-http://nmk.ioapk.com:5050/4gtv-live206/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",生活英语4Gtv
-http://nmk.ioapk.com:5050/litv-longturn20/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",互动英语4Gtv
-http://nmk.ioapk.com:5050/4gtv-live030/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",采昌影剧4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv049/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",数位电影4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv011/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",欧洲电影4Gtv
-http://nmk.ioapk.com:5050/4gtv-live157/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",Amc电影4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv017/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",CINEMA-4Gtv
-http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",TRA体育4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv077/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",车迷体育4Gtv
-http://nmk.ioapk.com:5050/4gtv-live201/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",SMArt台4Gtv
-http://nmk.ioapk.com:5050/litv-longturn19/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",罪案侦查4Gtv
-http://nmk.ioapk.com:5050/4gtv-live027/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",霹雳布袋4Gtv
-http://nmk.ioapk.com:5050/4gtv-live145/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",金光布袋4Gtv
-http://nmk.ioapk.com:5050/4gtv-live144/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",nick动漫4Gtv
-http://nmk.ioapk.com:5050/4gtv-live032/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",nick少儿4Gtv
-http://nmk.ioapk.com:5050/4gtv-live105/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",MO-亲子4Gtv
-http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",DreamW4Gtv
-http://nmk.ioapk.com:5050/4gtv-live017/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",LUXE-TV4Gtv
-http://nmk.ioapk.com:5050/4gtv-live121/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",rock娱乐4Gtv
-http://nmk.ioapk.com:5050/4gtv-live080/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",rock电影4Gtv
-http://nmk.ioapk.com:5050/4gtv-live138/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",HItS电影4Gtv
-http://nmk.ioapk.com:5050/4gtv-live620/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",magellan4Gtv
-http://nmk.ioapk.com:5050/4gtv-live123/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",INULTRa4Gtv
-http://nmk.ioapk.com:5050/4gtv-live096/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",LifeTime4Gtv
-http://nmk.ioapk.com:5050/4gtv-live029/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",电影原声4Gtv
-http://nmk.ioapk.com:5050/4gtv-live031/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",MTVLive4Gtv
-http://nmk.ioapk.com:5050/4gtv-live025/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",PETClUB4Gtv
-http://nmk.ioapk.com:5050/4gtv-live110/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",FUN娱乐4Gtv
-http://nmk.ioapk.com:5050/4gtv-live011/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",韩国娱乐4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv016/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",GLOBAL4Gtv
-http://nmk.ioapk.com:5050/4gtv-live112/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",TV5mon4Gtv
-http://nmk.ioapk.com:5050/4gtv-live122/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",TRACEU4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv082/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",BLoomb4Gtv
-http://nmk.ioapk.com:5050/4gtv-live059/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",FRANCE4Gtv
-http://nmk.ioapk.com:5050/4gtv-live146/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",MEZZOl4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv083/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",GINX_TV4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv053/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",DW-之声4Gtv
-http://nmk.ioapk.com:5050/4gtv-live071/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",历史频道4Gtv
-http://nmk.ioapk.com:5050/4gtv-live026/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",国家地理4Gtv
-http://nmk.ioapk.com:5050/4gtv-live208/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",东森购壹4Gtv
-http://nmk.ioapk.com:5050/4gtv-live047/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",东森购壹4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv102/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",东森购壹4Gtv
-http://nmk.ioapk.com:5050/of-4gtv-4gtv102/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",东森购贰4Gtv
-http://nmk.ioapk.com:5050/4gtv-live046/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",东森购贰4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv103/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",东森购贰4Gtv
-http://nmk.ioapk.com:5050/of-4gtv-4gtv103/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",东森购叁4Gtv
-http://nmk.ioapk.com:5050/4gtv-live048/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",东森购五4Gtv
-http://nmk.ioapk.com:5050/4gtv-live049/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",中天新闻4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv009/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",中天新闻4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv009/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",寰宇新闻4Gtv
-http://nmk.ioapk.com:5050/li-litv-longturn14/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",寰宇新闻4Gtv
-http://nmk.ioapk.com:5050/of-litv-longturn14/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",东森新闻4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv152/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",tvbs新闻4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv072/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",闽镜新闻4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv075/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",民视新闻4Gtv
-http://nmk.ioapk.com:5050/li-litv-ftv13/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",中视新闻4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv074/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",中视新闻4Gtv
-http://nmk.ioapk.com:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",华视新闻4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv052/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",华视新闻4Gtv
-http://nmk.ioapk.com:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",台视新闻4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv051/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",中视闽南4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv040/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",中视闽南4Gtv
-http://nmk.ioapk.com:5050/of-4gtv-4gtv040/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",华视闽南4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv041/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",华视闽南4Gtv
-http://nmk.ioapk.com:5050/of-4gtv-4gtv041/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",台视闽南4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv066/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",寰宇闽南4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv156/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",寰宇闽南4Gtv
-http://nmk.ioapk.com:5050/of-4gtv-4gtv156/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",tvbs闽南4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv073/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",民视台湾4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv001/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",民视第一4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv003/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",民视旅游4Gtv
-http://nmk.ioapk.com:5050/li-litv-ftv07/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",民视影剧4Gtv
-http://nmk.ioapk.com:5050/li-litv-ftv09/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",民视综艺4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv004/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",中视菁采4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv064/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",中视经典4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv080/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",公视戏剧4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv042/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",闽南戏剧4Gtv
-http://nmk.ioapk.com:5050/li-litv-longturn22/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",国际财经4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv104/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",东森财经4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv153/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",寰宇财经4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv158/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",寰宇财经4Gtv
-http://nmk.ioapk.com:5050/of-4gtv-4gtv158/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",tvbs精采4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv067/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",tvbs欢乐4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv068/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",八大精彩4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv034/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",八大综艺4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv039/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",爱达娱乐4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv070/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",靖洋戏剧4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv045/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",靖洋卡通4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv057/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",靖天卡通4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv044/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",靖天综合4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv046/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",靖天日本4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv047/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",靖天欢乐4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv054/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",靖天映画4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv055/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",靖天戏剧4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv058/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",靖天电影4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv061/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",靖天育乐4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv062/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",靖天国际4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv063/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",靖天资讯4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv065/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",龙华卡通4Gtv
-http://nmk.ioapk.com:5050/li-litv-longturn01/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",龙华日韩4Gtv
-http://nmk.ioapk.com:5050/li-litv-longturn11/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",龙华偶像4Gtv
-http://nmk.ioapk.com:5050/li-litv-longturn12/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",龙华电影4Gtv
-http://nmk.ioapk.com:5050/li-litv-longturn03/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",龙华洋片4Gtv
-http://nmk.ioapk.com:5050/li-litv-longturn02/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",龙华戏剧4Gtv
-http://nmk.ioapk.com:5050/li-litv-longturn18/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",龙华经典4Gtv
-http://nmk.ioapk.com:5050/li-litv-longturn21/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",国会频壹4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv084/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",国会频壹4Gtv
-http://nmk.ioapk.com:5050/of-4gtv-4gtv084/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",国会频贰4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv085/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",国会频贰4Gtv
-http://nmk.ioapk.com:5050/of-4gtv-4gtv085/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",好消息壹4Gtv
-http://nmk.ioapk.com:5050/li-litv-ftv16/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",好消息壹4Gtv
-http://nmk.ioapk.com:5050/of-litv-ftv16/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",好消息贰4Gtv
-http://nmk.ioapk.com:5050/li-litv-ftv17/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",好消息贰4Gtv
-http://nmk.ioapk.com:5050/of-litv-ftv17/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",智林体育4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv101/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",阿里郎台4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv079/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",达文西台4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv018/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",猪哥亮厅4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv006/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",亚洲旅游4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv076/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",亚洲旅游4Gtv
-http://nmk.ioapk.com:5050/of-4gtv-4gtv076/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",美国之音4Gtv
-http://nmk.ioapk.com:5050/li-litv-ftv03/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",半岛新闻4Gtv
-http://nmk.ioapk.com:5050/li-litv-ftv10/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",影迷纪实4Gtv
-http://nmk.ioapk.com:5050/li-litv-ftv15/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",古典音乐4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv059/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",客家电视4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv043/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",华仁纪实4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv013/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",时尚运动4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv014/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",生活英语4Gtv
-http://nmk.ioapk.com:5050/li-litv-longturn20/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",生活英语4Gtv
-http://nmk.ioapk.com:5050/of-litv-longturn20/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",采昌影剧4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv049/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",数位电影4Gtv
-http://nmk.ioapk.com:5050/li-4gtv011/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",Amc电影4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv017/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",TRA体育4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv077/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",SMArt台4Gtv
-http://nmk.ioapk.com:5050/li-litv-longturn19/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",韩国娱乐4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv016/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",TRACEU4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv082/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",MEZZOl4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv083/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南4Gtv",GINX_TV4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv053/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南回放",大新闻大爆卦
-http://nmk.ioapk.com:5050/ofiii201/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南回放",闽新闻大白话
-http://nmk.ioapk.com:5050/ofiii202/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南回放",文茜世界周报
-http://nmk.ioapk.com:5050/ofiii203/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南回放",文茜财经周报
-http://nmk.ioapk.com:5050/ofiii205/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南回放",闽寰宇全视界
-http://nmk.ioapk.com:5050/ofiii204/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南回放",闽环球大战线
-http://nmk.ioapk.com:5050/ofiii206/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南回放",闽少康战情室
-http://nmk.ioapk.com:5050/ofiii207/index.m3u8?proxy=true
-#EXTINF:-1 group-title="闽南回放",闽南国民大会
-http://nmk.ioapk.com:5050/ofiii208/index.m3u8?proxy=true
 #EXTINF:-1 group-title="抖音网页",⬇️赛事抖音网页直播⬇️
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="抖音网页",⬇️新闻抖音网页直播⬇️
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="抖音网页",央视网抖直播
-http://iptv77.iptv66.eu.org:35455/bilibili/8178490
+http://8.155.43.98:35455/bilibili/8178490
 #EXTINF:-1 group-title="抖音网页",央视网快看播
-http://iptv77.iptv66.eu.org:35455/bilibili/22142427
+http://8.155.43.98:35455/bilibili/22142427
 #EXTINF:-1 group-title="抖音网页",央视七套直播
-http://iptv77.iptv66.eu.org:35455/bilibili/32558016
+http://8.155.43.98:35455/bilibili/32558016
 #EXTINF:-1 group-title="抖音网页",⬇️抖音电台直播⬇️
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="抖音网页",fm891音乐播
-http://iptv77.iptv66.eu.org:35455/bilibili/26544140
+http://8.155.43.98:35455/bilibili/26544140
 #EXTINF:-1 group-title="抖音网页",周杰伦音乐播
-http://iptv77.iptv66.eu.org:35455/bilibili/23765388
+http://8.155.43.98:35455/bilibili/23765388
 #EXTINF:-1 group-title="抖音网页",爵士音乐直播
-http://iptv77.iptv66.eu.org:35455/bilibili/543176
+http://8.155.43.98:35455/bilibili/543176
 #EXTINF:-1 group-title="抖音网页",北京朝阳街景
-http://iptv77.iptv66.eu.org:35455/bilibili/3291055
+http://8.155.43.98:35455/bilibili/3291055
 #EXTINF:-1 group-title="抖音网页",电台粤直播壹
-http://iptv77.iptv66.eu.org:35455/bilibili/31224575
+http://8.155.43.98:35455/bilibili/31224575
 #EXTINF:-1 group-title="抖音网页",电台轮直播肆
-http://iptv77.iptv66.eu.org:35455/bilibili/1836716199
+http://8.155.43.98:35455/bilibili/1836716199
 #EXTINF:-1 group-title="抖音网页",电台轮直播伍
-http://iptv77.iptv66.eu.org:35455/bilibili/26544140
+http://8.155.43.98:35455/bilibili/26544140
 #EXTINF:-1 group-title="抖音网页",电台轮直播陆
-http://iptv77.iptv66.eu.org:35455/bilibili/3291055
+http://8.155.43.98:35455/bilibili/3291055
 #EXTINF:-1 group-title="抖音网页",电台轮直播柒
-http://iptv77.iptv66.eu.org:35455/bilibili/23765388
+http://8.155.43.98:35455/bilibili/23765388
 #EXTINF:-1 group-title="抖音网页",电台轮直播捌
-http://iptv77.iptv66.eu.org:35455/bilibili/266845
+http://8.155.43.98:35455/bilibili/266845
 #EXTINF:-1 group-title="虎牙频道",放映厅播频道
 http://120.220.76.91:2003/huya.php?id=11602077
 #EXTINF:-1 group-title="虎牙频道",刘德华播频道
@@ -1917,40 +1379,6 @@ http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_880_1080P_t10/c58_fast_88
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c55_fast_879_1080P_t10/c55_fast_879_1080P_t10.m3u8?d
 #EXTINF:-1 group-title="爱奇频道",爱情生活频道
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10/c59_fast_967_1080P_t10.m3u8?d
-#EXTINF:-1 group-title="特区地波",Plus综合高码
-http://beishan008.asuscomm.com:8890/bysid/82.m3u8
-#EXTINF:-1 group-title="特区地波",有线新闻高码
-http://222.125.207.8:2095/bysid/78
-#EXTINF:-1 group-title="特区地波",有线新闻高码
-http://feng163.com:8003/bysid/78.m3u8
-#EXTINF:-1 group-title="特区地波",有线新闻高码
-http://beishan008.asuscomm.com:8891/bysid/78.m3u8
-#EXTINF:-1 group-title="特区地波",无线新闻高码
-http://beishan008.asuscomm.com:8890/bysid/83.m3u8
-#EXTINF:-1 group-title="特区地波",无线翡翠高码
-http://beishan008.asuscomm.com:8889/bysid/1.m3u8
-#EXTINF:-1 group-title="特区地波",无线明珠高码
-http://beishan008.asuscomm.com:8890/bysid/2.m3u8
-#EXTINF:-1 group-title="特区地波",有线赛讯高码
-http://222.125.207.8:2095/bysid/76
-#EXTINF:-1 group-title="特区地波",有线赛讯高码
-http://beishan008.asuscomm.com:8891/bysid/76.m3u8
-#EXTINF:-1 group-title="特区地波",有线综讯高码
-http://222.125.207.8:2095/bysid/77
-#EXTINF:-1 group-title="特区地波",有线综讯高码
-http://beishan008.asuscomm.com:8891/bysid/77.m3u8
-#EXTINF:-1 group-title="特区地波",ViuTv_粤高码
-http://beishan008.asuscomm.com:8889/bysid/99.m3u8
-#EXTINF:-1 group-title="特区地波",ViuTv_英高码
-http://beishan008.asuscomm.com:8889/bysid/96.m3u8
-#EXTINF:-1 group-title="特区地波",RTHK-31高码
-http://beishan008.asuscomm.com:8892/bysid/31.m3u8
-#EXTINF:-1 group-title="特区地波",RTHK-32高码
-http://beishan008.asuscomm.com:8892/bysid/32.m3u8
-#EXTINF:-1 group-title="特区地波",RTHK-33高码
-http://beishan008.asuscomm.com:8892/bysid/33.m3u8
-#EXTINF:-1 group-title="特区地波",RTHK-34高码
-http://beishan008.asuscomm.com:8892/bysid/34.m3u8
 #EXTINF:-1 group-title="广州电信",广州综合频道
 http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
 #EXTINF:-1 group-title="广州电信",广州新闻频道
