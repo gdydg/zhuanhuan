@@ -223,36 +223,6 @@ http://rihou.cc:555/tv/[4g]MO-亲子
 http://rihou.cc:555/tv/[4g]经典卡通
 #EXTINF:-1 group-title="闽南4Gtv",精选动漫4gtv
 http://rihou.cc:555/tv/[4g]精选动漫
-#EXTINF:-1 group-title="鲁超28赛",08-28⬇️山东省足球超级联赛⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="鲁超28赛",19:30青岛平企联青春🆚东营队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="鲁超28赛",国🔊28鲁评述
-http://rihou.cc:555/tv/28鲁超咪评述
-#EXTINF:-1 group-title="中超28赛",08-28⬇️中超联赛⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="中超28赛",19:35上海申花🆚山东泰山
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="中超28赛",国🔊28中评述
-http://rihou.cc:555/tv/28中超咪评述
-#EXTINF:-1 group-title="中超28赛",19:35大连英博🆚北京国安
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="中超28赛",国🔊28中述评
-http://rihou.cc:555/tv/28中超咪述评
-#EXTINF:-1 group-title="中超28赛",20:00深圳鹏城🆚上海海港
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="中超28赛",国🔊28中评评
-http://rihou.cc:555/tv/28中超咪评评
-#EXTINF:-1 group-title="湘超28赛",08-28⬇️湖南省足球超级联赛⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="湘超28赛",19:38长沙队🆚湘潭队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="湘超28赛",国🔊28湘评述
-http://rihou.cc:555/tv/28湘超咪评述
-#EXTINF:-1 group-title="湘超28赛",19:38岳阳队🆚衡阳队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="湘超28赛",国🔊28湘述评
-http://rihou.cc:555/tv/28湘超咪述评
 #EXTINF:-1 group-title="西甲29赛",08-29⬇️西甲联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="西甲29赛",01:00桑坦德🆚埃尔切
@@ -447,137 +417,121 @@ http://rihou.cc:555/tv/29赣超咪评评
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="赣超29赛",国🔊29赣述述
 http://rihou.cc:555/tv/29赣超咪述述
-#EXTINF:-1 group-title="赛事预告",英超30赛
+#EXTINF:-1 group-title="英超30赛",08-30⬇️英超联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="赛事预告",08-30⬇️英超联赛⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="赛事预告",00:30热刺🆚紐卡素
+#EXTINF:-1 group-title="英超30赛",00:30热刺🆚紐卡素
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="赛事预告",国🔊30英评述
+#EXTINF:-1 group-title="英超30赛",国🔊30英评述
 http://rihou.cc:555/tv/30英超咪评述
-#EXTINF:-1 group-title="赛事预告",21:00新特兰🆚富咸
+#EXTINF:-1 group-title="英超30赛",21:00新特兰🆚富咸
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="赛事预告",国🔊30英述评
+#EXTINF:-1 group-title="英超30赛",国🔊30英述评
 http://rihou.cc:555/tv/30英超咪述评
-#EXTINF:-1 group-title="赛事预告",21:00列斯联🆚屈福特
+#EXTINF:-1 group-title="英超30赛",21:00列斯联🆚屈福特
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="赛事预告",国🔊30英评评
+#EXTINF:-1 group-title="英超30赛",国🔊30英评评
 http://rihou.cc:555/tv/30英超咪评评
-#EXTINF:-1 group-title="赛事预告",21:00车路士🆚白礼顿
+#EXTINF:-1 group-title="英超30赛",21:00车路士🆚白礼顿
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="赛事预告",国🔊30英述述
+#EXTINF:-1 group-title="英超30赛",国🔊30英述述
 http://rihou.cc:555/tv/30英超咪述述
-#EXTINF:-1 group-title="赛事预告",23:30曼联🆚叶士域治
+#EXTINF:-1 group-title="英超30赛",23:30曼联🆚叶士域治
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="赛事预告",国🔊30英旁述
+#EXTINF:-1 group-title="英超30赛",国🔊30英旁述
 http://rihou.cc:555/tv/30英超咪旁述
-#EXTINF:-1 group-title="赛事预告",意甲30赛
+#EXTINF:-1 group-title="意甲30赛",08-30⬇️意甲联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="赛事预告",08-30⬇️意甲联赛⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="赛事预告",00:30莎索罗🆚拖连奴
+#EXTINF:-1 group-title="意甲30赛",00:30莎索罗🆚拖连奴
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="赛事预告",国🔊30意评述
+#EXTINF:-1 group-title="意甲30赛",国🔊30意评述
 http://rihou.cc:555/tv/30意甲咪评述
-#EXTINF:-1 group-title="赛事预告",00:30蒙扎🆚乌甸尼斯
+#EXTINF:-1 group-title="意甲30赛",00:30蒙扎🆚乌甸尼斯
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="赛事预告",国🔊30意述评
+#EXTINF:-1 group-title="意甲30赛",国🔊30意述评
 http://rihou.cc:555/tv/30意甲咪述评
-#EXTINF:-1 group-title="赛事预告",00:30费伦天拿🆚弗罗西诺内
+#EXTINF:-1 group-title="意甲30赛",00:30费伦天拿🆚弗罗西诺内
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="赛事预告",国🔊30意评评
+#EXTINF:-1 group-title="意甲30赛",国🔊30意评评
 http://rihou.cc:555/tv/30意甲咪评评
-#EXTINF:-1 group-title="赛事预告",02:45祖云达斯🆚帕尔玛
+#EXTINF:-1 group-title="意甲30赛",02:45祖云达斯🆚帕尔玛
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="赛事预告",国🔊30意述述
+#EXTINF:-1 group-title="意甲30赛",国🔊30意述述
 http://rihou.cc:555/tv/30意甲咪述述
-#EXTINF:-1 group-title="赛事预告",西甲30赛
+#EXTINF:-1 group-title="西甲30赛",08-30⬇️西甲联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="赛事预告",08-30⬇️西甲联赛⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="赛事预告",01:00皇家苏斯达🆚爱斯宾奴
+#EXTINF:-1 group-title="西甲30赛",01:00皇家苏斯达🆚爱斯宾奴
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="赛事预告",国🔊30西评述
+#EXTINF:-1 group-title="西甲30赛",国🔊30西评述
 http://rihou.cc:555/tv/30西甲咪评述
-#EXTINF:-1 group-title="赛事预告",03:30西维尔🆚马体会
+#EXTINF:-1 group-title="西甲30赛",03:30西维尔🆚马体会
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="赛事预告",国🔊30西述评
+#EXTINF:-1 group-title="西甲30赛",国🔊30西述评
 http://rihou.cc:555/tv/30西甲咪述评
-#EXTINF:-1 group-title="赛事预告",23:00皇马🆚马拉加
+#EXTINF:-1 group-title="西甲30赛",23:00皇马🆚马拉加
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="赛事预告",国🔊30西评评
+#EXTINF:-1 group-title="西甲30赛",国🔊30西评评
 http://rihou.cc:555/tv/30西甲咪评评
-#EXTINF:-1 group-title="赛事预告",德甲30赛
+#EXTINF:-1 group-title="德甲30赛",08-30⬇️德甲联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="赛事预告",08-30⬇️德甲联赛⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="赛事预告",02:30多蒙特🆚汉堡
+#EXTINF:-1 group-title="德甲30赛",02:30多蒙特🆚汉堡
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="赛事预告",国🔊30德评述
+#EXTINF:-1 group-title="德甲30赛",国🔊30德评述
 http://rihou.cc:555/tv/30德甲咪评述
-#EXTINF:-1 group-title="赛事预告",21:30费雷堡🆚云达不莱梅
+#EXTINF:-1 group-title="德甲30赛",21:30费雷堡🆚云达不莱梅
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="赛事预告",国🔊30德述评
+#EXTINF:-1 group-title="德甲30赛",国🔊30德述评
 http://rihou.cc:555/tv/30德甲咪述评
-#EXTINF:-1 group-title="赛事预告",21:30奥格斯堡🆚史浩克零四
+#EXTINF:-1 group-title="德甲30赛",21:30奥格斯堡🆚史浩克零四
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="赛事预告",国🔊30德评评
+#EXTINF:-1 group-title="德甲30赛",国🔊30德评评
 http://rihou.cc:555/tv/30德甲咪评评
-#EXTINF:-1 group-title="赛事预告",法甲30赛
+#EXTINF:-1 group-title="法甲30赛",08-30⬇️法甲联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="赛事预告",08-30⬇️法甲联赛⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="赛事预告",02:45里昂🆚勒阿弗尔
+#EXTINF:-1 group-title="法甲30赛",02:45里昂🆚勒阿弗尔
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="赛事预告",国🔊30法评述
+#EXTINF:-1 group-title="法甲30赛",国🔊30法评述
 http://rihou.cc:555/tv/30法甲咪评述
-#EXTINF:-1 group-title="赛事预告",02:45布雷斯特🆚图魯茲
+#EXTINF:-1 group-title="法甲30赛",02:45布雷斯特🆚图魯茲
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="赛事预告",国🔊30法述评
+#EXTINF:-1 group-title="法甲30赛",国🔊30法述评
 http://rihou.cc:555/tv/30法甲咪述评
-#EXTINF:-1 group-title="赛事预告",02:45欧塞尔🆚昂热
+#EXTINF:-1 group-title="法甲30赛",02:45欧塞尔🆚昂热
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="赛事预告",国🔊30法评评
+#EXTINF:-1 group-title="法甲30赛",国🔊30法评评
 http://rihou.cc:555/tv/30法甲咪评评
-#EXTINF:-1 group-title="赛事预告",02:45洛里昂🆚特鲁瓦
+#EXTINF:-1 group-title="法甲30赛",02:45洛里昂🆚特鲁瓦
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="赛事预告",国🔊30法述述
+#EXTINF:-1 group-title="法甲30赛",国🔊30法述述
 http://rihou.cc:555/tv/30法甲咪述述
-#EXTINF:-1 group-title="赛事预告",21:00巴黎FC🆚尼斯
+#EXTINF:-1 group-title="法甲30赛",21:00巴黎FC🆚尼斯
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="赛事预告",国🔊30法旁述
+#EXTINF:-1 group-title="法甲30赛",国🔊30法旁述
 http://rihou.cc:555/tv/30法甲咪旁述
-#EXTINF:-1 group-title="赛事预告",23:15雷恩🆚勒芒
+#EXTINF:-1 group-title="法甲30赛",23:15雷恩🆚勒芒
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="赛事预告",国🔊30法述旁
+#EXTINF:-1 group-title="法甲30赛",国🔊30法述旁
 http://rihou.cc:555/tv/30法甲咪述旁
-#EXTINF:-1 group-title="赛事预告",蒙超30赛
+#EXTINF:-1 group-title="蒙超30赛",08-30⬇️蒙超联赛半决赛第1回合⬇️⚽📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="赛事预告",08-30⬇️蒙超联赛半决赛第1回合⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="赛事预告",19:00包头队🆚通辽队
+#EXTINF:-1 group-title="蒙超30赛",19:00包头队🆚通辽队
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="赛事预告",国🔊30蒙评述
+#EXTINF:-1 group-title="蒙超30赛",国🔊30蒙评述
 http://rihou.cc:555/tv/30蒙超咪评述
-#EXTINF:-1 group-title="赛事预告",鲁超30赛
+#EXTINF:-1 group-title="鲁超30赛",08-30⬇️山东省足球超级联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="赛事预告",08-30⬇️山东省足球超级联赛⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="赛事预告",19:30东营队🆚临沂队
+#EXTINF:-1 group-title="鲁超30赛",19:30东营队🆚临沂队
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="赛事预告",国🔊30鲁评述
+#EXTINF:-1 group-title="鲁超30赛",国🔊30鲁评述
 http://rihou.cc:555/tv/30鲁超咪评述
-#EXTINF:-1 group-title="赛事预告",湘超30赛
+#EXTINF:-1 group-title="湘超30赛",08-30⬇️湖南省足球超级联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="赛事预告",08-30⬇️湖南省足球超级联赛⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="赛事预告",19:38张家界🆚常德队
+#EXTINF:-1 group-title="湘超30赛",19:38张家界🆚常德队
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="赛事预告",国🔊30湘评述
+#EXTINF:-1 group-title="湘超30赛",国🔊30湘评述
 http://rihou.cc:555/tv/30湘超咪评述
-#EXTINF:-1 group-title="赛事预告",19:38郴州队🆚益阳队
+#EXTINF:-1 group-title="湘超30赛",19:38郴州队🆚益阳队
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="赛事预告",国🔊30湘述评
+#EXTINF:-1 group-title="湘超30赛",国🔊30湘述评
 http://rihou.cc:555/tv/30湘超咪述评
 #EXTINF:-1 group-title="赛事预告",意甲31赛
 http://rihou.cc:555/tv/t
@@ -650,23 +604,23 @@ http://rihou.cc:555/tv/01英超咪评述
 #EXTINF:-1 group-title="赛事精锦",⬇️各大赛事精锦⬇️
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="赛事精锦",联赛赛事回放
-http://rihou.cc:555/tv/联赛回放赛28
+http://rihou.cc:555/tv/联赛回放赛29
 #EXTINF:-1 group-title="赛事精锦",NBA赛事回放
-http://rihou.cc:555/tv/NBA回放赛28
+http://rihou.cc:555/tv/NBA回放赛29
 #EXTINF:-1 group-title="赛事精锦",羽球赛事回放
-http://rihou.cc:555/tv/羽球回放赛28
+http://rihou.cc:555/tv/羽球回放赛29
 #EXTINF:-1 group-title="赛事精锦",橄球赛事回放
-http://rihou.cc:555/tv/橄球回放赛28
+http://rihou.cc:555/tv/橄球回放赛29
 #EXTINF:-1 group-title="赛事精锦",乒球赛事回放
-http://rihou.cc:555/tv/乒球回放赛28
+http://rihou.cc:555/tv/乒球回放赛29
 #EXTINF:-1 group-title="赛事精锦",网球赛事回放
-http://rihou.cc:555/tv/网球回放赛28
+http://rihou.cc:555/tv/网球回放赛29
 #EXTINF:-1 group-title="赛事精锦",排球赛事回放
-http://rihou.cc:555/tv/排球回放赛28
+http://rihou.cc:555/tv/排球回放赛29
 #EXTINF:-1 group-title="赛事精锦",格斗赛事回放
-http://rihou.cc:555/tv/格斗回放赛28
+http://rihou.cc:555/tv/格斗回放赛29
 #EXTINF:-1 group-title="赛事精锦",斯赛赛事回放
-http://rihou.cc:555/tv/斯赛回放赛28
+http://rihou.cc:555/tv/斯赛回放赛29
 #EXTINF:-1 group-title="央卫咪咕",CCTV-01咪咕
 http://42.234.218.26:7788/608807420
 #EXTINF:-1 group-title="央卫咪咕",CCTV-02咪咕
@@ -1110,9 +1064,9 @@ https://pull.dxhmt.cn/tv/168666456yinyue123477.flv
 #EXTINF:-1 group-title="欣赏频道",经典音乐频道
 https://pull.dxhmt.cn/tv/168666456yinyuy123477.flv
 #EXTINF:-1 group-title="网页音乐",音乐库仓抖播
-http://rihou.cc:555/tv/音乐库仓抖28
+http://rihou.cc:555/tv/音乐库仓抖29
 #EXTINF:-1 group-title="网页音乐",音乐仓库抖播
-http://rihou.cc:555/tv/音乐仓库抖28
+http://rihou.cc:555/tv/音乐仓库抖29
 #EXTINF:-1 group-title="欣赏音乐",⬇️刘德华<今日>演唱会精彩片段⬇️
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="欣赏音乐",今日演唱会上
