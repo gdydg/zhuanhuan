@@ -509,10 +509,32 @@ http://rihou.cc:555/tv/v
 http://rihou.cc:555/tv/06法甲咪述述
 #EXTINF:-1 group-title="桂超06赛",09-06⬇️桂超1/4决赛首回合⬇️⚽📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="桂超06赛",16:20贵港浔郁🆚广西漓泉天龍
+#EXTINF:-1 group-title="桂超06赛",15:50北海合浦金风科技🆚柳州龙城
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="桂超06赛",国🔊06桂评述
 http://rihou.cc:555/tv/06桂超咪评述
+#EXTINF:-1 group-title="桂超06赛",16:20南宁市东方外语高级中学🆚贺州青年人
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="桂超06赛",国🔊06桂述评
+http://rihou.cc:555/tv/06桂超咪述评
+#EXTINF:-1 group-title="桂超06赛",16:50广西燕京民大🆚广西平果辉荣
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="桂超06赛",国🔊06桂评评
+http://rihou.cc:555/tv/06桂超咪评评
+#EXTINF:-1 group-title="鲁超06赛",09-06⬇️山东省足球超级联赛⬇️⚽📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="鲁超06赛",16:30临沂队🆚滨州创新队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="鲁超06赛",国🔊06鲁评述
+http://rihou.cc:555/tv/06鲁超咪评述
+#EXTINF:-1 group-title="鲁超06赛",19:30威海文旅集团队🆚东营队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="鲁超06赛",国🔊06鲁述评
+http://rihou.cc:555/tv/06鲁超咪述评
+#EXTINF:-1 group-title="鲁超06赛",19:30威海文旅集团队🆚东营队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="鲁超06赛",国🔊06鲁评评
+http://rihou.cc:555/tv/06鲁超咪评评
 #EXTINF:-1 group-title="中超06赛",09-06⬇️中超联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="中超06赛",19:00重庆铜梁🆚上海申花
@@ -531,6 +553,22 @@ http://rihou.cc:555/tv/06中超咪评评
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="中超06赛",国🔊06中述述
 http://rihou.cc:555/tv/06中超咪述述
+#EXTINF:-1 group-title="赣超06赛",09-06⬇️江西省足球超级联赛⬇️⚽📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="赣超06赛",20:00上饶队🆚九江队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="赣超06赛",国🔊06赣评述
+http://rihou.cc:555/tv/06赣超咪评述
+#EXTINF:-1 group-title="赣超06赛",20:00河南俱乐🆚成都蓉城
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="赣超06赛",国🔊06赣述评
+http://rihou.cc:555/tv/06赣超咪述评
+#EXTINF:-1 group-title="女篮06赛",09-06⬇️女篮世界杯赛⬇️🏀📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="女篮06赛",20:30中国女篮🆚捷克女篮
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="女篮06赛",国🔊06篮评述
+http://rihou.cc:555/tv/06女篮咪评述
 #EXTINF:-1 group-title="赛事预告",意甲07赛
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="赛事预告",09-07⬇️意甲联赛⬇️⚽📡
